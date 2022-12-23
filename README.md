@@ -15,7 +15,9 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" title="BI" alt="BI" width="60" height="60"/>&nbsp;
   <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" title="TBL" alt="TBL" width="60" height="60"/>&nbsp;  
 </div>
+
 ---
-У меня также есть визуальное портфолио, где я храню свои дашборды: <a href="http://project6509332.tilda.ws/"> <img src="https://ux.pub/images/Prq1_UrIrHfntrLFbv4-R3ikvUyB9oUlQ6kQlOe5ze8/s:1600:900/mb:500000/ar:1/aHR0cDovL29sZC51/eC5wdWIvd3AtY29u/dGVudC91cGxvYWRz/LzIwMjAvMDQvMS0z/LmpwZWc" alt="vp" width="90" height="60"> </a>
+
+У меня также есть визуальное портфолио, где я храню свои дашборды: <a href="http://project6509332.tilda.ws/">http://project6509332.tilda.ws/</a>
 
 
