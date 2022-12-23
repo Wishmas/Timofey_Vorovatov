@@ -1,14 +1,13 @@
-<b>Меня зовут Тимофей. Я начинающий аналитик данных. На этой страницы собраны мои пет-проекты, выполненные самостоятельно или в рамках курса Яндекс Практикум.</b>
+<b>Меня зовут Тимофей. На этой страницы собраны мои пет-проекты, преимущественно связанные с ДС и анализом данных.</b>
 
 ---
 
-Основные инструменты, с которыми я работал на сегодняшний день:
+Мой стек технологий:
 
 - Python (pandas, matplotlib, seaborn, plotly, numpy, scipy)
 - SQL (преимущественно - Postgresql)
 - Tableau и Power BI 
-
-
+- MS Excel
 
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/jupyter/jupyter-original.svg" title="JN" alt="JN" width="50" height="50"/>&nbsp;
@@ -22,7 +21,3 @@
 ---
 
 У меня также есть визуальное портфолио, где я храню свои дашборды: <a href="http://project6509332.tilda.ws/">http://project6509332.tilda.ws/</a>
-
-
-
-
