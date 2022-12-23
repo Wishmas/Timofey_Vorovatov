@@ -2,7 +2,7 @@
 
 ---
 
-Мой стек технологий:
+<b>Мой стек технологий:</b>
 
 - Python (pandas, matplotlib, seaborn, plotly, numpy, scipy)
 - SQL (преимущественно - Postgresql)
