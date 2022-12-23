@@ -16,6 +16,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/postgresql/postgresql-original.svg" title="PGS" alt="PGS" width="50" height="50"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/630px-New_Power_BI_Logo.svg.png" title="BI" alt="BI" width="50" height="50"/>&nbsp;
   <img src="https://www.lib.washington.edu/dataservices/images/Tableau_Software_logo.png/image" title="TBL" alt="TBL" width="50" height="50"/>&nbsp;  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/2203px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png" title="EX" alt="EX" width="50" height="50"/>&nbsp;  
 </div>
 
 ---
