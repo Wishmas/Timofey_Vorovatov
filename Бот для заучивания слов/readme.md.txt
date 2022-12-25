@@ -1,1 +1,0 @@
-![preview])(bot_gif.gif)
