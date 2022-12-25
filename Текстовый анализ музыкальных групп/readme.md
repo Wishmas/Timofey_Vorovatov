@@ -12,9 +12,9 @@
 
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/DIO_%28band%29_logo.svg" title="dio" alt="dio" width="90" height="60"/>&nbsp;
-    <img src="https://i.pinimg.com/originals/5a/9e/35/5a9e357fa98ace21a78236d3eca765cc.png" title="jp" alt="jp" width="90" height="60"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Judas_priest_logo.png" title="jp" alt="jp" width="90" height="60"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/ManowarLogo.svg/2560px-ManowarLogo.svg.png" title="mw" alt="mw" width="90" height="60"/>&nbsp;
-    <img src="https://images.squarespace-cdn.com/content/v1/583863c1e6f2e1216884123c/1607892277476-I756PP68WRZOTVKQINQY/logo.png" title="im" alt="im" width="90" height="60"/>&nbsp;
+    <img src="https://1000logos.net/wp-content/uploads/2017/02/logo-iron-maiden.png" title="im" alt="im" width="90" height="60"/>&nbsp;
     <img src="https://static.spacecrafted.com/ff1f5d4331b44f98b9df1c6548941a7b/i/ea6d69779dff4e74972467bea7883ef8/1/5feFb8zhrk/mercy-logo.png" title="mf" alt="mf" width="90" height="60"/>&nbsp;
 </div>
 
