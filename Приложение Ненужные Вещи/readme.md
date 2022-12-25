@@ -10,7 +10,7 @@
 
 ---
 
-Для наглядного представления результатов исследования были также подготовлены <a href=" https://drive.google.com/file/d/1LW1d9_ye7WAjQTV_RtNO-cEepkRMP4yn/view?usp=sharing">презентация</a> и 
-<a href=" https://public.tableau.com/app/profile/wishmas/viz/__16716395834220/Dashboard1?publish=yes">дашборд</a>, выполненный в Tableau.
+Для наглядного представления результатов исследования были также подготовлены <a href="https://drive.google.com/file/d/1LW1d9_ye7WAjQTV_RtNO-cEepkRMP4yn/view?usp=sharing">презентация</a> и 
+<a href="https://public.tableau.com/app/profile/wishmas/viz/__16716395834220/Dashboard1?publish=yes">дашборд</a>, выполненный в Tableau.
 
 
