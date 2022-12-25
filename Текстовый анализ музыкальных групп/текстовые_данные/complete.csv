@@ -1,0 +1,4305 @@
+;count;stem;variants;as_noun;as_ajct;as_verb;as_other
+0;690;oh;oh;132;219;80;259
+1;489;one;one / ones;131;0;0;358
+2;485;come;come / comes / coming;17;9;459;0
+3;471;never;never;0;0;0;471
+4;452;die;die / died / dying / dies;85;4;362;1
+5;451;know;know / knows / knowing;1;3;447;0
+6;445;night;night / nights;445;0;0;0
+7;427;time;time / times / timing;427;0;0;0
+8;403;live;live / living / lives / lived;123;31;249;0
+9;402;see;see / seeing / sees;8;1;393;0
+10;366;go;go / going;1;0;365;0
+11;348;like;like / likes / liked / likely;0;5;16;327
+12;334;fight;fight / fighting / fights;137;9;174;14
+13;311;take;take / takes / taking;6;1;304;0
+14;289;away;away;0;0;0;289
+15;282;get;get / getting / gets;13;0;269;0
+16;277;feel;feel / feeling / feels / feelings;50;0;227;0
+17;276;world;world / worlds;276;0;0;0
+18;268;fire;fire / fires / fired / firing;253;0;15;0
+19;261;blood;blood / bloods;242;17;2;0
+20;250;us;us;0;0;0;250
+21;249;run;run / running / runs;38;4;205;2
+22;248;ride;ride / riding / rides;103;3;135;7
+23;244;way;way / ways;244;0;0;0
+24;238;let;let / letting / lets;36;2;200;0
+25;237;look;look / looking / looks / looked;71;0;166;0
+26;234;life;life;234;0;0;0
+27;234;eye;eyes / eye / eyed;230;0;3;1
+28;234;hell;hell;201;1;31;1
+29;232;yeah;yeah;156;16;17;43
+30;231;heart;heart / hearts / hearted;225;0;6;0
+31;226;day;day / days;226;0;0;0
+32;222;dream;dream / dreams / dreaming / dreamed;185;4;27;6
+33;212;stand;stand / standing / stands;71;0;140;1
+34;212;burn;burning / burn / burns / burned;34;1;173;4
+35;211;light;light / lights / lighting;127;74;10;0
+36;210;kill;kill / killing / kills / killed;50;0;160;0
+37;208;man;man;208;0;0;0
+38;205;power;power / powers / powerful;202;3;0;0
+39;204;say;say / saying / says;0;0;204;0
+40;204;god;god / gods;182;7;15;0
+41;203;black;black / blackness / blacked;6;196;1;0
+42;202;dark;dark / darkness;150;49;1;2
+43;196;wait;waiting / wait / waits / waited;34;1;161;0
+44;189;want;want / wants / wanted / wanting;2;1;186;0
+45;187;back;back / backed / backs;26;5;7;149
+46;186;hand;hand / hands;185;0;1;0
+47;186;wind;wind / winds / winding;177;0;7;2
+48;184;metal;metal;174;8;2;0
+49;183;hear;hear / hears / hearing;8;7;161;7
+50;181;call;call / calling / called / calls;51;2;128;0
+51;179;make;make / makes / making;7;0;172;0
+52;173;turn;turn / turning / turned / turns;15;0;158;0
+53;173;fall;fall / falling / falls;29;0;143;1
+54;172;evil;evil / evils;56;91;19;6
+55;170;soul;soul / souls;154;5;7;4
+56;167;alway;always;0;0;0;167
+57;165;love;love / loving / loved / loves;88;2;67;8
+58;164;sky;sky / skies;151;10;3;0
+59;158;give;give / giving / gives;1;7;150;0
+60;157;insid;inside;12;2;2;141
+61;157;mind;mind / minds / minded;151;0;6;0
+62;154;dead;dead;11;138;5;0
+63;154;free;free;0;151;3;0
+64;153;death;death;153;0;0;0
+65;152;end;end / ends / ending / ended;103;1;48;0
+66;151;well;well;17;0;3;131
+67;146;right;right / rights / rightful / rightness;47;41;2;56
+68;145;fli;fly / flies / flying;34;1;110;0
+69;144;scream;scream / screaming / screams / screamed;59;3;82;0
+70;143;head;head / heads / heading;130;1;12;0
+71;143;fear;fear / fears / feared / fearing;118;4;21;0
+72;141;bring;bring / brings / bringing;6;0;134;1
+73;138;lie;lies / lie / lying / lied;71;6;61;0
+74;138;pain;pain;121;1;15;1
+75;137;tell;tell / tells / telling;4;2;128;3
+76;137;hail;hail / hailed;97;27;13;0
+77;136;caus;cause / causing;104;0;31;1
+78;135;would;would;0;0;0;135
+79;135;steel;steel;135;0;0;0
+80;135;could;could;0;0;0;135
+81;130;rock;rock / rocking / rocks;79;0;50;1
+82;130;play;play / playing / played / plays;32;0;97;1
+83;128;anoth;another;0;0;0;128
+84;125;believ;believe / believed / believes / believer / believers / believing;4;0;121;0
+85;125;heaven;heaven / heavens;47;22;20;36
+86;125;last;last / lasts / lasting;0;124;1;0
+87;124;forev;forever;36;1;2;85
+88;124;roll;roll / rolling / rolls / rolled;63;0;61;0
+89;123;king;king / kings;81;5;37;0
+90;119;face;face / faces / faced / facing;34;0;85;0
+91;118;tri;try / trying / tried / tries;15;0;102;1
+92;116;name;name / names;115;0;1;0
+93;113;demon;demon / demons / demonizer / demonic;103;8;2;0
+94;113;around;around;0;0;0;113
+95;113;leav;leave / leaving / leaves;7;1;105;0
+96;112;war;war / wars;112;0;0;0
+97;112;still;still / stillness / stills;1;0;1;110
+98;111;cri;cry / cries / crying / cried;48;0;63;0
+99;111;thing;things / thing;111;0;0;0
+100;111;devil;devil / devils;97;12;2;0
+101;108;watch;watch / watching / watched / watches;15;0;92;1
+102;106;break;break / breaking / breaks;13;0;89;4
+103;106;place;place / places / placed;102;0;4;0
+104;106;men;men;106;0;0;0
+105;105;find;find / finding;0;0;105;0
+106;105;sun;sun / suns;101;1;3;0
+107;105;holi;holy;36;63;6;0
+108;104;born;born / borne;30;1;73;0
+109;103;better;better;0;64;0;39
+110;103;son;son / sons;102;1;0;0
+111;100;must;must;0;0;0;100
+112;99;think;think / thinking;13;0;86;0
+113;93;carri;carry / carried / carrying / carries;52;0;41;0
+114;93;hold;hold / holding / holds;15;1;77;0
+115;92;show;show / showing / shows;22;0;70;0
+116;91;walk;walk / walking / walked / walks;14;0;77;0
+117;91;long;long / longing;0;38;2;51
+118;91;shall;shall;0;0;0;91
+119;91;made;made;0;0;91;0
+120;90;sword;sword / swords;89;1;0;0
+121;90;side;side / sides;88;0;2;0
+122;90;keep;keep / keeps / keeping;5;0;85;0
+123;89;lost;lost;0;2;87;0
+124;88;gone;gone;0;0;88;0
+125;88;old;old;0;88;0;0
+126;87;need;need / needs / needed;12;0;74;1
+127;86;rise;rise / rising / rises;18;0;68;0
+128;85;good;good / goods / goodness;8;76;1;0
+129;85;brother;brothers / brother;83;0;1;1
+130;85;hide;hide / hiding;25;0;59;1
+131;84;deep;deep;8;49;9;18
+132;84;noth;nothing;84;0;0;0
+133;84;high;high;3;80;1;0
+134;82;said;said;0;0;82;0
+135;82;battl;battle / battles;82;0;0;0
+136;81;word;words / word;81;0;0;0
+137;81;stay;stay / stays / stayed / staying;6;3;72;0
+138;80;seem;seems / seem / seemed;4;0;76;0
+139;79;begin;begin / begins / beginning / beginnings;21;0;58;0
+140;79;someon;someone;79;0;0;0
+141;79;ever;ever;0;0;0;79
+142;78;heavi;heavy;1;77;0;0
+143;78;everi;every;0;0;0;78
+144;77;bodi;body / bodies;73;0;4;0
+145;77;alon;alone;4;3;0;70
+146;77;aliv;alive;0;74;3;0
+147;77;magic;magic / magical;39;34;3;1
+148;77;gun;gun / guns;74;0;3;0
+149;74;move;move / moves / moving / moved;15;0;58;1
+150;74;two;two;0;0;0;74
+151;74;land;land / lands / landing;71;0;3;0
+152;74;sea;sea / seas;72;0;2;0
+153;74;tonight;tonight;35;16;21;2
+154;73;air;air;73;0;0;0
+155;72;open;open / opened / opens / opening;2;45;25;0
+156;72;chang;change / changes / changing / changed;34;0;38;0
+157;72;ground;ground;72;0;0;0
+158;72;new;new;0;72;0;0
+159;71;ye;yes / ye;24;3;11;33
+160;71;upon;upon;0;0;1;70
+161;71;heard;heard;8;2;58;3
+162;70;angel;angel / angels / angeles;48;5;7;10
+163;70;left;left;3;3;64;0
+164;69;sin;sin / sins / sinned;61;2;6;0
+165;69;hey;hey;32;11;26;0
+166;69;friend;friend / friends;64;1;4;0
+167;68;star;star / stars;62;0;6;0
+168;68;shoot;shoot / shooting / shoots;34;12;22;0
+169;68;sign;sign / signs;68;0;0;0
+170;66;seen;seen;0;0;66;0
+171;66;glori;glory;64;2;0;0
+172;66;pleas;please / pleased / pleases / pleasing;17;16;33;0
+173;65;children;children;65;0;0;0
+174;65;till;till;12;1;21;31
+175;65;wheel;wheels / wheel;64;0;1;0
+176;65;realli;really;0;0;0;65
+177;64;stop;stop / stops / stopping / stopped;9;2;53;0
+178;63;rain;rain / raining;55;1;7;0
+179;63;thunder;thunder / thunderer;58;3;2;0
+180;63;save;save / saved / saving / saves;1;1;61;0
+181;63;shadow;shadows / shadow;54;4;5;0
+182;63;warrior;warriors / warrior;50;13;0;0
+183;63;togeth;together;0;0;0;63
+184;62;start;start / starts / started / starting;16;0;46;0
+185;62;girl;girl / girls;50;2;10;0
+186;62;sing;sing / singing / singe / sings;6;0;56;0
+187;61;sound;sound / sounds / sounded;48;5;8;0
+188;60;white;white;0;60;0;0
+189;60;line;line / lines / linings / lining;60;0;0;0
+190;60;home;home / homing / homes;51;2;3;4
+191;60;peopl;people / peoples;60;0;0;0
+192;60;even;even / evening / evenings;4;0;15;41
+193;59;done;done;0;0;59;0
+194;59;true;true;0;59;0;0
+195;59;voic;voices / voice / voiced;58;0;1;0
+196;59;reach;reach / reaching / reached / reaches;12;0;47;0
+197;58;cold;cold;14;42;2;0
+198;58;road;road / roads;58;0;0;0
+199;58;without;without;0;0;0;58
+200;58;silent;silent / silently;1;55;1;1
+201;57;rememb;remember;0;0;57;0
+202;57;someth;something / somethings;57;0;0;0
+203;57;mani;many;0;57;0;0
+204;57;across;across;0;0;0;57
+205;57;littl;little;0;57;0;0
+206;57;hous;house / houses;57;0;0;0
+207;56;care;care / cares / carefully / careful;30;1;23;2
+208;56;year;years / year;56;0;0;0
+209;56;cross;cross / crossing / crossed / crosses;33;0;22;1
+210;56;brave;brave;13;16;26;1
+211;56;bad;bad;0;56;0;0
+212;55;might;might;0;0;0;55
+213;55;hope;hope / hopes / hoping / hoped / hopefully;31;0;23;1
+214;55;final;final / finally;0;50;0;5
+215;55;law;law / laws / lawful;54;1;0;0
+216;55;soon;soon;0;0;0;55
+217;54;spirit;spirit / spirits;49;4;1;0
+218;54;readi;ready;4;50;0;0
+219;53;unit;united / units / uniting / unit;5;39;9;0
+220;53;chain;chains / chain / chained;47;0;6;0
+221;53;earth;earth;46;0;3;4
+222;52;wall;wall / walls;50;1;1;0
+223;52;sail;sail / sailed / sails / sailing;15;2;35;0
+224;52;set;set / setting / sets;4;0;48;0
+225;52;song;song / songs;52;0;0;0
+226;52;put;put / putting / puts;2;0;50;0
+227;51;thi;thy;4;47;0;0
+228;51;came;came;0;0;51;0
+229;50;mad;madness / mad;38;11;0;1
+230;50;along;along;0;1;0;49
+231;50;grave;grave / graves;45;3;2;0
+232;49;much;much;0;41;0;8
+233;49;full;full;0;49;0;0
+234;49;great;great / greatness;6;42;1;0
+235;49;uh;uh;4;45;0;0
+236;49;eat;eat / eating / eats;18;1;27;3
+237;49;morn;morning / morn;45;4;0;0
+238;49;number;number / numbers / numbered;48;1;0;0
+239;49;rainbow;rainbow / rainbows;48;0;1;0
+240;49;caught;caught;18;2;27;2
+241;48;sleep;sleep / sleeping / sleeps;25;3;17;3
+242;48;tear;tears / tear / tearing;34;2;11;1
+243;48;mayb;maybe;1;0;1;46
+244;47;damn;damned / damn;5;22;17;3
+245;47;game;game / games;47;0;0;0
+246;47;door;door / doors;44;0;3;0
+247;46;today;today;46;0;0;0
+248;46;afraid;afraid;4;37;5;0
+249;46;pass;passing / pass / passed / passes;6;0;40;0
+250;46;spell;spell / spells / spelled;44;0;2;0
+251;46;flame;flame / flames;45;1;0;0
+252;46;rais;raise / raised / raising / raises;5;0;41;0
+253;46;ah;ah;36;6;3;1
+254;45;meet;meet / meeting / meets;8;2;33;2
+255;45;touch;touch / touches / touched / touching;27;1;13;4
+256;45;near;near / nears;0;4;1;40
+257;45;mean;mean / means / meaning;5;11;29;0
+258;45;fate;fate / fates / fateful;43;1;1;0
+259;45;lose;lose / losing;0;0;45;0
+260;45;midnight;midnight / midnights;34;0;11;0
+261;45;wild;wild;4;39;1;1
+262;45;saw;saw;0;0;45;0
+263;45;real;real;0;45;0;0
+264;44;hard;hard;1;42;0;1
+265;44;drink;drink / drinking;11;0;33;0
+266;44;cut;cut / cutting / cuts;18;0;26;0
+267;44;ask;asking / ask / asked / asks;5;0;39;0
+268;44;shake;shake / shaking / shakes;5;0;39;0
+269;44;first;first;0;35;0;9
+270;44;fast;fast / fasting;2;18;3;21
+271;44;stone;stone / stoned / stones;23;2;19;0
+272;44;water;water;44;0;0;0
+273;44;brain;brain / brains;44;0;0;0
+274;44;child;child;37;7;0;0
+275;43;behind;behind;0;0;0;43
+276;43;hero;heroes / hero;42;0;1;0
+277;43;seventh;seventh;0;43;0;0
+278;43;big;big;0;43;0;0
+279;43;fever;fever / fevered;20;5;5;13
+280;43;etern;eternal / eternity / eternally / eternities;19;20;2;2
+281;42;truth;truth;41;0;1;0
+282;42;fill;fill / filled / fills / filling;1;4;37;0
+283;42;window;window / windows;41;1;0;0
+284;42;hook;hooks / hooked;19;0;23;0
+285;42;lead;lead / leading / leads;12;2;28;0
+286;42;close;close / closing / closed / closes;2;8;17;15
+287;41;solo;solo;26;9;3;3
+288;41;strong;strong;0;41;0;0
+289;41;point;point / points / pointing;33;0;8;0
+290;41;storm;storm / storming;39;0;2;0
+291;41;control;control / controls;23;0;18;0
+292;41;listen;listen / listening / listened;4;4;32;1
+293;41;far;far;0;0;0;41
+294;40;fool;fool / fools / fooling;35;2;2;1
+295;40;hammer;hammer / hammers / hammering;34;4;2;0
+296;40;feed;feed / feeds / feeding;18;1;21;0
+297;40;pray;pray / praying / prays;9;1;29;1
+298;40;guid;guide / guiding / guides;13;8;19;0
+299;40;sunset;sunset;17;0;23;0
+300;40;lord;lord / lords;33;4;2;1
+301;40;planet;planet / planets;40;0;0;0
+302;40;goe;goes;0;0;40;0
+303;40;within;within;0;0;0;40
+304;40;woman;woman;40;0;0;0
+305;39;strike;strike / striking / strikes;13;0;26;0
+306;39;straight;straight;4;10;17;8
+307;39;danc;dance / dancing / dances / danced;14;0;25;0
+308;39;hot;hot;0;38;1;0
+309;39;win;win / wins / winning;1;0;38;0
+310;39;smile;smile / smiles / smiling / smiled;19;6;14;0
+311;39;shine;shine / shining / shines;9;0;30;0
+312;39;diamond;diamonds / diamond;39;0;0;0
+313;39;round;round / rounds;25;2;7;5
+314;38;found;found / founded;0;0;38;0
+315;38;wrong;wrong;1;36;1;0
+316;38;wonder;wonder / wondering / wondered / wonderful;4;2;31;1
+317;38;pay;pay / paying;5;0;33;0
+318;38;blind;blind / blinded / blinding;7;7;16;8
+319;37;master;master / masters / mastered;35;1;1;0
+320;37;help;help / helping / helps / helped;14;0;22;1
+321;37;promis;promised / promises / promise / promising;17;2;18;0
+322;37;answer;answer / answers / answered / answerable;30;1;6;0
+323;37;kingdom;kingdom / kingdoms;33;1;1;2
+324;36;nightmar;nightmare / nightmares;29;4;2;1
+325;36;hall;hall / halls;36;0;0;0
+326;36;defend;defender / defenders / defend / defending;26;1;9;0
+327;36;mountain;mountain / mountains;36;0;0;0
+328;36;learn;learn / learned / learning;3;0;33;0
+329;36;use;used / use / using;4;0;29;3
+330;36;stain;stained / stains / stain;2;4;30;0
+331;36;satan;satan;14;19;3;0
+332;36;beast;beast / beasts;35;1;0;0
+333;36;dawn;dawn / dawning;32;0;4;0
+334;35;red;red;1;32;2;0
+335;35;strang;strange;1;29;5;0
+336;35;hill;hill / hills;35;0;0;0
+337;35;matter;matter / matters;29;1;2;3
+338;35;breath;breath / breathing / breathe;21;0;14;0
+339;35;mine;mine;5;25;4;1
+340;35;victori;victory;33;2;0;0
+341;35;sworn;sworn;1;1;33;0
+342;34;chanc;chance / chances;34;0;0;0
+343;34;cloud;clouds / cloud;30;2;2;0
+344;34;hate;hate / hates / hated / hating;20;0;14;0
+345;34;sometim;sometimes / sometime;0;0;1;33
+346;34;wish;wish / wishes / wishing / wished;19;4;11;0
+347;34;gate;gates / gate;26;0;8;0
+348;34;odin;odin;8;14;7;5
+349;34;thought;thought / thoughts;9;0;25;0
+350;34;laugh;laugh / laughed / laughing / laughs;14;2;15;3
+351;34;wake;wake / wakes / waking;9;0;25;0
+352;33;leather;leather / leathered;24;3;0;6
+353;33;none;none;30;0;3;0
+354;33;ring;ring / rings / ringing;24;0;9;0
+355;33;hungri;hungry;15;18;0;0
+356;33;tomorrow;tomorrow;33;0;0;0
+357;33;excit;exciter / excitement / excited / excite / excites;30;1;2;0
+358;33;bell;bell / belle;32;0;1;0
+359;33;young;young;0;33;0;0
+360;33;citi;city / cities;33;0;0;0
+361;33;book;book / books;33;0;0;0
+362;33;understand;understand / understanding;6;6;21;0
+363;33;street;streets / street;33;0;0;0
+364;32;ghost;ghost / ghosts;32;0;0;0
+365;32;seven;seven;0;0;0;32
+366;32;crazi;crazy;7;23;2;0
+367;32;send;send / sending / sends;1;0;31;0
+368;32;superman;superman;13;18;1;0
+369;32;vic;vic;2;28;0;2
+370;32;pride;pride;23;1;7;1
+371;32;smoke;smoke / smoking;21;2;9;0
+372;32;four;four;0;0;0;32
+373;32;lightn;lightning;9;1;22;0
+374;32;father;father / fathers / fathered;22;2;2;6
+375;31;moon;moon;30;0;0;1
+376;31;mysteri;mystery / mysterious / mysteries;28;3;0;0
+377;31;memori;memories / memory;31;0;0;0
+378;31;nobodi;nobody;30;1;0;0
+379;31;anymor;anymore;1;0;1;29
+380;31;curs;curse / cursed / curses;28;0;3;0
+381;31;lay;lay / laying / lays;3;0;27;1
+382;31;return;return / returned / returns;10;0;21;0
+383;31;arm;arms / armed / arm;24;0;7;0
+384;31;kind;kind;31;0;0;0
+385;31;wing;wings / wing;30;0;1;0
+386;30;sight;sight / sights / sighted;27;1;2;0
+387;30;bright;bright;6;22;1;1
+388;30;took;took;0;0;30;0
+389;30;shame;shame;21;3;6;0
+390;30;nowher;nowhere;0;0;3;27
+391;30;guilti;guilty;0;30;0;0
+392;30;eriel;eriel;18;6;6;0
+393;30;shout;shout / shouted / shouts / shouting;8;0;15;7
+394;30;drive;driving / drive / drives;8;0;22;0
+395;30;twist;twisted / twisting / twist / twists;3;7;20;0
+396;29;wast;waste / wasted / wasting / wastes;6;4;15;4
+397;29;bless;blessing / blessed / bless / blessings / blesses;5;0;23;1
+398;29;saint;saints / saint;29;0;0;0
+399;29;sinner;sinner / sinners;28;0;1;0
+400;29;eagl;eagles / eagle / eagled;25;0;4;0
+401;29;lock;lock / locked;5;0;24;0
+402;29;load;loaded / load;11;6;12;0
+403;29;hors;horse / horses;29;0;0;0
+404;29;fought;fought;6;2;21;0
+405;29;blade;blade / blades;24;2;2;1
+406;29;pleasur;pleasure / pleasures;24;5;0;0
+407;29;h;h;27;1;1;0
+408;29;bullet;bullet / bullets;29;0;0;0
+409;28;witch;witch / witches;22;0;6;0
+410;28;vella;vella;28;0;0;0
+411;28;ooh;ooh;11;4;5;8
+412;28;sent;sent;1;0;27;0
+413;28;crack;crack / cracks / cracked;14;0;14;0
+414;28;knee;knees / knee;28;0;0;0
+415;28;rose;rose / roses;1;0;27;0
+416;28;everyon;everyone;28;0;0;0
+417;28;thousand;thousand / thousands;16;4;2;6
+418;28;honour;honour;28;0;0;0
+419;28;surviv;survive / survival / survives / survived;4;5;19;0
+420;27;secret;secret / secrets;14;13;0;0
+421;27;everybodi;everybody;27;0;0;0
+422;27;town;town;27;0;0;0
+423;27;stranger;strangers / stranger;27;0;0;0
+424;27;quick;quick;6;19;2;0
+425;27;immort;immortal / immortality / immortals;9;17;1;0
+426;27;late;late / lately;0;13;0;14
+427;27;told;told;0;0;27;0
+428;27;fortun;fortunes / fortune / fortunate;26;1;0;0
+429;27;blow;blow / blows;13;0;12;2
+430;27;hang;hanging / hang / hangs / hanged / hange;7;1;19;0
+431;27;circl;circle / circles / circling;25;0;2;0
+432;26;blaze;blazing / blaze / blazed;13;0;13;0
+433;26;six;six / sixes;0;0;0;26
+434;26;rule;rule / rules / ruling / ruled;15;0;11;0
+435;26;taken;taken;0;0;26;0
+436;26;sure;sure / surely;2;18;1;5
+437;26;worth;worth;1;12;0;13
+438;26;stori;story / stories;26;0;0;0
+439;26;faith;faith / faithful;19;6;1;0
+440;26;race;race / racing / raced;21;0;5;0
+441;26;second;second / seconds;12;14;0;0
+442;26;higher;higher;0;23;0;3
+443;26;feet;feet;26;0;0;0
+444;26;insan;insane / insanity;20;4;2;0
+445;26;past;past;8;11;0;7
+446;26;somewher;somewhere;0;0;0;26
+447;25;sacr;sacred;0;21;4;0
+448;25;freedom;freedom;22;3;0;0
+449;25;held;held;0;0;25;0
+450;25;kiss;kiss / kissed / kisses;4;0;21;0
+451;25;mirror;mirror / mirrors / mirrored;24;1;0;0
+452;25;broken;broken;0;10;15;0
+453;25;follow;follow / followed / follows / followers / following;1;0;24;0
+454;24;bite;bites / bite;13;1;10;0
+455;24;await;await / awaits / awaiting;7;0;16;1
+456;24;iron;iron;17;3;1;3
+457;24;beat;beat / beating / beats / beatings;17;0;6;1
+458;24;hour;hour / hours;24;0;0;0
+459;24;charg;charge / charging / charges;17;0;7;0
+460;24;middl;middle;11;13;0;0
+461;24;edg;edge / edged;23;0;1;0
+462;24;whoa;whoa;19;3;0;2
+463;24;ancient;ancient;5;19;0;0
+464;24;grand;grand;0;24;0;0
+465;24;diver;diver;22;0;0;2
+466;24;push;push / pushed / pushing;11;3;9;1
+467;24;sad;sad / sadness;4;12;8;0
+468;24;heat;heat;24;0;0;0
+469;24;speak;speak / speaking / speaks;3;1;20;0
+470;24;e;e;19;1;0;4
+471;24;fallen;fallen;1;0;23;0
+472;23;crown;crown;14;8;1;0
+473;23;shot;shot;14;0;9;0
+474;23;may;may;0;0;0;23
+475;23;sold;sold;0;0;23;0
+476;23;part;part / parts / parting;23;0;0;0
+477;23;silenc;silence;22;0;1;0
+478;23;stronger;stronger;0;23;0;0
+479;23;charlott;charlotte;10;0;12;1
+480;23;becom;become / becoming / becomes;3;2;18;0
+481;23;bed;bed;13;3;7;0
+482;23;strength;strength;23;0;0;0
+483;23;whip;whip / whips / whipping;22;0;1;0
+484;23;ten;ten / tens;12;7;4;0
+485;23;chosen;chosen;16;0;7;0
+486;23;speed;speed / speeding;12;1;10;0
+487;23;outlaw;outlaw / outlaws;19;4;0;0
+488;23;proud;proud;1;16;6;0
+489;23;bleed;bleed / bleeding / bleeds;3;0;19;1
+490;23;question;question / questions / questioned / questionize;19;0;4;0
+491;23;crawl;crawl / crawling / crawls;7;1;15;0
+492;23;attack;attack / attacks / attacked / attackers;18;1;3;1
+493;23;babi;baby / babies;16;1;6;0
+494;23;human;human / humanity;6;17;0;0
+495;22;moment;moment / moments;22;0;0;0
+496;22;step;step / steps;17;0;5;0
+497;22;tast;taste / tasted / tastes;4;0;18;0
+498;22;dreamer;dreamer / dreamers;19;3;0;0
+499;22;slave;slave / slaves;18;3;1;0
+500;22;salvat;salvation;22;0;0;0
+501;22;grow;grow / growing / grows;3;0;19;0
+502;22;search;searching / search / searched;4;0;18;0
+503;22;murder;murder / murders;22;0;0;0
+504;22;enemi;enemy / enemies;22;0;0;0
+505;22;room;room / rooms;22;0;0;0
+506;22;pull;pull / pulled / pulls / pulling;7;0;15;0
+507;22;somebodi;somebody;22;0;0;0
+508;22;music;music;22;0;0;0
+509;22;everywher;everywhere;0;0;0;22
+510;22;march;marching / march;5;0;17;0
+511;21;pound;pounding / pound / pounded;6;0;15;0
+512;21;kick;kick / kicked / kicks;2;1;18;0
+513;21;boy;boys / boy;17;2;2;0
+514;21;lone;lonely / lone;6;8;0;7
+515;21;choos;choose / choosing;3;3;15;0
+516;21;stare;stare / staring / stared / stares;4;1;16;0
+517;21;bone;bones / bone;19;0;2;0
+518;21;clear;clear / clears;0;13;8;0
+519;21;deal;deal / deals;15;0;6;0
+520;21;gave;gave;0;0;21;0
+521;21;goodby;goodbye / goodbyes;17;2;2;0
+522;21;manowar;manowar;8;12;1;0
+523;21;challi;challis;18;0;2;1
+524;21;brought;brought;0;1;20;0
+525;21;alright;alright;8;4;3;6
+526;21;liar;liar / liars;15;5;0;1
+527;21;mighti;mighty;11;9;0;1
+528;21;valhalla;valhalla;11;0;8;2
+529;21;peac;peace / peaceful;19;2;0;0
+530;21;forget;forget;7;0;14;0
+531;21;next;next;0;19;0;2
+532;21;revolut;revolution;21;0;0;0
+533;21;summer;summer;21;0;0;0
+534;21;wherev;wherever;1;0;1;19
+535;21;silver;silver;17;3;1;0
+536;20;command;command / commanding / commandments / commanded / commander;13;0;7;0
+537;20;key;key / keys;18;1;1;0
+538;20;slowli;slowly;0;0;0;20
+539;20;cover;cover / covered;3;0;16;1
+540;20;bart;bart;20;0;0;0
+541;20;sinc;since;0;0;0;20
+542;20;killer;killer / killers;17;0;3;0
+543;20;throw;throw / throwing;8;0;12;0
+544;20;futur;future;17;3;0;0
+545;20;remain;remain / remains / remained / remaining;5;0;15;0
+546;20;drift;drifting / drift / drifts;6;0;14;0
+547;20;9;9;0;0;0;20
+548;20;prayer;prayer / prayers;19;0;1;0
+549;20;golden;golden;0;20;0;0
+550;20;tyrant;tyrant;6;14;0;0
+551;20;armi;armies / army;19;0;0;1
+552;20;flash;flash / flashing;13;0;7;0
+553;20;sens;sense / sensing / senses / sensed;13;0;7;0
+554;20;cult;cult;20;0;0;0
+555;20;flesh;flesh;8;9;3;0
+556;20;vengeanc;vengeance;18;0;2;0
+557;20;chase;chasing / chase;4;0;16;0
+558;20;vision;vision / visions;20;0;0;0
+559;20;rider;rider / riders;20;0;0;0
+560;20;teach;teach / teaching;3;0;17;0
+561;20;root;root / roots;14;1;5;0
+562;20;snow;snow / snows / snowing;8;2;10;0
+563;20;doom;doom / doomed;15;0;5;0
+564;20;surrend;surrender;14;0;6;0
+565;20;trap;trapped / trap;2;0;18;0
+566;20;bloodston;bloodstone;17;0;2;1
+567;20;knew;knew;0;0;20;0
+568;20;whisper;whispers / whisper / whispered / whispering;10;4;6;0
+569;20;rage;rage / raging / raged;14;0;6;0
+570;19;steal;steal / stealing / steals;2;0;16;1
+571;19;drawn;drawn;5;0;14;0
+572;19;rest;rest / rested / rests;7;0;12;0
+573;19;rust;rust / rusts;6;4;9;0
+574;19;talk;talking / talk / talked / talks;4;0;15;0
+575;19;finger;fingers / finger;19;0;0;0
+576;19;starbreak;starbreaker;18;1;0;0
+577;19;destruct;destruction / destruct;19;0;0;0
+578;19;bound;bound;12;0;5;2
+579;19;assassin;assassin / assassination;18;0;0;1
+580;19;prison;prison / prisoner / prisoners;19;0;0;0
+581;19;sit;sitting / sit;3;0;16;0
+582;19;bend;bend / bending / bended;3;2;14;0
+583;19;age;age / ages;19;0;0;0
+584;19;gold;gold;18;1;0;0
+585;19;everyth;everything;19;0;0;0
+586;19;weapon;weapons / weapon;19;0;0;0
+587;19;desert;desert / deserted;17;0;2;0
+588;19;weekend;weekend;19;0;0;0
+589;19;villag;village;19;0;0;0
+590;19;went;went;0;0;19;0
+591;19;poison;poison / poisonous / poisoned;12;5;2;0
+592;19;mother;mother;14;1;3;1
+593;19;wear;wear / wearing / wears;0;0;18;1
+594;19;hellrid;hellrider;13;3;3;0
+595;19;fantasi;fantasies / fantasy;16;1;2;0
+596;19;6;6;0;0;0;19
+597;19;confess;confess / confessions / confession / confessing;15;1;3;0
+598;19;pretti;pretty;2;4;0;13
+599;18;desir;desire / desires;18;0;0;0
+600;18;ladi;lady / ladies;16;2;0;0
+601;18;belong;belong / belongs;3;2;13;0
+602;18;hit;hit / hits / hitting;2;0;16;0
+603;18;warn;warning / warn / warns / warned;9;0;9;0
+604;18;goin;goin;1;0;17;0
+605;18;tale;tales / tale;17;1;0;0
+606;18;ship;ship / ships;17;1;0;0
+607;18;clean;clean;0;16;2;0
+608;18;loud;loud;5;13;0;0
+609;18;louder;louder;8;9;0;1
+610;18;bent;bent;17;1;0;0
+611;18;unto;unto;0;7;3;8
+612;18;money;money;18;0;0;0
+613;18;three;three;0;0;0;18
+614;18;though;though;0;0;0;18
+615;18;thee;thee;14;1;3;0
+616;18;join;join / joining / joined;6;0;12;0
+617;18;tree;tree / trees;16;1;1;0
+618;18;blue;blue / blues;11;7;0;0
+619;18;invad;invader / invaders;17;0;1;0
+620;18;spend;spend / spending / spends;0;2;16;0
+621;18;legend;legend / legends;15;1;2;0
+622;18;minut;minutes / minute;18;0;0;0
+623;17;anim;animal / animals;14;3;0;0
+624;17;danger;danger / dangerous / dangers;12;5;0;0
+625;17;queen;queen / queens;11;6;0;0
+626;17;cat;cat / cats;17;0;0;0
+627;17;victim;victim / victims;17;0;0;0
+628;17;share;share / sharing / shared / shares;11;0;6;0
+629;17;scare;scared / scares / scare;0;1;16;0
+630;17;reason;reason / reasons / reasoning;16;0;1;0
+631;17;climb;climb / climbing;11;0;6;0
+632;17;shermann;shermann;12;3;2;0
+633;17;felt;felt;1;0;16;0
+634;17;warm;warm / warms;2;10;5;0
+635;17;electr;electric / electrical;0;17;0;0
+636;17;hundr;hundred / hundreds;1;4;6;6
+637;17;sick;sick / sickness;5;12;0;0
+638;17;tire;tired / tires;2;12;2;1
+639;17;merci;mercy / merciful;13;2;2;0
+640;17;nomad;nomad;4;8;3;2
+641;17;tailgunn;tailgunner;17;0;0;0
+642;17;floor;floor;17;0;0;0
+643;17;work;work / worked / working / works;6;0;11;0
+644;17;job;job;17;0;0;0
+645;17;mandrak;mandrake;12;0;5;0
+646;17;miseri;misery;17;0;0;0
+647;17;sand;sand / sands;13;0;4;0
+648;17;beyond;beyond;0;0;0;17
+649;17;sister;sister / sisters;17;0;0;0
+650;17;wolv;wolves;16;0;1;0
+651;16;judgement;judgement;10;6;0;0
+652;16;ice;ice;14;0;2;0
+653;16;deadli;deadly;0;10;0;6
+654;16;wide;wide;0;16;0;0
+655;16;shadowcast;shadowcast;14;0;1;1
+656;16;crime;crime / crimes;16;0;0;0
+657;16;tight;tight;0;12;1;3
+658;16;juanita;juanita;6;9;1;0
+659;16;savag;savage;12;4;0;0
+660;16;magica;magica;14;1;0;1
+661;16;wash;wash / washed;0;0;16;0
+662;16;explod;explode / exploding;3;0;13;0
+663;16;corner;corner;16;0;0;0
+664;16;hatr;hatred;0;3;13;0
+665;16;appear;appear / appeared / appears;0;0;16;0
+666;16;dare;dare / dares / dared / daring;3;0;13;0
+667;16;dragon;dragon / dragons;11;0;5;0
+668;16;rebel;rebel / rebels;12;2;2;0
+669;16;lift;lift / lifted / lifting;6;0;10;0
+670;16;decid;decide / decided;0;0;13;3
+671;16;ruin;ruins / ruin / ruined;11;0;5;0
+672;16;seal;seal / sealing / sealed / seals;5;2;9;0
+673;16;bear;bearing / bear / bears;5;0;11;0
+674;16;tone;tone;16;0;0;0
+675;16;anger;anger;16;0;0;0
+676;16;swear;swear;0;0;16;0
+677;16;deceiv;deceive / deceivers / deceiver;5;2;9;0
+678;16;protect;protected / protect / protection / protects / protecting;6;1;9;0
+679;16;guyana;guyana;16;0;0;0
+680;15;deliv;deliver / delivering / delivered;2;0;13;0
+681;15;crush;crush / crushed / crushing;1;0;14;0
+682;15;count;count / counting;3;0;12;0
+683;15;flow;flow / flowed / flows / flowing;5;0;10;0
+684;15;rush;rush / rushing / rushes / rushed;10;0;5;0
+685;15;highway;highway / highways;15;0;0;0
+686;15;heal;heal / healed / heals / healing;2;0;13;0
+687;15;bird;birds / bird;15;0;0;0
+688;15;buri;buried / bury;3;1;11;0
+689;15;hunt;hunted / hunt / hunting / hunts;2;0;13;0
+690;15;wave;waves / wave / waving;5;0;10;0
+691;15;pretend;pretender / pretending / pretend;11;0;4;0
+692;15;slip;slip / slipped / slips / slipping;5;0;10;0
+693;15;path;path / paths;15;0;0;0
+694;15;dog;dogs / dog / dogged;14;0;1;0
+695;15;cast;cast;3;1;11;0
+696;15;darkest;darkest;1;14;0;0
+697;15;juda;judas;11;2;2;0
+698;15;leg;legs / legged;13;0;2;0
+699;15;skin;skin / skins;14;1;0;0
+700;15;bewar;beware;7;0;5;3
+701;15;destini;destiny;9;5;1;0
+702;15;guest;guest / guests;10;5;0;0
+703;15;longer;longer;0;3;0;12
+704;15;til;til;4;1;9;1
+705;15;gypsi;gypsy;11;2;2;0
+706;15;river;river;15;0;0;0
+707;15;journey;journey;14;1;0;0
+708;15;meltdown;meltdown;10;2;0;3
+709;15;invis;invisible;0;15;0;0
+710;15;hollywood;hollywood;15;0;0;0
+711;15;fals;false;0;15;0;0
+712;14;wise;wise / wisely;10;3;0;1
+713;14;oak;oak;14;0;0;0
+714;14;ha;ha;12;0;2;0
+715;14;roar;roar / roars / roaring;11;0;3;0
+716;14;fade;fading / fade / fades;2;0;12;0
+717;14;terror;terror / terrorize;12;0;2;0
+718;14;deni;denied / denying / deny;2;0;12;0
+719;14;singl;single;0;14;0;0
+720;14;fail;fail / fails / failed;0;0;14;0
+721;14;spin;spinning / spin;3;0;11;0
+722;14;ass;ass;13;1;0;0
+723;14;blame;blame / blamed;6;0;8;0
+724;14;quest;quest;8;6;0;0
+725;14;lucif;lucifer;8;1;5;0
+726;14;shore;shore / shores;14;0;0;0
+727;14;priest;priest / priests;13;1;0;0
+728;14;wound;wounds / wounded / wound / woundings;8;2;4;0
+729;14;wead;wead;11;1;0;2
+730;14;sacrific;sacrifice;12;0;2;0
+731;14;low;low;0;14;0;0
+732;14;empti;empty / emptiness;1;12;0;1
+733;14;trace;trace / traces;11;0;2;1
+734;14;wolf;wolf;13;1;0;0
+735;14;rip;rip / ripping / rips / ripped;2;0;12;0
+736;14;nake;naked;0;1;13;0
+737;14;soldier;soldier / soldiers;9;5;0;0
+738;14;painkil;painkiller;13;0;1;0
+739;14;spread;spread / spreads / spreading / spreaded;1;1;12;0
+740;14;read;read / reading;1;1;12;0
+741;14;fist;fists / fist / fisted;10;0;4;0
+742;14;safe;safe;0;14;0;0
+743;13;prophet;prophet / prophets;13;0;0;0
+744;13;winter;winter;12;0;0;1
+745;13;best;best;0;11;0;2
+746;13;divin;divine;7;3;3;0
+747;13;mass;masses / mass;13;0;0;0
+748;13;toward;towards / toward;6;0;0;7
+749;13;hole;hole / holes;13;0;0;0
+750;13;stick;stick / sticking;2;5;6;0
+751;13;float;floating / floats;1;0;12;0
+752;13;suck;sucking / suck;1;0;12;0
+753;13;bloodi;bloody / bloodied;6;4;3;0
+754;13;forc;forces / force / forced;9;0;4;0
+755;13;given;given;0;0;13;0
+756;13;iвђ;iвђ;5;6;2;0
+757;13;known;known;0;0;13;0
+758;13;began;began;0;0;13;0
+759;13;machin;machine / machines;13;0;0;0
+760;13;razor;razor;11;1;1;0
+761;13;loser;losers / loser;13;0;0;0
+762;13;closer;closer;2;9;0;2
+763;13;dust;dust;13;0;0;0
+764;13;heel;heel / heels;5;0;8;0
+765;13;l;l;9;2;1;1
+766;13;valkyri;valkyries;13;0;0;0
+767;13;monster;monsters / monster;13;0;0;0
+768;13;sabbath;sabbath;13;0;0;0
+769;13;overlov;overlove;3;2;0;8
+770;13;outsid;outside;0;6;0;7
+771;13;shock;shock / shocked;9;1;3;0
+772;13;miracl;miracle / miracles;12;0;1;0
+773;13;forgiv;forgive / forgiveness;2;8;3;0
+774;13;tie;tie / tied / ties;3;0;10;0
+775;13;draw;draw / draws / drawing;3;0;10;0
+776;13;daze;daze / dazed;3;8;2;0
+777;12;courag;courage;12;0;0;0
+778;12;disappear;disappear / disappeared;0;1;11;0
+779;12;bow;bow / bowed;2;2;7;1
+780;12;creation;creation / creations;12;0;0;0
+781;12;invit;invitations / invites / inviting / invitation;9;0;3;0
+782;12;jump;jump / jumping / jumped / jumps;7;1;4;0
+783;12;guess;guess;8;1;2;1
+784;12;ball;ball / balls;11;0;1;0
+785;12;betray;betray / betrayed / betrayal / betrayer;2;0;9;1
+786;12;choic;choice / choices;12;0;0;0
+787;12;gather;gather / gathered / gathering;4;0;6;2
+788;12;grip;grip / gripped / grips;8;0;4;0
+789;12;lust;lust / lusting / lustful;7;2;3;0
+790;12;prepar;prepared / prepare / preparations;1;3;8;0
+791;12;welcom;welcome / welcomed;5;2;5;0
+792;12;slice;slicing / slice / slices;3;0;9;0
+793;12;meat;meat;12;0;0;0
+794;12;sunris;sunrise;12;0;0;0
+795;12;yet;yet;0;0;0;12
+796;12;fell;fell;0;0;12;0
+797;12;underworld;underworld;11;1;0;0
+798;12;bridg;bridge;12;0;0;0
+799;12;enough;enough;0;5;0;7
+800;12;oath;oath;12;0;0;0
+801;12;loch;lochness;3;6;0;3
+802;12;unknown;unknown;0;12;0;0
+803;12;sweat;sweat / sweats;10;0;2;0
+804;12;maker;maker;12;0;0;0
+805;12;asgard;asgard;2;0;4;6
+806;12;goddamn;goddamn;12;0;0;0
+807;12;rolla;rolla;12;0;0;0
+808;12;freewheel;freewheel;10;0;2;0
+809;12;rocka;rocka;8;0;4;0
+810;12;hung;hung;2;2;8;0
+811;12;stood;stood;0;0;12;0
+812;12;wine;wine;11;1;0;0
+813;12;east;east;9;2;0;1
+814;12;maiden;maiden;6;6;0;0
+815;12;lifetim;lifetime;12;0;0;0
+816;12;self;self;5;4;2;1
+817;12;knife;knife;9;0;3;0
+818;12;lair;lair;11;0;1;0
+819;12;shelter;shelter;4;6;0;2
+820;12;els;else;0;0;0;12
+821;12;morgu;morgue;12;0;0;0
+822;12;wick;wicked;2;9;1;0
+823;12;rue;rue;10;2;0;0
+824;12;fugit;fugitive;0;12;0;0
+825;12;led;led;0;0;12;0
+826;12;harlot;harlot;12;0;0;0
+827;12;retribut;retribution;12;0;0;0
+828;12;ow;ow;8;3;1;0
+829;12;other;others;12;0;0;0
+830;12;mile;miles;12;0;0;0
+831;12;vein;veins / vein;11;0;0;1
+832;12;hair;hair / hairs;12;0;0;0
+833;12;shell;shell / shells;10;0;1;1
+834;12;kneel;kneel / kneeling;1;0;11;0
+835;11;torment;torment / tormented;9;0;2;0
+836;11;ash;ashes;10;0;1;0
+837;11;scene;scene / scenes;11;0;0;0
+838;11;wimp;wimps;11;0;0;0
+839;11;besid;beside;0;0;1;10
+840;11;begun;begun;0;0;11;0
+841;11;beauti;beautiful / beauty;4;6;0;1
+842;11;smell;smell / smells;8;0;3;0
+843;11;drag;dragged / drag / dragging;0;1;10;0
+844;11;travel;travel / traveling / traveller / travelling / traveled;3;0;8;0
+845;11;vampir;vampire;11;0;0;0
+846;11;tongu;tongue;11;0;0;0
+847;11;band;band / bands;11;0;0;0
+848;11;amongst;amongst;1;4;1;5
+849;11;mortal;mortal / mortals / mortality;2;9;0;0
+850;11;cost;cost / costs;9;0;2;0
+851;11;top;top;7;4;0;0
+852;11;string;string / strings;11;0;0;0
+853;11;castl;castle;11;0;0;0
+854;11;thor;thor;6;1;4;0
+855;11;fuck;fucking / fuck;6;0;5;0
+856;11;stab;stab / stabbing / stabs;6;1;4;0
+857;11;paid;paid;0;0;11;0
+858;11;plain;plains / plain;11;0;0;0
+859;11;field;fields / field;10;0;1;0
+860;11;happi;happy / happiness;2;9;0;0
+861;11;reflect;reflecting / reflection / reflections / reflected / reflect;4;1;6;0
+862;11;west;west;11;0;0;0
+863;11;moonlight;moonlight;8;2;1;0
+864;11;boot;boots / boot;11;0;0;0
+865;11;conquer;conquer;0;0;11;0
+866;11;beg;begging / beg;3;1;7;0
+867;11;crowd;crowd;9;0;2;0
+868;11;innoc;innocent / innocence;7;4;0;0
+869;11;spark;spark / sparks / sparking;10;0;1;0
+870;11;crawler;crawler;10;0;1;0
+871;11;realiz;realize / realized;0;0;11;0
+872;11;grant;grant / granted;4;0;7;0
+873;11;releas;release / released / releasing;2;0;9;0
+874;11;sunlight;sunlight;8;3;0;0
+875;11;destroy;destroy / destroying / destroyed / destroys / destroyers;2;0;9;0
+876;11;dew;dew;10;0;1;0
+877;11;aveng;avenge;0;0;11;0
+878;11;escap;escape / escaping;6;0;5;0
+879;11;cage;cage / cages / caged;10;0;1;0
+880;11;glass;glass / glasses;8;2;1;0
+881;11;forgotten;forgotten;0;5;6;0
+882;11;marin;mariner;11;0;0;0
+883;11;melt;melting / melt / melted / melts;4;0;7;0
+884;10;shatter;shattered / shattering / shatters;1;2;7;0
+885;10;brand;brand / branded / branding;7;0;3;0
+886;10;seek;seek / seeking;2;2;6;0
+887;10;pictur;picture / pictures;10;0;0;0
+888;10;ascend;ascend / ascending / ascends;1;1;8;0
+889;10;mark;mark / marks / marked;7;1;2;0
+890;10;defeat;defeat / defeated;4;1;5;0
+891;10;spill;spilled / spill;2;0;8;0
+892;10;train;train / training;10;0;0;0
+893;10;crash;crashing / crash / crashed;1;0;9;0
+894;10;desecr;desecration / desecrate / desecrator;8;0;2;0
+895;10;suffer;suffering / suffer;3;0;7;0
+896;10;dread;dread / dreadful / dreading;6;2;2;0
+897;10;horror;horror / horrors;10;0;0;0
+898;10;throat;throat / throats;10;0;0;0
+899;10;colour;colour / colours;8;0;2;0
+900;10;rite;rites / rite;10;0;0;0
+901;10;spider;spider / spiders;10;0;0;0
+902;10;preacher;preacher / preachers;10;0;0;0
+903;10;ruler;ruler / rulers;10;0;0;0
+904;10;catch;catch / catches / catching;1;0;9;0
+905;10;axe;axe / axes / axed;6;1;2;1
+906;10;seed;seeds / seed;10;0;0;0
+907;10;confus;confusion / confused / confusing;6;2;2;0
+908;10;tortur;torture / torturing / torturous;6;1;3;0
+909;10;bye;bye;8;2;0;0
+910;10;space;space;10;0;0;0
+911;10;contract;contract;10;0;0;0
+912;10;faster;faster;1;1;0;8
+913;10;reveng;revenge;10;0;0;0
+914;10;unborn;unborn;8;1;0;1
+915;10;necromanc;necromancer;3;6;0;1
+916;10;met;met;0;0;10;0
+917;10;due;due;0;9;0;1
+918;10;thrower;thrower;9;0;1;0
+919;10;price;price;10;0;0;0
+920;10;horizon;horizon;10;0;0;0
+921;10;ago;ago;0;0;0;10
+922;10;mist;mist;9;1;0;0
+923;10;neon;neon;3;6;0;1
+924;10;justic;justice;10;0;0;0
+925;10;disguis;disguise / disguised;7;1;2;0
+926;10;ran;ran;0;0;10;0
+927;10;task;task / tasks;10;0;0;0
+928;10;ripper;ripper;10;0;0;0
+929;10;birth;birth;10;0;0;0
+930;10;poser;posers;10;0;0;0
+931;10;colder;colder;8;1;0;1
+932;10;yesterday;yesterday;10;0;0;0
+933;10;ce;ce;10;0;0;0
+934;10;nine;nine;0;0;0;10
+935;10;moonchild;moonchild;9;1;0;0
+936;10;altar;altar;9;1;0;0
+937;10;cours;course;10;0;0;0
+938;10;ohh;ohh;3;3;2;2
+939;10;huddersfield;huddersfield;8;1;1;0
+940;10;univers;universe / universal;6;4;0;0
+941;10;thin;thin;0;10;0;0
+942;10;soir;soir;5;5;0;0
+943;9;gift;gift / gifted;7;2;0;0
+944;9;sorrow;sorrow / sorrows;7;1;1;0
+945;9;front;front;7;1;1;0
+946;9;lucki;lucky;0;9;0;0
+947;9;tempt;tempt / tempted;0;0;3;6
+948;9;rather;rather;0;0;0;9
+949;9;anyon;anyone;9;0;0;0
+950;9;rape;rape / raping;1;0;8;0
+951;9;screw;screwed / screwing / screw;1;0;8;0
+952;9;gaze;gaze / gazing / gazed;2;1;6;0
+953;9;haunt;haunted / haunting / haunt;0;0;9;0
+954;9;duti;duty / duties;9;0;0;0
+955;9;surpris;surprise / surprised;7;2;0;0
+956;9;letter;letter / letters;9;0;0;0
+957;9;wander;wander / wandering / wanders / wandered;1;0;8;0
+958;9;possess;possession / possess / possessed / possessing;4;0;5;0
+959;9;giant;giants / giant;8;1;0;0
+960;9;tribe;tribe / tribes;9;0;0;0
+961;9;thief;thief;9;0;0;0
+962;9;summon;summon / summoned / summons;2;0;7;0
+963;9;serv;serve / serves / serving;2;0;7;0
+964;9;condemn;condemn / condemned;6;0;3;0
+965;9;defi;defy / defies / defied / defying;3;0;6;0
+966;9;emot;emotion / emotional / emotions;8;1;0;0
+967;9;guard;guard / guards / guarded;3;0;4;2
+968;9;england;england;1;0;8;0
+969;9;torn;torn;0;4;5;0
+970;9;tide;tide / tides / tidings;9;0;0;0
+971;9;jail;jail;9;0;0;0
+972;9;shield;shield / shields;7;1;1;0
+973;9;fright;fright;8;1;0;0
+974;9;grinder;grinder;7;2;0;0
+975;9;heed;heed / heeds;0;0;9;0
+976;9;banshe;banshee;8;1;0;0
+977;9;thrown;thrown;0;0;8;1
+978;9;clash;clash;7;0;2;0
+979;9;easi;easy;0;9;0;0
+980;9;kutulu;kutulu;7;2;0;0
+981;9;church;church;9;0;0;0
+982;9;melissa;melissa;5;0;1;3
+983;9;wisdom;wisdom;7;1;1;0
+984;9;happen;happened / happening / happen;0;0;9;0
+985;9;million;millions / million;5;0;0;4
+986;9;nail;nail / nailed / nails;4;0;5;0
+987;9;among;among;0;0;0;9
+988;9;miss;miss / missing / missed;0;0;9;0
+989;9;small;small;0;9;0;0
+990;9;throne;throne;8;0;1;0
+991;9;thirteen;thirteen;2;7;0;0
+992;9;forevermor;forevermore;1;0;0;8
+993;9;hallow;hallowed / hallow / hallows;1;3;5;0
+994;9;pierc;piercing / pierced;1;0;8;0
+995;9;punch;punch / punches / punching;8;0;1;0
+996;9;n;n;2;6;0;1
+997;9;r;r;9;0;0;0
+998;9;uninvit;uninvited;0;9;0;0
+999;9;ceil;ceiling;9;0;0;0
+1000;9;forth;forth;5;0;1;3
+1001;9;tall;tall;2;7;0;0
+1002;9;ideal;ideal / ideals;1;8;0;0
+1003;9;evilsyd;evilsyde;4;3;1;1
+1004;9;passion;passion;9;0;0;0
+1005;9;write;write / writes / writings / writing;3;0;5;1
+1006;9;snake;snake / snakes;3;0;6;0
+1007;9;drop;drop / dropped;3;0;6;0
+1008;9;orchestra;orchestra;7;2;0;0
+1009;9;ocean;ocean;8;1;0;0
+1010;9;egypt;egypt;4;1;3;1
+1011;9;hunter;hunter / hunters;9;0;0;0
+1012;9;alexand;alexander;3;0;5;1
+1013;8;execut;execution / executing / executed;4;0;4;0
+1014;8;depend;depend / depends / depending;0;0;8;0
+1015;8;snap;snap / snapped / snapping;0;0;8;0
+1016;8;pick;picking / pick / picked / picks;1;0;7;0
+1017;8;howl;howling / howl / howled;2;0;6;0
+1018;8;creep;creeping / creep / creeps;1;0;7;0
+1019;8;expect;expect / expectation / expected;2;1;5;0
+1020;8;resist;resist / resisted / resistance;1;0;7;0
+1021;8;wail;wailing / wail;1;0;7;0
+1022;8;slaughter;slaughter / slaughtered / slaughtering;5;0;3;0
+1023;8;bid;bids / bid / bidding;7;0;1;0
+1024;8;build;build / building;0;0;8;0
+1025;8;nation;nations / nation;8;0;0;0
+1026;8;creatur;creature / creatures;8;0;0;0
+1027;8;dwell;dwell / dwells;0;0;7;1
+1028;8;shiver;shiver / shivering / shivers;4;0;3;1
+1029;8;reveal;revealed / reveal;0;2;6;0
+1030;8;domin;domination / dominance / dominant / dominations;7;1;0;0
+1031;8;boil;boiling / boil;2;0;6;0
+1032;8;reign;reign / reigns / reigned;3;0;5;0
+1033;8;person;personal / person / personally;3;3;0;2
+1034;8;beckon;beckon / beckons / beckoning / beckoned;1;0;7;0
+1035;8;gener;generation / general / generate / generating / generations;4;2;2;0
+1036;8;spit;spitting / spit;2;0;6;0
+1037;8;wield;wield / wielded / wielding;0;0;8;0
+1038;8;mend;mend / mending;1;0;7;0
+1039;8;youth;youth / youths;8;0;0;0
+1040;8;smash;smash / smashed / smashing;2;0;6;0
+1041;8;enter;enter / entering / entered;0;0;8;0
+1042;8;trembl;tremble / trembles / trembling;1;5;2;0
+1043;8;firepow;firepower;1;4;2;1
+1044;8;abus;abused / abuse;0;2;5;1
+1045;8;rockin;rockin;7;1;0;0
+1046;8;north;north;4;4;0;0
+1047;8;sheriff;sheriff;8;0;0;0
+1048;8;gangland;gangland;2;0;6;0
+1049;8;2;2;0;0;0;8
+1050;8;c;c;6;2;0;0
+1051;8;onward;onward / onwards;2;1;0;5
+1052;8;tune;tune;7;0;1;0
+1053;8;becam;became;0;0;8;0
+1054;8;mission;mission;8;0;0;0
+1055;8;crystal;crystal / crystals;2;6;0;0
+1056;8;fed;fed;0;0;8;0
+1057;8;astray;astray;0;2;0;6
+1058;8;co;cos;7;0;1;0
+1059;8;thou;thou;6;1;1;0
+1060;8;arab;arab;4;2;2;0
+1061;8;class;class;8;0;0;0
+1062;8;will;willing;0;8;0;0
+1063;8;jesu;jesus;6;0;2;0
+1064;8;coven;coven;7;1;0;0
+1065;8;traitor;traitors;8;0;0;0
+1066;8;ahh;ahh;6;1;1;0
+1067;8;tiger;tiger;8;0;0;0
+1068;8;joke;joke / jokes;7;0;1;0
+1069;8;neck;neck / necks;8;0;0;0
+1070;8;deed;deeds;8;0;0;0
+1071;8;beneath;beneath;0;0;0;8
+1072;8;battlefield;battlefield;8;0;0;0
+1073;8;doctor;doctor;8;0;0;0
+1074;8;breathless;breathless;1;4;0;3
+1075;8;women;women;8;0;0;0
+1076;8;slain;slain;6;1;1;0
+1077;8;suicid;suicide / suicides;6;0;1;1
+1078;8;row;row / rows;7;0;1;0
+1079;8;stair;stairs / stair;8;0;0;0
+1080;8;suddenli;suddenly;0;0;0;8
+1081;8;asid;aside;0;2;0;6
+1082;8;spi;spy;4;0;4;0
+1083;8;fierc;fierce;7;1;0;0
+1084;8;least;least;0;6;2;0
+1085;8;candl;candles / candle;6;1;1;0
+1086;8;anyth;anything;8;0;0;0
+1087;8;electra;electra;2;5;0;1
+1088;8;otherworld;otherworld;5;0;3;0
+1089;8;taker;taker;8;0;0;0
+1090;8;ridin;ridin;5;1;2;0
+1091;8;order;order / orders;8;0;0;0
+1092;8;hello;hello;6;0;1;1
+1093;8;claw;claws / clawing;7;1;0;0
+1094;7;gear;gear / geared;6;0;1;0
+1095;7;balanc;balancing / balance;1;0;6;0
+1096;7;prove;prove;0;0;7;0
+1097;7;spear;spear / spears / speared;5;1;1;0
+1098;7;forg;forged / forging / forge;0;0;7;0
+1099;7;ear;ears / ear;7;0;0;0
+1100;7;v;v;6;0;1;0
+1101;7;reel;reeling;1;0;6;0
+1102;7;mountainsid;mountainside;1;6;0;0
+1103;7;daddi;daddy;1;5;1;0
+1104;7;spike;spikes / spike / spiked;5;2;0;0
+1105;7;struck;struck;0;0;7;0
+1106;7;somehow;somehow;0;0;4;3
+1107;7;ahead;ahead;0;0;0;7
+1108;7;honor;honor / honored;4;2;1;0
+1109;7;mankind;mankind;3;0;3;1
+1110;7;plan;planned / plan / plans;3;0;4;0
+1111;7;car;car / cars;7;0;0;0
+1112;7;unfold;unfold / unfolds;1;0;6;0
+1113;7;thirst;thirst / thirsting;4;2;1;0
+1114;7;desper;desperate / desperation;2;5;0;0
+1115;7;celebr;celebration / celebrate;5;0;2;0
+1116;7;restor;restoration / restored;5;1;1;0
+1117;7;charm;charms / charm;6;0;1;0
+1118;7;toll;toll / tolling;5;0;2;0
+1119;7;rob;robbed / rob;0;0;7;0
+1120;7;daughter;daughter / daughters;7;0;0;0
+1121;7;scratch;scratch / scratching / scratched;0;0;7;0
+1122;7;finish;finished / finish;0;0;7;0
+1123;7;burst;burst / bursting / bursts;5;0;2;0
+1124;7;breed;breed / breeds;5;0;2;0
+1125;7;scorch;scorching / scorched / scorch;0;0;7;0
+1126;7;situat;situation;7;0;0;0
+1127;7;engin;engine / engines;7;0;0;0
+1128;7;glow;glow / glowing / glows;3;1;3;0
+1129;7;dri;dry / dries;0;4;3;0
+1130;7;glide;glides / gliding / glide;4;0;2;1
+1131;7;troubl;trouble / troubles;7;0;0;0
+1132;7;knock;knock / knocking / knocks / knocked;2;0;5;0
+1133;7;leader;leader / leaders;7;0;0;0
+1134;7;endless;endless;2;4;0;1
+1135;7;cheater;cheater;7;0;0;0
+1136;7;jugul;jugulator / jugulate;6;0;1;0
+1137;7;hunger;hunger / hungers;6;0;1;0
+1138;7;bet;bet;1;0;4;2
+1139;7;sunday;sunday;3;3;1;0
+1140;7;descend;descend / descending / descends / descendant / descended / descendants;3;0;4;0
+1141;7;roam;roaming / roam / roams;0;0;7;0
+1142;7;groan;groan / groans;6;0;1;0
+1143;7;shed;shed;0;0;7;0
+1144;7;quickli;quickly;0;0;0;7
+1145;7;loneli;loneliness;3;4;0;0
+1146;7;unholi;unholy;0;7;0;0
+1147;7;sentinel;sentinel;7;0;0;0
+1148;7;sink;sink / sinking / sinks;4;0;3;0
+1149;7;burnt;burnt;2;0;4;1
+1150;7;eas;ease / eases;1;0;6;0
+1151;7;fine;fine;0;4;3;0
+1152;7;later;later;0;0;0;7
+1153;7;stuck;stuck;2;0;5;0
+1154;7;choke;choke / choked / choking;1;1;5;0
+1155;7;breakdown;breakdown;3;0;0;4
+1156;7;claim;claim;3;0;4;0
+1157;7;challeng;challenge / challengers / challenged;3;1;3;0
+1158;7;warlord;warlord;7;0;0;0
+1159;7;bringer;bringer / bringers;6;0;1;0
+1160;7;clutch;clutching / clutch;3;0;4;0
+1161;7;feast;feast / feasts;3;0;2;2
+1162;7;fit;fit / fitting;1;5;1;0
+1163;7;armageddon;armageddon;2;0;0;5
+1164;7;asleep;asleep;1;2;0;4
+1165;7;joy;joy / joys;5;0;2;0
+1166;7;squar;square;2;0;5;0
+1167;7;lip;lips / lip;7;0;0;0
+1168;7;half;half;5;1;0;1
+1169;7;perfect;perfect / perfection;2;5;0;0
+1170;7;societi;society;7;0;0;0
+1171;7;written;written;0;0;7;0
+1172;7;madman;madman;5;2;0;0
+1173;7;overhead;overhead;0;3;0;4
+1174;7;religion;religion;7;0;0;0
+1175;7;tabl;table / tables;5;0;2;0
+1176;7;reborn;reborn;1;1;5;0
+1177;7;anyway;anyway;0;0;0;7
+1178;7;crackl;crackle;5;0;2;0
+1179;7;violenc;violence;7;0;0;0
+1180;7;funer;funeral;0;7;0;0
+1181;7;anybodi;anybody;6;0;1;0
+1182;7;differ;different;0;7;0;0
+1183;7;sought;sought;0;1;6;0
+1184;7;diseas;disease;6;1;0;0
+1185;7;loos;loose;1;2;2;2
+1186;7;daylight;daylight;5;2;0;0
+1187;7;arriv;arrived / arrive / arrival / arriving;1;1;5;0
+1188;7;abductor;abductors;7;0;0;0
+1189;7;temptat;temptation / temptations;7;0;0;0
+1190;7;doubt;doubt / doubts;7;0;0;0
+1191;6;ach;aches / aching / ached / ache;3;0;3;0
+1192;6;glove;gloves / glove;5;0;1;0
+1193;6;speaker;speakers / speaker;6;0;0;0
+1194;6;vike;viking / vikings;1;0;5;0
+1195;6;trumpet;trumpet / trumpets;6;0;0;0
+1196;6;maim;maim / maiming;3;0;3;0
+1197;6;assimil;assimilation / assimilated;5;0;1;0
+1198;6;forest;forest / forests;3;3;0;0
+1199;6;lion;lion / lions;6;0;0;0
+1200;6;mourn;mourn / mourning / mournful;3;0;3;0
+1201;6;piec;piece / pieces;6;0;0;0
+1202;6;direct;direction / directed / directions;4;0;2;0
+1203;6;inform;information / inform;5;0;1;0
+1204;6;siren;sirens / siren;6;0;0;0
+1205;6;footstep;footstep / footsteps;6;0;0;0
+1206;6;offer;offering / offer / offered;2;0;4;0
+1207;6;consum;consumed / consume / consuming;0;0;6;0
+1208;6;wizard;wizard / wizards;5;1;0;0
+1209;6;nois;noises / noise;5;0;1;0
+1210;6;figur;figures / figure;6;0;0;0
+1211;6;mesmer;mesmerize / mesmerized / mesmerizing;0;0;6;0
+1212;6;thank;thank / thanks / thankfully;3;0;2;1
+1213;6;lot;lots / lot;6;0;0;0
+1214;6;symbol;symbols / symbol;6;0;0;0
+1215;6;fulfil;fulfilled / fulfill;0;0;6;0
+1216;6;destin;destination / destined;4;0;2;0
+1217;6;secur;secure / secured / security;2;2;2;0
+1218;6;crucifi;crucify / crucified;0;2;4;0
+1219;6;whirlwind;whirlwinds / whirlwind;6;0;0;0
+1220;6;guy;guy / guys;6;0;0;0
+1221;6;slay;slay / slays / slaying;0;0;6;0
+1222;6;cleans;cleansed / cleansing;0;0;6;0
+1223;6;card;cards / card;6;0;0;0
+1224;6;test;test / tests / tested;4;0;2;0
+1225;6;navig;navigator / navigators;6;0;0;0
+1226;6;dig;dig / digging;1;0;5;0
+1227;6;satisfi;satisfied / satisfy;0;1;5;0
+1228;6;strain;strain / straining;5;0;1;0
+1229;6;pool;pool / pools;6;0;0;0
+1230;6;strap;strap / strapped / strappings;2;0;4;0
+1231;6;pour;pouring / poured / pour;2;0;4;0
+1232;6;check;check / checks;3;0;3;0
+1233;6;stalk;stalking / stalk / stalks;1;0;5;0
+1234;6;statu;statues / statue;4;0;2;0
+1235;6;cloak;cloak / cloaked / cloaking;2;0;4;0
+1236;6;punish;punisher / punishment;3;0;0;3
+1237;6;adrenalin;adrenalin / adrenaline;3;3;0;0
+1238;6;bawl;bawl / bawling;4;0;2;0
+1239;6;loss;loss / losses;6;0;0;0
+1240;6;exist;existence / exist;3;0;3;0
+1241;6;sacrif;sacrificed / sacrificing;0;0;6;0
+1242;6;form;form / forming / forms;5;0;1;0
+1243;6;princ;prince / princes;6;0;0;0
+1244;6;act;act / acts / acting;3;0;3;0
+1245;6;revel;revelation;6;0;0;0
+1246;6;anywher;anywhere;0;0;0;6
+1247;6;reput;reputation;6;0;0;0
+1248;6;slow;slow;0;4;2;0
+1249;6;forgot;forgot;0;4;2;0
+1250;6;behold;behold;0;1;5;0
+1251;6;ahhh;ahhh;3;0;2;1
+1252;6;monday;monday;2;2;2;0
+1253;6;defil;defiled / defiling;1;0;5;0
+1254;6;ledg;ledge;6;0;0;0
+1255;6;distanc;distance;6;0;0;0
+1256;6;jawbreak;jawbreaker;6;0;0;0
+1257;6;grown;grown;1;0;5;0
+1258;6;upsid;upside;0;1;0;5
+1259;6;bruce;bruce;2;0;4;0
+1260;6;rod;rod;6;0;0;0
+1261;6;cathedr;cathedral;0;6;0;0
+1262;6;spoke;spoke;1;0;5;0
+1263;6;frame;frame / frames;5;0;1;0
+1264;6;hector;hector;6;0;0;0
+1265;6;drown;drown;5;0;0;1
+1266;6;seriou;serious;0;6;0;0
+1267;6;fame;fame;4;0;2;0
+1268;6;baptis;baptised;0;0;6;0
+1269;6;soil;soil;6;0;0;0
+1270;6;track;track;5;0;1;0
+1271;6;nick;nick;5;1;0;0
+1272;6;u;u;0;6;0;0
+1273;6;lamia;lamia;2;0;4;0
+1274;6;greed;greed;4;0;2;0
+1275;6;boat;boat;5;0;0;1
+1276;6;desol;desolation;6;0;0;0
+1277;6;strung;strung;0;0;6;0
+1278;6;cell;cell;6;0;0;0
+1279;6;splendour;splendour;6;0;0;0
+1280;6;countri;country;6;0;0;0
+1281;6;futil;futile;0;5;1;0
+1282;6;guitar;guitar;5;0;1;0
+1283;6;creator;creator;6;0;0;0
+1284;6;wrathchild;wrathchild;4;2;0;0
+1285;6;eight;eight;0;0;0;6
+1286;6;christ;christ;6;0;0;0
+1287;6;patrol;patrol;3;0;3;0
+1288;6;cherish;cherish;0;0;6;0
+1289;6;stuff;stuff;5;1;0;0
+1290;6;misti;misty;1;5;0;0
+1291;6;quiet;quiet;1;5;0;0
+1292;6;whose;whose;0;0;0;6
+1293;6;ho;ho;6;0;0;0
+1294;6;action;action;6;0;0;0
+1295;6;meant;meant;0;0;6;0
+1296;6;furi;fury;5;1;0;0
+1297;6;ann;anne;5;0;0;1
+1298;6;trail;trail;6;0;0;0
+1299;6;braveri;bravery;6;0;0;0
+1300;6;rhythm;rhythm;6;0;0;0
+1301;6;blown;blown;0;0;5;1
+1302;6;despair;despair;3;1;2;0
+1303;6;crossroad;crossroads;6;0;0;0
+1304;6;valiant;valiant / valiants;1;4;1;0
+1305;6;laughter;laughter;6;0;0;0
+1306;6;chariot;chariot;6;0;0;0
+1307;6;green;green;0;6;0;0
+1308;6;histori;history;6;0;0;0
+1309;6;spectr;spectre;6;0;0;0
+1310;6;vincero;vincero;6;0;0;0
+1311;6;bloodshe;bloodsheed;6;0;0;0
+1312;6;harm;harm;4;0;2;0
+1313;6;english;english;0;4;2;0
+1314;6;stake;stake;6;0;0;0
+1315;6;chamber;chamber / chambers;6;0;0;0
+1316;6;repent;repent / repentance;5;0;1;0
+1317;6;rhyme;rhyme;5;0;1;0
+1318;6;south;south;4;1;0;1
+1319;6;dive;diving;0;0;6;0
+1320;6;ray;rays;5;0;1;0
+1321;6;awak;awake;5;0;1;0
+1322;6;glad;glad;1;4;1;0
+1323;6;nam;nam;1;0;4;1
+1324;6;blister;blister;2;0;4;0
+1325;6;dixi;dixie;2;4;0;0
+1326;5;alien;alien / aliens;1;3;1;0
+1327;5;laser;laser / lasers;3;1;0;1
+1328;5;distort;distort / distorts;1;0;4;0
+1329;5;approach;approached / approaching / approach;0;0;5;0
+1330;5;explain;explain / explained;3;0;2;0
+1331;5;coward;cowards / coward;5;0;0;0
+1332;5;resurrect;resurrection / resurrected / resurrect;2;0;3;0
+1333;5;swing;swing / swinging / swings;1;0;4;0
+1334;5;muscl;muscle / muscles;5;0;0;0
+1335;5;aim;aim / aiming;3;0;2;0
+1336;5;page;page / pages;5;0;0;0
+1337;5;scan;scan / scanning;0;1;4;0
+1338;5;wit;witness / wits;3;1;0;1
+1339;5;weak;weak / weakness;1;4;0;0
+1340;5;carv;carved / carve;0;0;5;0
+1341;5;devour;devouring / devour / devoured;0;1;4;0
+1342;5;juic;juice / juicing / juices;3;0;2;0
+1343;5;mess;mess / messing / messed;2;0;3;0
+1344;5;sentenc;sentenced / sentence;1;0;4;0
+1345;5;sanctuari;sanctuary;1;4;0;0
+1346;5;deadtim;deadtime;4;1;0;0
+1347;5;gleam;gleam / gleaming;1;0;4;0
+1348;5;hurt;hurt / hurting;1;0;4;0
+1349;5;quit;quite / quit;0;0;1;4
+1350;5;blacken;blackened / blacken / blackening;0;1;4;0
+1351;5;wire;wire / wired / wires;4;0;1;0
+1352;5;bomb;bomb / bombs;4;0;0;1
+1353;5;drain;drained / draining / drain / drains;0;1;4;0
+1354;5;obey;obey / obeying;1;0;4;0
+1355;5;accus;accusing / accuse;0;0;4;1
+1356;5;cloth;clothing / clothe / cloth / clothes;4;0;1;0
+1357;5;imagin;imagination / imagine;3;0;2;0
+1358;5;limb;limb / limbs;3;0;2;0
+1359;5;thrill;thrill / thrills;5;0;0;0
+1360;5;steed;steed / steeds;5;0;0;0
+1361;5;intent;intention / intent / intentions;4;0;1;0
+1362;5;belief;belief / beliefs;5;0;0;0
+1363;5;provid;providence / provider;1;0;0;4
+1364;5;bar;bar / bars;5;0;0;0
+1365;5;bit;bit / bits;5;0;0;0
+1366;5;mouth;mouth / mouths;5;0;0;0
+1367;5;arrow;arrows / arrow;5;0;0;0
+1368;5;predict;prediction / predictions / predicting / predictable;3;1;1;0
+1369;5;pack;pack / packing;4;0;1;0
+1370;5;sort;sort / sorts;4;0;1;0
+1371;5;chest;chest / chests;3;2;0;0
+1372;5;wrap;wrapped / wrap;1;0;4;0
+1373;5;mix;mix / mixed;1;2;2;0
+1374;5;complet;complete / completely;0;4;0;1
+1375;5;natur;nature / natural / naturally;2;2;0;1
+1376;5;sell;sell / selling;0;0;5;0
+1377;5;institut;institutional / institution;2;3;0;0
+1378;5;blast;blast / blasting;2;0;3;0
+1379;5;week;week / weeks;5;0;0;0
+1380;5;rich;riches / rich;4;1;0;0
+1381;5;divid;divide / divided;4;0;1;0
+1382;5;special;special;0;5;0;0
+1383;5;disast;disaster;5;0;0;0
+1384;5;instead;instead;0;0;0;5
+1385;5;total;total;0;5;0;0
+1386;5;velvet;velvet;5;0;0;0
+1387;5;heartbeat;heartbeat;5;0;0;0
+1388;5;poor;poor;0;5;0;0
+1389;5;wilder;wilderness;5;0;0;0
+1390;5;cool;cool;2;2;1;0
+1391;5;foot;foot;5;0;0;0
+1392;5;hi;hi;4;1;0;0
+1393;5;funni;funny;2;1;2;0
+1394;5;laid;laid;0;0;5;0
+1395;5;tranc;trance;5;0;0;0
+1396;5;hurrican;hurricane;5;0;0;0
+1397;5;autumn;autumn;5;0;0;0
+1398;5;amen;amen;2;0;1;2
+1399;5;helpless;helpless;3;2;0;0
+1400;5;sunshin;sunshine;5;0;0;0
+1401;5;accept;accept;0;1;2;2
+1402;5;vultur;vultures;5;0;0;0
+1403;5;messag;message;5;0;0;0
+1404;5;gendarm;gendarmes;5;0;0;0
+1405;5;onto;onto;0;0;0;5
+1406;5;okay;okay;4;0;1;0
+1407;5;deepest;deepest;0;5;0;0
+1408;5;k;k;5;0;0;0
+1409;5;breaker;breaker;5;0;0;0
+1410;5;deserv;deserve;1;0;4;0
+1411;5;voodoo;voodoo;5;0;0;0
+1412;5;certain;certain;0;5;0;0
+1413;5;3;3;0;0;0;5
+1414;5;trick;trick / tricks;2;0;3;0
+1415;5;pharaoh;pharaohs;1;4;0;0
+1416;5;america;america;4;1;0;0
+1417;5;f;f;0;5;0;0
+1418;5;sheep;sheep;1;4;0;0
+1419;5;sat;sat;0;0;5;0
+1420;5;crew;crew;4;0;1;0
+1421;5;energi;energy;5;0;0;0
+1422;5;stripe;stripes;4;0;1;0
+1423;5;mystic;mystic;0;5;0;0
+1424;5;bottl;bottle;5;0;0;0
+1425;5;whatev;whatever;1;0;0;4
+1426;5;comet;comet;5;0;0;0
+1427;5;doubl;double;0;5;0;0
+1428;5;osiri;osiris;0;0;0;5
+1429;5;hypnot;hypnotized / hypnotizing / hypnotize;0;1;4;0
+1430;5;shut;shut;0;1;4;0
+1431;5;bag;bags;5;0;0;0
+1432;5;runner;runner;5;0;0;0
+1433;5;driven;driven;0;0;5;0
+1434;5;majesti;majesty;3;2;0;0
+1435;5;serpent;serpent;5;0;0;0
+1436;5;buy;buy;0;0;5;0
+1437;5;pressur;pressure;5;0;0;0
+1438;5;sweet;sweet;0;4;1;0
+1439;5;pole;pole;4;0;1;0
+1440;5;built;built;0;0;5;0
+1441;5;inner;inner;0;5;0;0
+1442;5;forsaken;forsaken;0;3;2;0
+1443;5;em;em;3;2;0;0
+1444;5;vanquish;vanquished;0;4;1;0
+1445;5;elect;elected;0;0;5;0
+1446;5;moral;morals / morality;5;0;0;0
+1447;5;centuri;centuries / century;5;0;0;0
+1448;5;ga;gas;5;0;0;0
+1449;5;demand;demand / demanding;3;0;2;0
+1450;5;angri;angry / angriness;1;4;0;0
+1451;5;un;un;0;5;0;0
+1452;5;avenu;avenue / avenues;5;0;0;0
+1453;5;understood;understood;1;1;3;0
+1454;5;prevail;prevailing / prevailed / prevail;1;0;4;0
+1455;5;news;news;5;0;0;0
+1456;5;countless;countless;1;4;0;0
+1457;5;soar;soar / soaring;0;0;5;0
+1458;5;garden;garden / gardens;5;0;0;0
+1459;5;slam;slammed / slam / slams;2;0;3;0
+1460;5;stage;stage;5;0;0;0
+1461;5;justifi;justify;0;0;5;0
+1462;5;babe;babe;4;0;0;1
+1463;5;geniu;genius;5;0;0;0
+1464;5;leap;leap / leaps;0;0;5;0
+1465;5;phobia;phobia;5;0;0;0
+1466;5;valley;valley;5;0;0;0
+1467;5;discoveri;discovery;4;0;1;0
+1468;5;constant;constant;0;5;0;0
+1469;5;guilt;guilt;5;0;0;0
+1470;5;stell;stelle;3;0;2;0
+1471;5;whole;whole;2;3;0;0
+1472;5;fog;fog;5;0;0;0
+1473;5;legion;legions;5;0;0;0
+1474;5;paradis;paradise;5;0;0;0
+1475;5;jungl;jungle;5;0;0;0
+1476;5;amidst;amidst;0;2;2;1
+1477;5;drool;drooling / drool;1;0;4;0
+1478;5;glanc;glance;3;0;2;0
+1479;5;runaway;runaway;0;5;0;0
+1480;5;dear;dear;3;2;0;0
+1481;5;dancer;dancer;5;0;0;0
+1482;5;breez;breeze;5;0;0;0
+1483;5;remov;remove / removed;0;0;5;0
+1484;5;teeth;teeth;5;0;0;0
+1485;5;fun;fun;4;1;0;0
+1486;5;captur;captured / capture;2;3;0;0
+1487;5;falter;falter / faltered;1;0;3;1
+1488;5;nice;nice;0;4;0;1
+1489;5;evok;evoking / evoke;0;0;5;0
+1490;5;caress;caress;5;0;0;0
+1491;5;illus;illusion;5;0;0;0
+1492;4;except;except / exception / exceptions;2;0;0;2
+1493;4;vagu;vagueness / vague;4;0;0;0
+1494;4;surround;surrounded / surround;0;0;3;1
+1495;4;wipe;wipes / wipe / wiped;1;0;3;0
+1496;4;blasphem;blasphemous / blasphemed / blasphemers;1;2;1;0
+1497;4;beam;beams / beam / beaming;3;0;1;0
+1498;4;fri;fries / fry / fried;2;0;2;0
+1499;4;shit;shit / shitting;1;1;2;0
+1500;4;bolt;bolted / bolts;2;0;2;0
+1501;4;mistak;mistake / mistakes;4;0;0;0
+1502;4;crave;crave / craving / craved;0;0;4;0
+1503;4;impal;impaled / impaling / impale;0;0;4;0
+1504;4;ignit;ignition / ignite / ignited;2;0;2;0
+1505;4;threaten;threaten / threatening;0;0;4;0
+1506;4;grind;grinding / grind;2;0;2;0
+1507;4;martyr;martyr / martyrs;3;0;0;1
+1508;4;measur;measure / measures;2;0;2;0
+1509;4;jackal;jackals / jackal;4;0;0;0
+1510;4;stumbl;stumble / stumbling / stumbled;0;3;1;0
+1511;4;determin;determination / determined;3;1;0;0
+1512;4;rack;rack / racks;2;0;2;0
+1513;4;sneak;sneaking / sneak;0;0;4;0
+1514;4;penetr;penetrate / penetrating;0;0;4;0
+1515;4;ignor;ignore / ignorance;2;0;2;0
+1516;4;case;case / cased;3;0;1;0
+1517;4;bare;bare / barely;0;1;2;1
+1518;4;foe;foe / foes;3;1;0;0
+1519;4;busi;business / busy;3;1;0;0
+1520;4;collect;collective / collect / collecting;1;1;2;0
+1521;4;tower;tower / towers;4;0;0;0
+1522;4;yield;yield / yielded;1;0;3;0
+1523;4;erupt;erupted / erupts / erupt;2;0;2;0
+1524;4;olden;olden;0;4;0;0
+1525;4;ace;aces / ace;4;0;0;0
+1526;4;chant;chanting / chants;2;0;2;0
+1527;4;disintegr;disintegrate / disintegration;2;0;2;0
+1528;4;defens;defenses / defense;4;0;0;0
+1529;4;adult;adult / adults;4;0;0;0
+1530;4;lover;lover / lovers;4;0;0;0
+1531;4;compass;compass / compassion;4;0;0;0
+1532;4;grab;grab / grabbed;1;0;3;0
+1533;4;villain;villain / villainous;3;1;0;0
+1534;4;chop;chopping / chopped;0;0;4;0
+1535;4;limit;limit / limitations / limits;4;0;0;0
+1536;4;raven;ravens / raven;3;1;0;0
+1537;4;sow;sowing / sowed;0;0;4;0
+1538;4;devast;devastated / devastates / devastation / devastating;1;0;3;0
+1539;4;instruct;instructed / instructions / instruction;2;0;2;0
+1540;4;coupl;couple / coupled;3;0;1;0
+1541;4;plant;plant / planted;3;0;1;0
+1542;4;split;split / splits;0;0;4;0
+1543;4;outnumb;outnumbered / outnumber;0;0;4;0
+1544;4;problem;problem / problems;4;0;0;0
+1545;4;swallow;swallow / swallowed / swallows;1;0;3;0
+1546;4;lash;lashes / lash / lashings;3;1;0;0
+1547;4;despis;despise / despising / despised;0;1;3;0
+1548;4;numb;numbing / numb;2;0;2;0
+1549;4;lung;lunges / lunge;1;0;3;0
+1550;4;fighter;fighter / fighters;3;1;0;0
+1551;4;stir;stir / stirring;0;1;3;0
+1552;4;color;color / colors;3;0;1;0
+1553;4;worship;worship / worshipping;0;0;4;0
+1554;4;shade;shades / shade;4;0;0;0
+1555;4;suit;suit / suits;4;0;0;0
+1556;4;mental;mentally / mental;0;1;0;3
+1557;4;termin;terminate / termination / terminations;4;0;0;0
+1558;4;pyre;pyre / pyres;4;0;0;0
+1559;4;chill;chill / chilled / chilling;2;0;2;0
+1560;4;weav;weaving / weave;2;0;2;0
+1561;4;depart;departed / departs / depart;1;0;3;0
+1562;4;depth;depths / depth;4;0;0;0
+1563;4;preserv;preservation / preserved;2;0;2;0
+1564;4;echo;echoing / echos / echo / echoes;1;0;3;0
+1565;4;circuit;circuits / circuit;4;0;0;0
+1566;4;ram;ram / ramming;2;0;2;0
+1567;4;bang;bang / banging;1;0;3;0
+1568;4;paint;paint / painted;1;2;1;0
+1569;4;worri;worry / worried;1;1;2;0
+1570;4;greet;greet / greeted / greeting;0;0;4;0
+1571;4;earn;earned / earning;0;0;4;0
+1572;4;hallelujah;hallelujah;2;2;0;0
+1573;4;flower;flowers;4;0;0;0
+1574;4;tough;tough;0;4;0;0
+1575;4;lower;lower;0;3;1;0
+1576;4;sigh;sigh;0;4;0;0
+1577;4;freez;freezing;0;1;3;0
+1578;4;oblivion;oblivion;3;0;0;1
+1579;4;broke;broke;0;0;4;0
+1580;4;thine;thine;1;3;0;0
+1581;4;trigger;trigger;4;0;0;0
+1582;4;zone;zone;4;0;0;0
+1583;4;convers;conversation;4;0;0;0
+1584;4;someday;someday;3;1;0;0
+1585;4;ecstasi;ecstasy;1;2;1;0
+1586;4;saviour;saviour;3;0;1;0
+1587;4;fifteen;fifteen;1;3;0;0
+1588;4;conqueror;conqueror;4;0;0;0
+1589;4;hideou;hideous;0;4;0;0
+1590;4;destructor;destructor;4;0;0;0
+1591;4;captor;captor;4;0;0;0
+1592;4;modern;modern;0;4;0;0
+1593;4;tunnel;tunnel;4;0;0;0
+1594;4;chrome;chrome;1;3;0;0
+1595;4;rune;runes;4;0;0;0
+1596;4;vanish;vanish;0;1;3;0
+1597;4;mask;mask;4;0;0;0
+1598;4;il;il;3;1;0;0
+1599;4;forti;forty;2;2;0;0
+1600;4;captain;captain;3;0;1;0
+1601;4;third;third;1;3;0;0
+1602;4;dominion;dominion;4;0;0;0
+1603;4;john;john;4;0;0;0
+1604;4;grey;grey;0;3;1;0
+1605;4;suprem;supreme;1;2;0;1
+1606;4;propheci;prophecy;4;0;0;0
+1607;4;princess;princess;3;0;1;0
+1608;4;pure;pure;4;0;0;0
+1609;4;greater;greater;0;4;0;0
+1610;4;trip;trip;4;0;0;0
+1611;4;sharp;sharp;0;4;0;0
+1612;4;sorri;sorry;2;1;1;0
+1613;4;although;although;0;0;0;4
+1614;4;terribl;terrible;0;4;0;0
+1615;4;brighter;brighter;2;0;0;2
+1616;4;ware;wares;4;0;0;0
+1617;4;host;host;4;0;0;0
+1618;4;tryin;tryin;1;1;2;0
+1619;4;island;island;4;0;0;0
+1620;4;abyss;abyss;3;1;0;0
+1621;4;judgment;judgment;3;1;0;0
+1622;4;knight;knights;4;0;0;0
+1623;4;sympathi;sympathy;1;2;1;0
+1624;4;afterlif;afterlife;4;0;0;0
+1625;4;bore;bore;0;0;4;0
+1626;4;banner;banners;4;0;0;0
+1627;4;nevermor;nevermore;0;0;1;3
+1628;4;ticket;ticket;4;0;0;0
+1629;4;disgrac;disgrace;4;0;0;0
+1630;4;almost;almost;0;0;0;4
+1631;4;clearli;clearly;0;0;0;4
+1632;4;simpli;simply;0;0;0;4
+1633;4;nearbi;nearby;0;4;0;0
+1634;4;vice;vice;4;0;0;0
+1635;4;thrive;thrives;3;0;1;0
+1636;4;defiant;defiant;0;4;0;0
+1637;4;hmmm;hmmm;4;0;0;0
+1638;4;clock;clock;4;0;0;0
+1639;4;toss;toss;4;0;0;0
+1640;4;woah;woah;3;1;0;0
+1641;4;eve;eve;0;0;4;0
+1642;4;cradl;cradle;4;0;0;0
+1643;4;shroud;shrouded;0;0;4;0
+1644;4;progress;progress;4;0;0;0
+1645;4;allow;allowed;0;0;4;0
+1646;4;weather;weather;2;1;1;0
+1647;4;vain;vain;4;0;0;0
+1648;4;spire;spires;4;0;0;0
+1649;4;dirti;dirty;2;2;0;0
+1650;4;lake;lake;4;0;0;0
+1651;4;blank;blank;1;3;0;0
+1652;4;ablaz;ablaze;1;1;2;0
+1653;4;contact;contact;2;0;2;0
+1654;4;decapit;decapitate;2;2;0;0
+1655;4;mhhh;mhhh;3;1;0;0
+1656;4;purpos;purpose;4;0;0;0
+1657;4;triumph;triumph;3;0;1;0
+1658;4;kitchen;kitchen;4;0;0;0
+1659;4;spare;spare;0;1;3;0
+1660;4;p;p;3;0;1;0
+1661;4;undead;undead;2;2;0;0
+1662;4;tramont;tramontate;4;0;0;0
+1663;4;trust;trust;3;0;1;0
+1664;4;restless;restless;1;3;0;0
+1665;4;uniti;unity;4;0;0;0
+1666;4;legaci;legacy;4;0;0;0
+1667;4;apart;apart;0;0;1;3
+1668;4;honey;honey;4;0;0;0
+1669;4;mercuri;mercury;4;0;0;0
+1670;4;unless;unless;0;0;0;4
+1671;4;nerd;nerd;2;2;0;0
+1672;4;sli;sly;0;0;0;4
+1673;4;explan;explanation;4;0;0;0
+1674;4;school;school;4;0;0;0
+1675;4;weaker;weaker;0;4;0;0
+1676;4;anna;anna;4;0;0;0
+1677;4;whore;whore;2;0;1;1
+1678;4;ing;ing;0;0;4;0
+1679;4;hade;hades;4;0;0;0
+1680;4;denner;denner;4;0;0;0
+1681;4;ill;ill;2;0;0;2
+1682;4;southern;southern;0;4;0;0
+1683;4;anubi;anubis;2;0;0;2
+1684;4;mansion;mansion;4;0;0;0
+1685;4;bigfoot;bigfoot;4;0;0;0
+1686;4;retreat;retreat;3;0;1;0
+1687;4;jack;jack;2;0;2;0
+1688;4;fair;fair;2;2;0;0
+1689;4;howev;however;0;0;0;4
+1690;4;13;13;0;0;0;4
+1691;4;avoid;avoid;0;1;3;0
+1692;4;wrought;wrought;0;0;4;0
+1693;4;infidel;infidels;4;0;0;0
+1694;4;starlit;starlit;4;0;0;0
+1695;4;yawn;yawn;4;0;0;0
+1696;4;state;state;4;0;0;0
+1697;4;wage;wage;4;0;0;0
+1698;4;heartbreak;heartbreak;4;0;0;0
+1699;4;blink;blink;3;0;1;0
+1700;4;fang;fangs;4;0;0;0
+1701;4;hotel;hotel;4;0;0;0
+1702;4;radio;radio;4;0;0;0
+1703;4;london;london;0;2;2;0
+1704;4;russia;russia;3;0;1;0
+1705;4;luck;luck;4;0;0;0
+1706;4;penanc;penance;4;0;0;0
+1707;4;chao;chaos;4;0;0;0
+1708;4;whiskey;whiskey;3;1;0;0
+1709;4;overcom;overcome;0;0;4;0
+1710;4;albatross;albatross;4;0;0;0
+1711;4;b;b;4;0;0;0
+1712;4;righteou;righteous;0;4;0;0
+1713;4;stray;stray;0;0;4;0
+1714;4;merchantman;merchantman;4;0;0;0
+1715;4;bush;bushes;4;0;0;0
+1716;4;armor;armor;4;0;0;0
+1717;4;refuge;refugees;4;0;0;0
+1718;4;lifeless;lifeless;0;3;0;1
+1719;4;sale;sale;4;0;0;0
+1720;4;instrument;instrumental;0;4;0;0
+1721;3;robe;robe / robes;3;0;0;0
+1722;3;constantli;constantly;0;0;0;3
+1723;3;protector;protectors / protector;3;0;0;0
+1724;3;priestess;priestess;3;0;0;0
+1725;3;magazin;magazines / magazine;3;0;0;0
+1726;3;pulver;pulverize;0;0;3;0
+1727;3;vibrat;vibrations / vibrating / vibration;2;0;1;0
+1728;3;borrow;borrow / borrowed;0;0;3;0
+1729;3;period;period / periods;3;0;0;0
+1730;3;perpetu;perpetual;0;3;0;0
+1731;3;demis;demise;3;0;0;0
+1732;3;treat;treated / treating / treat;0;0;3;0
+1733;3;snarl;snarl;2;0;1;0
+1734;3;realiti;reality;3;0;0;0
+1735;3;masquerad;masquerade / masquerader;3;0;0;0
+1736;3;attract;attracted / attract / attracting;1;0;2;0
+1737;3;ought;ought;0;0;0;3
+1738;3;saintli;saintly;0;0;0;3
+1739;3;corrupt;corruption / corrupting;2;0;1;0
+1740;3;spotlight;spotlights / spotlight;3;0;0;0
+1741;3;maling;malingers;3;0;0;0
+1742;3;knuckl;knuckles / knuckle;2;0;1;0
+1743;3;nostalg;nostalgic;0;3;0;0
+1744;3;leper;lepers / leper;3;0;0;0
+1745;3;introduc;introduce;0;0;3;0
+1746;3;agoni;agony;3;0;0;0
+1747;3;zeu;zeus;1;0;2;0
+1748;3;earli;early;0;0;0;3
+1749;3;belli;belly / bellies;1;0;0;2
+1750;3;puls;pulse;3;0;0;0
+1751;3;peel;peeling;0;0;3;0
+1752;3;social;social;0;3;0;0
+1753;3;plead;plead / pleaded / pleading;1;0;2;0
+1754;3;sourc;source;3;0;0;0
+1755;3;realm;realm / realms;3;0;0;0
+1756;3;dearli;dearly;0;0;0;3
+1757;3;compel;compel / compelled / compelling;0;0;3;0
+1758;3;popul;population;3;0;0;0
+1759;3;impend;impending;0;3;0;0
+1760;3;vindic;vindication / vindicator / vindicate;2;0;1;0
+1761;3;grass;grass / grasses;3;0;0;0
+1762;3;investig;investigation / investigate;2;0;1;0
+1763;3;flag;flag / flags;3;0;0;0
+1764;3;glare;glare / glares;3;0;0;0
+1765;3;effect;effective / effects;1;2;0;0
+1766;3;rot;rotting / rot;0;0;3;0
+1767;3;mace;mace / maces;3;0;0;0
+1768;3;civil;civilized / civilization;1;2;0;0
+1769;3;skull;skull / skulls;3;0;0;0
+1770;3;scheme;schemes / scheme;1;0;1;1
+1771;3;mutil;mutilate / mutilation;3;0;0;0
+1772;3;surg;surging / surge;1;0;2;0
+1773;3;impass;impassioned / impassive;0;1;2;0
+1774;3;ritual;ritual / rituals;2;1;0;0
+1775;3;pluck;pluck / plucked;0;0;2;1
+1776;3;servant;servants / servant;3;0;0;0
+1777;3;evangel;evangels / evangelizing;2;0;1;0
+1778;3;piss;piss / pissed;1;0;2;0
+1779;3;preach;preach / preaching;1;0;2;0
+1780;3;berserk;berserker / berserk;2;0;0;1
+1781;3;lick;lick / licks;1;0;2;0
+1782;3;sorceri;sorcery / sorceries;2;1;0;0
+1783;3;steam;steam / steaming;2;0;1;0
+1784;3;commit;commit / committed;0;0;3;0
+1785;3;shackl;shackled / shackles;1;0;2;0
+1786;3;kid;kids / kidding;2;0;1;0
+1787;3;note;note / notes;3;0;0;0
+1788;3;complac;complacency / complacent;2;1;0;0
+1789;3;petrifi;petrifies / petrified;2;1;0;0
+1790;3;score;scores / score;1;0;2;0
+1791;3;visit;visit / visited;0;0;3;0
+1792;3;omen;omen / omens;3;0;0;0
+1793;3;hesit;hesitate / hesitating;0;0;3;0
+1794;3;rat;rats / rat;3;0;0;0
+1795;3;fork;forked / fork;1;0;2;0
+1796;3;forsak;forsake / forsakes;1;0;2;0
+1797;3;sever;severed / several;0;1;2;0
+1798;3;strangl;strangle / strangled;2;0;1;0
+1799;3;shape;shape / shapes;3;0;0;0
+1800;3;leash;leash;2;1;0;0
+1801;3;scatter;scattered / scatter;1;0;2;0
+1802;3;fuel;fuel / fueled;2;0;1;0
+1803;3;messeng;messenger / messengers;3;0;0;0
+1804;3;scar;scarred / scars;1;0;2;0
+1805;3;quell;quelled / quelle;0;0;2;1
+1806;3;awaken;awaken / awakened;0;0;3;0
+1807;3;discov;discover / discovered;1;0;2;0
+1808;3;bitter;bitter / bitterness;1;2;0;0
+1809;3;parri;parry / parried;2;0;1;0
+1810;3;sack;sack / sacks;3;0;0;0
+1811;3;bake;baking / baked;2;1;0;0
+1812;3;label;label / labels;3;0;0;0
+1813;3;russian;russian / russians;1;2;0;0
+1814;3;tension;tension / tensions;3;0;0;0
+1815;3;mate;mate / mates;1;1;1;0
+1816;3;extermin;extermination / exterminator / exterminate;2;0;1;0
+1817;3;judg;judge / judges;2;0;1;0
+1818;3;detect;detection / detectives / detective;3;0;0;0
+1819;3;jailer;jailer / jailers;3;0;0;0
+1820;3;design;designing / designated / designs;1;0;2;0
+1821;3;bestow;bestowed / bestowing / bestow;0;0;3;0
+1822;3;crimin;criminal / criminals;1;2;0;0
+1823;3;separ;separated / separate;0;1;2;0
+1824;3;dagger;daggers / dagger;3;0;0;0
+1825;3;crouch;crouches / crouching;0;0;3;0
+1826;3;doorway;doorways / doorway;3;0;0;0
+1827;3;cheer;cheering / cheers;2;0;1;0
+1828;3;creat;created / creating / create;0;0;3;0
+1829;3;mound;mound / mounds;2;0;1;0
+1830;3;contempl;contemplate / contemplating;0;0;3;0
+1831;3;alley;alley / alleys;3;0;0;0
+1832;3;ceremoni;ceremony / ceremonial;2;1;0;0
+1833;3;trial;trial / trials;3;0;0;0
+1834;3;confin;confinement / confined;2;0;1;0
+1835;3;cling;cling / clinging;0;0;3;0
+1836;3;thrust;thrust / thrusting;1;0;2;0
+1837;3;bomber;bombers / bomber;3;0;0;0
+1838;3;scrambl;scrambling / scramble;0;1;2;0
+1839;3;hound;hounds / hound;3;0;0;0
+1840;3;gain;gain / gained;2;0;1;0
+1841;3;shove;shove / shoved;1;0;2;0
+1842;3;shoulder;shoulder / shoulders;3;0;0;0
+1843;3;mention;mention / mentioned;2;0;1;0
+1844;3;absolut;absolute / absolutely;0;1;0;2
+1845;3;fix;fix / fixed;0;0;3;0
+1846;3;sear;sears / searing;0;1;2;0
+1847;3;enslav;enslaving / enslavers;1;0;2;0
+1848;3;evid;evidence / evident;2;1;0;0
+1849;3;settl;settle / settled;0;0;3;0
+1850;3;prime;prime / primed;0;2;1;0
+1851;3;sweep;sweep / sweeps;1;0;2;0
+1852;3;timeless;timeless;2;1;0;0
+1853;3;core;core;3;0;0;0
+1854;3;manacl;manacled;0;3;0;0
+1855;3;cure;cure;3;0;0;0
+1856;3;sixteen;sixteen;0;1;2;0
+1857;3;venom;venom;3;0;0;0
+1858;3;sown;sown;0;1;2;0
+1859;3;elder;elders;3;0;0;0
+1860;3;plug;plug;3;0;0;0
+1861;3;cute;cute;2;1;0;0
+1862;3;drip;dripping;0;0;3;0
+1863;3;filth;filth;3;0;0;0
+1864;3;heavenli;heavenly;0;0;0;3
+1865;3;dice;dice;3;0;0;0
+1866;3;embrac;embrace;1;0;2;0
+1867;3;wors;worse;0;3;0;0
+1868;3;yearn;yearning;2;0;1;0
+1869;3;cellar;cellar;1;2;0;0
+1870;3;eighteen;eighteen;0;2;1;0
+1871;3;doth;doth;1;0;2;0
+1872;3;molten;molten;1;2;0;0
+1873;3;politician;politicians;3;0;0;0
+1874;3;wither;withered;0;2;1;0
+1875;3;spine;spine;3;0;0;0
+1876;3;hangman;hangman;3;0;0;0
+1877;3;mon;mon;1;2;0;0
+1878;3;wife;wife;3;0;0;0
+1879;3;calm;calm;1;1;1;0
+1880;3;underneath;underneath;0;1;0;2
+1881;3;coat;coat;3;0;0;0
+1882;3;poetri;poetry;3;0;0;0
+1883;3;presenc;presence;3;0;0;0
+1884;3;skeleton;skeletons;3;0;0;0
+1885;3;curtain;curtain;3;0;0;0
+1886;3;asham;ashamed;0;0;3;0
+1887;3;awhil;awhile;0;1;0;2
+1888;3;code;code;3;0;0;0
+1889;3;stun;stun;3;0;0;0
+1890;3;saniti;sanity;3;0;0;0
+1891;3;hush;hush;2;1;0;0
+1892;3;telephon;telephone;3;0;0;0
+1893;3;incant;incantations;3;0;0;0
+1894;3;dim;dim;1;0;1;1
+1895;3;beer;beer;3;0;0;0
+1896;3;food;food;3;0;0;0
+1897;3;melodi;melody;3;0;0;0
+1898;3;strongest;strongest;0;3;0;0
+1899;3;western;western;0;3;0;0
+1900;3;8;8;0;0;0;3
+1901;3;roof;roof;3;0;0;0
+1902;3;aid;aid;3;0;0;0
+1903;3;firehead;firehead;3;0;0;0
+1904;3;reaction;reaction;3;0;0;0
+1905;3;blew;blew;0;0;2;1
+1906;3;livin;livin;3;0;0;0
+1907;3;alight;alight;0;2;1;0
+1908;3;alreadi;already;0;0;0;3
+1909;3;hypnotis;hypnotised;0;2;1;0
+1910;3;decis;decision;3;0;0;0
+1911;3;famili;family;3;0;0;0
+1912;3;annica;annica;1;1;0;1
+1913;3;hurri;hurry;2;1;0;0
+1914;3;forgiven;forgiven;0;0;3;0
+1915;3;singer;singer;3;0;0;0
+1916;3;sex;sex;3;0;0;0
+1917;3;22;22;0;0;0;3
+1918;3;thirsti;thirsty;0;3;0;0
+1919;3;stoke;stoke;0;0;3;0
+1920;3;attent;attention;3;0;0;0
+1921;3;treason;treason;2;0;1;0
+1922;3;twilight;twilight;3;0;0;0
+1923;3;fault;fault;3;0;0;0
+1924;3;grunt;grunts;3;0;0;0
+1925;3;flat;flat;0;3;0;0
+1926;3;womb;womb;3;0;0;0
+1927;3;knowledg;knowledge;2;0;1;0
+1928;3;glamour;glamour;3;0;0;0
+1929;3;coffin;coffin;3;0;0;0
+1930;3;plane;plane;3;0;0;0
+1931;3;foretold;foretold;0;0;2;1
+1932;3;brow;brow;3;0;0;0
+1933;3;evilut;evilution;1;0;2;0
+1934;3;macedon;macedon;3;0;0;0
+1935;3;haircut;haircut;3;0;0;0
+1936;3;giver;giver;3;0;0;0
+1937;3;shellshock;shellshock;3;0;0;0
+1938;3;babylon;babylon;2;0;1;0
+1939;3;risen;risen;1;0;2;0
+1940;3;persia;persia;3;0;0;0
+1941;3;powerslav;powerslave;3;0;0;0
+1942;3;dove;dove;3;0;0;0
+1943;3;atop;atop;0;0;0;3
+1944;3;paper;paper;3;0;0;0
+1945;3;conceal;concealed;0;0;3;0
+1946;3;glimps;glimpse;3;0;0;0
+1947;3;simpl;simple;0;3;0;0
+1948;3;softli;softly;0;0;0;3
+1949;3;signal;signal;1;1;1;0
+1950;3;swordsman;swordsman;0;3;0;0
+1951;3;plenti;plenty;2;1;0;0
+1952;3;vivid;vivid;2;1;0;0
+1953;3;hahaha;hahaha;2;1;0;0
+1954;3;yowsa;yowsa;0;0;2;1
+1955;3;ember;embers;3;0;0;0
+1956;3;ars;arse;3;0;0;0
+1957;3;sooner;sooner;1;0;0;2
+1958;3;sole;sole;0;3;0;0
+1959;3;emerg;emerge;3;0;0;0
+1960;3;exhal;exhale;0;0;3;0
+1961;3;bold;bold;0;3;0;0
+1962;3;forward;forward;0;0;0;3
+1963;3;nessun;nessun;2;1;0;0
+1964;3;satisfact;satisfaction;3;0;0;0
+1965;3;wet;wet;0;1;0;2
+1966;3;proof;proof;2;0;1;0
+1967;3;mead;mead;3;0;0;0
+1968;3;playin;playin;3;0;0;0
+1969;3;servic;service;3;0;0;0
+1970;3;aflam;aflame;1;0;2;0
+1971;3;momma;momma;2;1;0;0
+1972;3;ya;ya;0;0;1;2
+1973;3;stroll;strolling;0;0;3;0
+1974;3;damnat;damnation;3;0;0;0
+1975;3;mud;mud;3;0;0;0
+1976;3;1;1;0;0;0;3
+1977;3;pact;pact;3;0;0;0
+1978;3;viciou;vicious;0;3;0;0
+1979;3;outcast;outcast;3;0;0;0
+1980;3;saddl;saddle;0;3;0;0
+1981;3;dynamit;dynamite;0;3;0;0
+1982;3;probabl;probably;0;0;0;3
+1983;3;werewolf;werewolf;3;0;0;0
+1984;3;grain;grain;3;0;0;0
+1985;3;rag;rags;3;0;0;0
+1986;3;comrad;comrades;3;0;0;0
+1987;3;receiv;receive;0;0;3;0
+1988;3;belfri;belfry;3;0;0;0
+1989;3;unicorn;unicorn;0;3;0;0
+1990;3;genocid;genocide;2;1;0;0
+1991;3;oil;oil;3;0;0;0
+1992;3;threw;threw;0;0;3;0
+1993;3;rum;rum;3;0;0;0
+1994;3;haze;haze;3;0;0;0
+1995;3;madmen;madmen;3;0;0;0
+1996;3;monstros;monstrosity;3;0;0;0
+1997;3;overdr;overdrive;1;2;0;0
+1998;3;halloween;halloween;2;1;0;0
+1999;3;g;g;2;1;0;0
+2000;3;throughout;throughout;0;0;0;3
+2001;3;nigh;nigh;0;3;0;0
+2002;3;spoken;spoken;0;0;3;0
+2003;3;crimson;crimson;3;0;0;0
+2004;3;distress;distress;3;0;0;0
+2005;3;proudli;proudly;0;0;0;3
+2006;3;rebirth;rebirth;3;0;0;0
+2007;3;slash;slashed;0;0;3;0
+2008;3;nod;nod;3;0;0;0
+2009;3;burden;burden;3;0;0;0
+2010;3;betsi;betsy;2;0;0;1
+2011;3;prais;praise;2;0;1;0
+2012;3;baecula;baecula;2;0;0;1
+2013;3;mama;mama;1;1;1;0
+2014;3;yellow;yellow;0;2;0;1
+2015;3;drug;drug;3;0;0;0
+2016;3;keeper;keeper;3;0;0;0
+2017;3;youlook;youlook;3;0;0;0
+2018;3;prize;prize;3;0;0;0
+2019;3;eager;eager;3;0;0;0
+2020;3;compani;company;3;0;0;0
+2021;3;clearer;clearer;0;3;0;0
+2022;3;helm;helm;3;0;0;0
+2023;3;target;target;3;0;0;0
+2024;3;oppress;oppressed;0;0;3;0
+2025;3;berlin;berlin;3;0;0;0
+2026;3;payment;payment;3;0;0;0
+2027;3;drum;drums;2;0;1;0
+2028;3;horn;horns;1;0;2;0
+2029;3;unaveng;unavenged;0;3;0;0
+2030;3;napalm;napalm;0;1;0;2
+2031;3;loom;looms;0;0;3;0
+2032;3;knot;knot;3;0;0;0
+2033;3;unsaid;unsaid;0;3;0;0
+2034;3;mio;mio;3;0;0;0
+2035;3;untouch;untouched;0;3;0;0
+2036;3;frozen;frozen;0;1;2;0
+2037;3;less;less;1;2;0;0
+2038;3;wrath;wrath;3;0;0;0
+2039;3;crossfir;crossfire;3;0;0;0
+2040;3;eht;eht;3;0;0;0
+2041;3;dozen;dozen;3;0;0;0
+2042;3;biggest;biggest;0;3;0;0
+2043;3;lamb;lamb;3;0;0;0
+2044;3;hollow;hollow;2;1;0;0
+2045;3;joint;joint;0;3;0;0
+2046;3;purpl;purple;0;3;0;0
+2047;3;site;site;3;0;0;0
+2048;2;dish;dish;0;0;2;0
+2049;2;fearless;fearless;1;1;0;0
+2050;2;willpow;willpower;1;1;0;0
+2051;2;furnac;furnace;2;0;0;0
+2052;2;greedi;greedy;1;1;0;0
+2053;2;system;system;2;0;0;0
+2054;2;stitch;stitch;0;0;2;0
+2055;2;remind;reminds;0;0;2;0
+2056;2;dress;dressing / dressed;1;0;1;0
+2057;2;asund;asunder;1;1;0;0
+2058;2;recal;recall;0;0;2;0
+2059;2;shook;shook;2;0;0;0
+2060;2;rough;rough;0;2;0;0
+2061;2;wane;waned / wane;1;0;1;0
+2062;2;inspir;inspire / inspirations;1;1;0;0
+2063;2;decay;decaying / decay;0;0;2;0
+2064;2;grace;grace;2;0;0;0
+2065;2;conced;concede;0;0;2;0
+2066;2;bide;biding / bide;0;0;2;0
+2067;2;strictli;strictly;0;0;0;2
+2068;2;slide;slide / sliding;0;0;2;0
+2069;2;short;short;0;1;0;1
+2070;2;consol;consoling / consolation;1;0;1;0
+2071;2;pillag;pillage / pillaging;1;0;1;0
+2072;2;worst;worst;0;2;0;0
+2073;2;exampl;example;2;0;0;0
+2074;2;fatal;fatal / fatality;1;1;0;0
+2075;2;alarm;alarmed / alarm;1;0;1;0
+2076;2;infest;infested / infest;0;0;2;0
+2077;2;primit;primitive;0;2;0;0
+2078;2;lifelin;lifelines / lifeline;2;0;0;0
+2079;2;injustic;injustice;2;0;0;0
+2080;2;testifi;testify;0;0;2;0
+2081;2;tick;ticking;1;0;1;0
+2082;2;sampl;sample / sampled;1;0;1;0
+2083;2;brighten;brightened;0;0;2;0
+2084;2;coil;coil;2;0;0;0
+2085;2;manner;manner;2;0;0;0
+2086;2;baptiz;baptizing;0;0;2;0
+2087;2;christen;christened;0;0;2;0
+2088;2;damag;damaged / damage;0;0;2;0
+2089;2;precis;precision;2;0;0;0
+2090;2;glint;glint;2;0;0;0
+2091;2;solid;solid;0;1;1;0
+2092;2;mow;mow / mowing;0;0;2;0
+2093;2;knive;knives;2;0;0;0
+2094;2;flicker;flickers / flicker;1;0;1;0
+2095;2;grisli;grisly;0;1;0;1
+2096;2;phase;phase;2;0;0;0
+2097;2;octan;octane;2;0;0;0
+2098;2;ammunit;ammunition;2;0;0;0
+2099;2;breakneck;breakneck;2;0;0;0
+2100;2;immin;imminent;0;2;0;0
+2101;2;stealin;stealin;0;0;2;0
+2102;2;infiltr;infiltrate;0;0;2;0
+2103;2;tuck;tucked;0;0;2;0
+2104;2;shriek;shrieks;2;0;0;0
+2105;2;fearsom;fearsome;0;2;0;0
+2106;2;seat;seat;2;0;0;0
+2107;2;uncov;uncover;0;0;0;2
+2108;2;stillborn;stillborn;2;0;0;0
+2109;2;graveyard;graveyard;2;0;0;0
+2110;2;headless;headless;2;0;0;0
+2111;2;weird;weird;1;1;0;0
+2112;2;chapel;chapel;2;0;0;0
+2113;2;team;team;2;0;0;0
+2114;2;saigon;saigon;2;0;0;0
+2115;2;j;j;2;0;0;0
+2116;2;berri;berries;2;0;0;0
+2117;2;box;box;2;0;0;0
+2118;2;shrine;shrine;2;0;0;0
+2119;2;decemb;december;2;0;0;0
+2120;2;drank;drank;0;1;1;0
+2121;2;chime;chime;1;0;1;0
+2122;2;sweetest;sweetest;0;2;0;0
+2123;2;grandma;grandma;0;1;1;0
+2124;2;abandon;abandon;0;0;1;1
+2125;2;cohort;cohorts;2;0;0;0
+2126;2;spain;spain;2;0;0;0
+2127;2;lifeblood;lifeblood;2;0;0;0
+2128;2;femal;female;0;2;0;0
+2129;2;club;club;2;0;0;0
+2130;2;1640;1640;0;0;0;2
+2131;2;abdul;abdul;2;0;0;0
+2132;2;alhazr;alhazred;0;0;2;0
+2133;2;shepherd;shepherd;0;2;0;0
+2134;2;allegi;allegiance;2;0;0;0
+2135;2;amulet;amulet;2;0;0;0
+2136;2;caribbean;caribbean;0;2;0;0
+2137;2;cemetari;cemetary;0;2;0;0
+2138;2;grew;grew;0;0;2;0
+2139;2;remors;remorse;2;0;0;0
+2140;2;baphomet;baphomet;0;0;2;0
+2141;2;prey;preying;0;0;2;0
+2142;2;sidewalk;sidewalks;2;0;0;0
+2143;2;contain;contains / contain;0;0;2;0
+2144;2;cruisin;cruisin;2;0;0;0
+2145;2;movin;movin;1;0;1;0
+2146;2;crummi;crummy;0;2;0;0
+2147;2;undef;undefeated;0;2;0;0
+2148;2;pump;pumping;0;0;2;0
+2149;2;digniti;dignity;2;0;0;0
+2150;2;unyield;unyielding;0;2;0;0
+2151;2;token;token;2;0;0;0
+2152;2;sensat;sensations;2;0;0;0
+2153;2;subject;subjected;0;0;2;0
+2154;2;huddl;huddled;0;0;2;0
+2155;2;mistaken;mistaken;0;0;2;0
+2156;2;court;court;2;0;0;0
+2157;2;washington;washington;2;0;0;0
+2158;2;mingl;mingles;2;0;0;0
+2159;2;senseless;senseless;1;0;1;0
+2160;2;nineteen;nineteen;0;2;0;0
+2161;2;invert;inverted;0;2;0;0
+2162;2;abound;abound;0;0;1;1
+2163;2;expressionless;expressionless;0;1;1;0
+2164;2;tendon;tendons;2;0;0;0
+2165;2;bay;bay;2;0;0;0
+2166;2;yard;yard;2;0;0;0
+2167;2;viru;virus;2;0;0;0
+2168;2;bike;bike;2;0;0;0
+2169;2;awar;aware;1;1;0;0
+2170;2;neutral;neutralize;0;1;1;0
+2171;2;cope;cope;1;0;1;0
+2172;2;regret;regret;1;0;1;0
+2173;2;unusu;unusual;0;2;0;0
+2174;2;probe;probe / probing;0;0;1;1
+2175;2;abattoir;abattoir;0;1;1;0
+2176;2;enthron;enthroned;0;0;2;0
+2177;2;treasur;treasures / treasure;1;0;1;0
+2178;2;board;boards / board;2;0;0;0
+2179;2;barrel;barrel / barrels;2;0;0;0
+2180;2;block;blocks / block;2;0;0;0
+2181;2;chicken;chickens / chicken;2;0;0;0
+2182;2;swamp;swamp / swamps;1;1;0;0
+2183;2;freak;freaks / freaking;1;0;1;0
+2184;2;hip;hip / hips;2;0;0;0
+2185;2;christian;christianity / christian;1;1;0;0
+2186;2;rattl;rattling / rattle;1;1;0;0
+2187;2;motor;motors / motor;2;0;0;0
+2188;2;unbeliev;unbelievers / unbeliever;1;1;0;0
+2189;2;weight;weights / weight;2;0;0;0
+2190;2;arous;aroused / arousing;0;0;2;0
+2191;2;bother;bothered / bothers;1;0;1;0
+2192;2;companion;companions / companion;2;0;0;0
+2193;2;violat;violators / violator;2;0;0;0
+2194;2;wrench;wrench / wrenching;0;0;2;0
+2195;2;unlock;unlocked / unlock;0;0;2;0
+2196;2;bind;bind / binds;0;0;1;1
+2197;2;decim;decimate / decimating;1;1;0;0
+2198;2;wood;woods / wood;2;0;0;0
+2199;2;height;height / heights;1;1;0;0
+2200;2;alter;alter / altered;0;0;2;0
+2201;2;aw;aw / awful;1;1;0;0
+2202;2;lure;lure / lures;1;0;1;0
+2203;2;implor;implores / implore;2;0;0;0
+2204;2;aris;arise / arises;0;0;2;0
+2205;2;snatch;snatch / snatched;0;0;2;0
+2206;2;surfac;surfaced / surface;1;0;1;0
+2207;2;tingl;tingles / tingle;0;0;2;0
+2208;2;delic;delicately / delicate;0;1;0;1
+2209;2;straw;straws / straw;1;1;0;0
+2210;2;eras;erase / erased;0;0;2;0
+2211;2;writh;writhed / writhe;0;0;2;0
+2212;2;debat;debating / debate;1;0;1;0
+2213;2;film;films / film;1;0;1;0
+2214;2;selfish;selfish / selfishness;1;1;0;0
+2215;2;silhouett;silhouettes / silhouette;2;0;0;0
+2216;2;illumin;illumination / illuminating;1;0;1;0
+2217;2;swim;swim / swimming;0;0;2;0
+2218;2;anticip;anticipation / anticipate;2;0;0;0
+2219;2;activ;activated / active;0;1;1;0
+2220;2;parad;parade / parading;1;0;1;0
+2221;2;sting;sting / stings;1;0;1;0
+2222;2;tame;tame / tamed;0;1;1;0
+2223;2;torch;torches / torch;2;0;0;0
+2224;2;gut;guts / gut;2;0;0;0
+2225;2;champion;champions / champion;2;0;0;0
+2226;2;presid;president / presidency;2;0;0;0
+2227;2;record;records / recorded;1;0;1;0
+2228;2;citizen;citizen / citizens;2;0;0;0
+2229;2;mock;mock / mocking;0;0;2;0
+2230;2;achiev;achievements / achieved;1;0;1;0
+2231;2;plough;ploughed / plough;1;0;1;0
+2232;2;sire;sired / sire;0;0;2;0
+2233;2;cheat;cheats / cheating;0;0;2;0
+2234;2;canyon;canyon / canyons;2;0;0;0
+2235;2;massacr;massacre / massacred;1;0;1;0
+2236;2;infect;infect / infection;1;0;1;0
+2237;2;religi;religious / religiously;0;1;0;1
+2238;2;tape;taping / tape;1;0;1;0
+2239;2;arch;arch / arching;1;0;1;0
+2240;2;griev;grieves / grieving;1;0;1;0
+2241;2;lo;los / lo;2;0;0;0
+2242;2;exhaust;exhausted / exhausts;1;1;0;0
+2243;2;mutat;mutated / mutating;1;0;1;0
+2244;2;hellfir;hellfires / hellfire;2;0;0;0
+2245;2;normal;normally / normality;1;0;0;1
+2246;2;pattern;patterns / pattern;2;0;0;0
+2247;2;vote;votes / vote;1;0;1;0
+2248;2;scyth;scythe / scythes;2;0;0;0
+2249;2;lack;lacked / lack;1;0;1;0
+2250;2;voyag;voyagers / voyage;1;0;1;0
+2251;2;magician;magicians / magician;1;1;0;0
+2252;2;comprehend;comprehend / comprehending;0;0;2;0
+2253;2;repres;represent / represented;0;0;2;0
+2254;2;lesson;lessons / lesson;2;0;0;0
+2255;2;art;art / arts;1;0;1;0
+2256;2;attempt;attempts / attempt;2;0;0;0
+2257;2;rumor;rumor / rumors;2;0;0;0
+2258;2;stealer;stealer / stealers;2;0;0;0
+2259;2;reconcil;reconciled / reconcile;1;0;1;0
+2260;2;taunt;taunting / taunt;0;0;2;0
+2261;2;deceas;decease / deceased;1;0;1;0
+2262;2;plagu;plagues / plagued;1;0;1;0
+2263;2;piper;piper;2;0;0;0
+2264;2;ponder;ponders;1;0;1;0
+2265;2;repeat;repeat / repeated;1;0;1;0
+2266;2;worthi;worthy;0;2;0;0
+2267;2;plate;plated;0;0;2;0
+2268;2;rejoic;rejoices / rejoice;2;0;0;0
+2269;2;palac;palace;2;0;0;0
+2270;2;entiti;entity;2;0;0;0
+2271;2;squander;squandered / squander;1;0;1;0
+2272;2;dusk;dusk;2;0;0;0
+2273;2;proclaim;proclaims / proclaim;1;0;1;0
+2274;2;itali;italy;0;1;1;0
+2275;2;plea;pleas;2;0;0;0
+2276;2;reckless;reckless;0;2;0;0
+2277;2;view;view;1;0;1;0
+2278;2;reload;reload / reloading;1;0;1;0
+2279;2;actual;actually;0;0;0;2
+2280;2;sane;sane;2;0;0;0
+2281;2;trampl;trample / trampled;1;0;1;0
+2282;2;stem;stem / stems;0;0;2;0
+2283;2;mortuari;mortuary;1;1;0;0
+2284;2;ti;ti / tis;2;0;0;0
+2285;2;conform;conform;0;0;2;0
+2286;2;helmet;helmets / helmet;2;0;0;0
+2287;2;hatch;hatches / hatch;2;0;0;0
+2288;2;underground;underground;0;2;0;0
+2289;2;experi;experiment;2;0;0;0
+2290;2;annihil;annihilate;2;0;0;0
+2291;2;batter;battering;0;0;2;0
+2292;2;lad;lad / lads;2;0;0;0
+2293;2;winner;winner;2;0;0;0
+2294;2;nightlif;nightlife;2;0;0;0
+2295;2;falcon;falcon / falcons;2;0;0;0
+2296;2;chair;chair;2;0;0;0
+2297;2;conscienc;conscience;2;0;0;0
+2298;2;quak;quake;1;0;1;0
+2299;2;shower;showers / shower;1;0;1;0
+2300;2;fan;fan;2;0;0;0
+2301;2;brutal;brutalize / brutality;2;0;0;0
+2302;2;wore;wore;0;0;2;0
+2303;2;wrote;wrote;0;0;2;0
+2304;2;combat;combat;2;0;0;0
+2305;2;eden;eden;1;1;0;0
+2306;2;paralyz;paralyzed / paralyze;0;0;2;0
+2307;2;viper;viper / vipers;2;0;0;0
+2308;2;enjoy;enjoy;0;0;2;0
+2309;2;fuse;fuse / fused;1;0;1;0
+2310;2;tar;tar;2;0;0;0
+2311;2;twenti;twenty;0;1;0;1
+2312;2;tumbl;tumble;1;1;0;0
+2313;2;gasp;gasping;0;0;2;0
+2314;2;folk;folk;2;0;0;0
+2315;2;crumbl;crumble;0;0;2;0
+2316;2;cobra;cobra / cobras;2;0;0;0
+2317;2;remembr;remembrance;2;0;0;0
+2318;2;greener;greener;0;1;1;0
+2319;2;moan;moan / moans;1;0;1;0
+2320;2;weari;weary;0;2;0;0
+2321;2;parti;party;2;0;0;0
+2322;2;endur;enduring / endured;0;0;2;0
+2323;2;condit;condition / conditioned;1;0;1;0
+2324;2;struggl;struggling;0;0;2;0
+2325;2;franc;france;2;0;0;0
+2326;2;horribl;horrible;0;2;0;0
+2327;2;movement;movement;2;0;0;0
+2328;2;union;union;2;0;0;0
+2329;2;coal;coals / coal;2;0;0;0
+2330;2;delus;delusion;2;0;0;0
+2331;2;pose;pose;1;1;0;0
+2332;2;spiral;spiral / spirals;1;0;1;0
+2333;2;bitch;bitch;2;0;0;0
+2334;2;vile;vile;1;1;0;0
+2335;2;inhuman;inhuman;0;2;0;0
+2336;2;invinc;invincible;0;2;0;0
+2337;2;corros;corrosion / corrosive;1;1;0;0
+2338;2;dip;dipped / dip;1;0;1;0
+2339;2;gray;gray;0;2;0;0
+2340;2;relinquish;relinquished / relinquish;1;0;1;0
+2341;2;conjur;conjures / conjure;1;0;1;0
+2342;2;weigh;weigh;0;1;1;0
+2343;2;suitabl;suitable;0;2;0;0
+2344;2;haha;haha;1;0;1;0
+2345;2;temper;tempered;0;1;1;0
+2346;2;meal;meal;2;0;0;0
+2347;2;urg;urging;0;1;1;0
+2348;2;minion;minions;2;0;0;0
+2349;2;comingвђ;comingвђ;0;2;0;0
+2350;2;thick;thick;1;1;0;0
+2351;2;cobweb;cobwebs;2;0;0;0
+2352;2;solli;sollis;2;0;0;0
+2353;2;mercenari;mercenary;0;2;0;0
+2354;2;jam;jammed;0;0;2;0
+2355;2;leviathan;leviathan;0;1;0;1
+2356;2;wider;wider;2;0;0;0
+2357;2;veil;veil;1;0;1;0
+2358;2;immens;immensely;0;0;0;2
+2359;2;downward;downward;0;2;0;0
+2360;2;thirti;thirty;1;1;0;0
+2361;2;whenev;whenever;0;0;0;2
+2362;2;import;important;0;2;0;0
+2363;2;fox;fox;2;0;0;0
+2364;2;yeahвђ;yeahвђ;2;0;0;0
+2365;2;worker;workers;2;0;0;0
+2366;2;majest;majestic;0;2;0;0
+2367;2;rotten;rotten;0;1;1;0
+2368;2;steadi;steady;0;2;0;0
+2369;2;sank;sank;1;0;1;0
+2370;2;telltal;telltale;0;2;0;0
+2371;2;entrust;entrusted;0;0;2;0
+2372;2;healer;healer;2;0;0;0
+2373;2;hmm;hmm;2;0;0;0
+2374;2;gutter;gutter;2;0;0;0
+2375;2;mmm;mmm;0;1;1;0
+2376;2;lump;lump;2;0;0;0
+2377;2;wiser;wiser;0;2;0;0
+2378;2;nearer;nearer;1;0;0;1
+2379;2;hidden;hidden;1;0;1;0
+2380;2;switch;switch;0;0;2;0
+2381;2;scepter;scepter;2;0;0;0
+2382;2;forbidden;forbidden;0;2;0;0
+2383;2;jaw;jaws;2;0;0;0
+2384;2;wive;wives;2;0;0;0
+2385;2;deja;deja;0;0;0;2
+2386;2;stern;stern;1;1;0;0
+2387;2;oneself;oneself;2;0;0;0
+2388;2;turmoil;turmoil;2;0;0;0
+2389;2;match;match;2;0;0;0
+2390;2;utterli;utterly;0;1;0;1
+2391;2;whistler;whistlers;2;0;0;0
+2392;2;asia;asia;1;1;0;0
+2393;2;swan;swans;2;0;0;0
+2394;2;oven;oven;0;2;0;0
+2395;2;er;er;0;1;1;0
+2396;2;swish;swish;0;2;0;0
+2397;2;refin;refined;0;0;2;0
+2398;2;rescu;rescue;0;0;2;0
+2399;2;clever;clever;1;1;0;0
+2400;2;pace;pace;2;0;0;0
+2401;2;wooden;wooden;0;2;0;0
+2402;2;plastic;plastic;0;2;0;0
+2403;2;public;public;1;1;0;0
+2404;2;season;season;2;0;0;0
+2405;2;plung;plunge;1;0;1;0
+2406;2;easili;easily;0;0;0;2
+2407;2;toy;toys;2;0;0;0
+2408;2;huge;huge;0;2;0;0
+2409;2;tread;tread;0;0;2;0
+2410;2;tail;tail;1;1;0;0
+2411;2;johnni;johnny;2;0;0;0
+2412;2;prop;propping;0;0;2;0
+2413;2;shini;shiny;0;2;0;0
+2414;2;vie;vie;2;0;0;0
+2415;2;slope;slopes;2;0;0;0
+2416;2;younger;younger;1;1;0;0
+2417;2;hindenburg;hindenburg;2;0;0;0
+2418;2;bat;bats;2;0;0;0
+2419;2;arcanna;arcanna;2;0;0;0
+2420;2;carnag;carnage;2;0;0;0
+2421;2;eleven;eleven;0;0;0;2
+2422;2;vu;vu;0;2;0;0
+2423;2;freeway;freeway;2;0;0;0
+2424;2;carousel;carousel;2;0;0;0
+2425;2;chalic;chalice;2;0;0;0
+2426;2;rodney;rodney;1;1;0;0
+2427;2;newborn;newborn;2;0;0;0
+2428;2;cruel;cruel;2;0;0;0
+2429;2;birthday;birthday;2;0;0;0
+2430;2;zero;zero;0;0;0;2
+2431;2;astound;astounded;0;0;2;0
+2432;2;announc;announced;0;0;2;0
+2433;2;indian;indians;2;0;0;0
+2434;2;solitari;solitary;0;2;0;0
+2435;2;dariu;darius;2;0;0;0
+2436;2;capatin;capatin;2;0;0;0
+2437;2;incident;incidental;0;2;0;0
+2438;2;starlight;starlight;0;2;0;0
+2439;2;ger;gers;2;0;0;0
+2440;2;continu;continue;0;0;2;0
+2441;2;tua;tua;1;0;1;0
+2442;2;graviti;gravity;2;0;0;0
+2443;2;janick;janick;2;0;0;0
+2444;2;screen;screen;2;0;0;0
+2445;2;also;also;0;0;0;2
+2446;2;trade;trade;0;0;2;0
+2447;2;survivor;survivor;2;0;0;0
+2448;2;lazi;lazy;0;1;1;0
+2449;2;heeh;heeh;0;1;1;0
+2450;2;drunk;drunk;0;0;2;0
+2451;2;fashion;fashion;2;0;0;0
+2452;2;lethal;lethal;1;1;0;0
+2453;2;strangest;strangest;0;2;0;0
+2454;2;digit;digital;0;2;0;0
+2455;2;hermit;hermit;2;0;0;0
+2456;2;fini;fini;2;0;0;0
+2457;2;fifti;fifty;0;2;0;0
+2458;2;thump;thump;2;0;0;0
+2459;2;commun;communication;1;0;1;0
+2460;2;tsar;tsars;2;0;0;0
+2461;2;gorath;gorath;2;0;0;0
+2462;2;older;older;0;2;0;0
+2463;2;nervou;nervous;0;2;0;0
+2464;2;identifi;identify;0;0;2;0
+2465;2;hahahaha;hahahaha;2;0;0;0
+2466;2;shovel;shovel;2;0;0;0
+2467;2;ultim;ultimate;0;2;0;0
+2468;2;sundown;sundown;0;0;2;0
+2469;2;ordinari;ordinary;0;2;0;0
+2470;2;hm;hm;2;0;0;0
+2471;2;slept;slept;1;0;1;0
+2472;2;congratul;congratulations;2;0;0;0
+2473;2;bottom;bottom;2;0;0;0
+2474;2;lookin;lookin;1;0;0;1
+2475;2;ici;icy;2;0;0;0
+2476;2;photograph;photograph;2;0;0;0
+2477;2;buffalo;buffalo;2;0;0;0
+2478;2;springtim;springtime;2;0;0;0
+2479;2;perish;perish;0;0;2;0
+2480;2;council;council;2;0;0;0
+2481;2;insurrect;insurrection;2;0;0;0
+2482;2;whiter;whiter;2;0;0;0
+2483;2;persecut;persecution;2;0;0;0
+2484;2;feebl;feeble;0;2;0;0
+2485;2;admiss;admission;2;0;0;0
+2486;2;leaf;leaf;2;0;0;0
+2487;2;fruit;fruit;2;0;0;0
+2488;2;candi;candy;1;0;1;0
+2489;2;heathen;heathens;1;0;1;0
+2490;2;rumbl;rumbling;1;0;1;0
+2491;2;handsom;handsome;0;1;1;0
+2492;2;unbroken;unbroken;0;2;0;0
+2493;2;frown;frown;1;1;0;0
+2494;2;tooth;tooth;2;0;0;0
+2495;2;infern;infernal;0;2;0;0
+2496;2;comfort;comfort;1;0;1;0
+2497;2;retrac;retrace;2;0;0;0
+2498;2;carpet;carpet;2;0;0;0
+2499;2;medicin;medicine;2;0;0;0
+2500;2;evolut;evolution;2;0;0;0
+2501;2;cannib;cannibal;0;2;0;0
+2502;2;che;che;2;0;0;0
+2503;2;reinforc;reinforcements;2;0;0;0
+2504;2;mumbl;mumbling;0;0;2;0
+2505;2;cuddl;cuddle;0;0;2;0
+2506;2;htiw;htiw;2;0;0;0
+2507;2;regain;regain;0;0;2;0
+2508;2;select;select;0;0;2;0
+2509;2;skelter;skelter;2;0;0;0
+2510;2;havoc;havoc;2;0;0;0
+2511;2;barren;barren;2;0;0;0
+2512;2;helter;helter;2;0;0;0
+2513;2;imag;image;2;0;0;0
+2514;2;conquest;conquest;0;0;2;0
+2515;2;grief;grief;2;0;0;0
+2516;2;sanasha;sanasha;0;0;2;0
+2517;2;deliri;delirious;0;2;0;0
+2518;2;permiss;permission;2;0;0;0
+2519;2;admit;admit;2;0;0;0
+2520;2;flee;flee;1;0;1;0
+2521;2;talisman;talisman;2;0;0;0
+2522;2;dorma;dorma;2;0;0;0
+2523;2;tip;tip;2;0;0;0
+2524;2;shone;shone;0;0;0;2
+2525;2;dilegua;dilegua;2;0;0;0
+2526;2;unrepent;unrepentant;0;2;0;0
+2527;2;sermon;sermons;2;0;0;0
+2528;2;scriptur;scripture;2;0;0;0
+2529;2;deck;deck;0;0;2;0
+2530;2;uphold;uphold;0;0;2;0
+2531;2;nott;notte;0;2;0;0
+2532;2;alba;alba;2;0;0;0
+2533;2;valor;valor;2;0;0;0
+2534;2;jet;jet;2;0;0;0
+2535;2;220;220;0;0;0;2
+2536;2;contest;contest;2;0;0;0
+2537;2;repriev;reprieve;2;0;0;0
+2538;2;rang;rang;0;0;2;0
+2539;2;enchant;enchanted;0;2;0;0
+2540;2;jean;jeans;2;0;0;0
+2541;2;horsemen;horsemen;2;0;0;0
+2542;2;loki;loki;2;0;0;0
+2543;2;gasolin;gasoline;2;0;0;0
+2544;2;grandfath;grandfather;0;1;1;0
+2545;2;bastard;bastards;2;0;0;0
+2546;2;lunch;lunch;2;0;0;0
+2547;2;major;majority;2;0;0;0
+2548;2;issu;issue;0;0;2;0
+2549;2;station;stations;2;0;0;0
+2550;2;crusad;crusade;2;0;0;0
+2551;2;aton;atone;1;0;1;0
+2552;2;unemploy;unemployment;2;0;0;0
+2553;2;applaus;applause;2;0;0;0
+2554;2;infantri;infantry;2;0;0;0
+2555;2;cemeteri;cemetery;1;1;0;0
+2556;2;sacrifici;sacrificial;0;2;0;0
+2557;2;jim;jim;2;0;0;0
+2558;2;reverend;reverend;2;0;0;0
+2559;2;famou;famous;0;2;0;0
+2560;2;uncertainti;uncertainty;2;0;0;0
+2561;2;shipmat;shipmates;2;0;0;0
+2562;2;fart;fart;0;0;0;2
+2563;2;toe;toe;1;0;1;0
+2564;2;ego;ego;2;0;0;0
+2565;2;steve;steve;0;0;1;1
+2566;2;briefcas;briefcase;2;0;0;0
+2567;2;murray;murray;2;0;0;0
+2568;2;wed;wedding;2;0;0;0
+2569;2;chelsea;chelsea;2;0;0;0
+2570;2;conflict;conflict;2;0;0;0
+2571;2;stride;stride;2;0;0;0
+2572;2;kool;kool;2;0;0;0
+2573;2;gladli;gladly;0;0;0;2
+2574;2;astral;astral;0;2;0;0
+2575;2;lap;lap;2;0;0;0
+2576;2;cauter;cauterizing;0;0;2;0
+2577;2;tourniquet;tourniquet;2;0;0;0
+2578;2;empathi;empathy;1;1;0;0
+2579;2;peril;peril;2;0;0;0
+2580;2;retir;retire;0;0;2;0
+2581;2;curv;curve;2;0;0;0
+2582;2;smolder;smolder;2;0;0;0
+2583;2;snare;snare;2;0;0;0
+2584;2;rival;rival;0;0;2;0
+2585;2;thermal;thermal;0;2;0;0
+2586;2;dug;dug;1;0;1;0
+2587;2;combust;combustive;0;2;0;0
+2588;2;beguil;beguiling;0;0;2;0
+2589;2;indulg;indulgence;2;0;0;0
+2590;2;dirt;dirt;2;0;0;0
+2591;2;predomin;predominant;0;2;0;0
+2592;2;result;results;2;0;0;0
+2593;2;crisp;crisp;0;2;0;0
+2594;2;atmospher;atmosphere;0;0;0;2
+2595;2;frenzi;frenzy;2;0;0;0
+2596;2;hood;hood;2;0;0;0
+2597;2;shaker;shaker;2;0;0;0
+2598;2;cring;cringe;0;0;2;0
+2599;2;pitch;pitch;1;0;1;0
+2600;2;alert;alert;1;0;1;0
+2601;2;shadi;shady;0;0;1;1
+2602;2;inde;indeed;0;0;0;2
+2603;2;lanc;lance;2;0;0;0
+2604;2;farewel;farewell;1;0;0;1
+2605;2;maelstrom;maelstrom;1;1;0;0
+2606;2;expir;expires;0;0;2;0
+2607;2;creed;creed;2;0;0;0
+2608;2;troubleshoot;troubleshooter;2;0;0;0
+2609;2;convict;conviction;2;0;0;0
+2610;2;bought;bought;0;0;2;0
+2611;2;regal;regaled;0;0;2;0
+2612;2;gentli;gently;0;0;0;2
+2613;2;undi;undying;1;1;0;0
+2614;2;compromis;compromise;2;0;0;0
+2615;2;tragedi;tragedy;2;0;0;0
+2616;2;infinit;infinite;0;2;0;0
+2617;2;gruesom;gruesome;0;2;0;0
+2618;2;lament;lament;0;2;0;0
+2619;2;support;support;2;0;0;0
+2620;2;earthli;earthly;0;2;0;0
+2621;2;mischief;mischief;2;0;0;0
+2622;2;apocalyps;apocalypse;1;0;0;1
+2623;2;imit;imitation;2;0;0;0
+2624;2;altogeth;altogether;0;0;0;2
+2625;2;vow;vow;2;0;0;0
+2626;2;print;prints;0;0;2;0
+2627;2;messiah;messiah;1;1;0;0
+2628;2;pre;pre;0;0;1;1
+2629;2;lawn;lawn;2;0;0;0
+2630;2;starv;starving;0;0;2;0
+2631;2;abl;able;0;2;0;0
+2632;2;truck;truck;2;0;0;0
+2633;2;airborn;airborne;0;2;0;0
+2634;2;warmth;warmth;2;0;0;0
+2635;2;forese;foresee;0;0;2;0
+2636;2;flight;flight;2;0;0;0
+2637;2;alpha;alpha;2;0;0;0
+2638;2;honest;honest;1;1;0;0
+2639;2;dune;dune;2;0;0;0
+2640;2;unchain;unchain;0;0;1;1
+2641;2;pocket;pocket;2;0;0;0
+2642;2;press;press;1;0;1;0
+2643;2;preciou;precious;0;2;0;0
+2644;2;five;five;0;0;0;2
+2645;2;border;border;2;0;0;0
+2646;2;bait;bait;1;0;1;0
+2647;2;beaten;beaten;2;0;0;0
+2648;2;narrow;narrow;0;2;0;0
+2649;2;nighttim;nighttime;0;2;0;0
+2650;2;nasti;nasty;0;2;0;0
+2651;2;damp;damp;2;0;0;0
+2652;2;anguish;anguish;1;1;0;0
+2653;2;tennesse;tennessee;2;0;0;0
+2654;2;lamp;lamp;2;0;0;0
+2655;2;rigid;rigid;0;2;0;0
+2656;2;cheroke;cherokee;2;0;0;0
+2657;2;align;align;1;0;1;0
+2658;2;slaveri;slavery;1;0;1;0
+2659;2;structur;structure;2;0;0;0
+2660;2;spawn;spawned;0;0;2;0
+2661;2;shameless;shameless;0;2;0;0
+2662;2;refus;refuse;1;0;1;0
+2663;2;nocturn;nocturnal;0;2;0;0
+2664;2;medal;medal;2;0;0;0
+2665;2;decre;decree;2;0;0;0
+2666;2;nameless;nameless;0;2;0;0
+2667;2;stormi;stormy;2;0;0;0
+2668;2;respect;respect;1;0;1;0
+2669;2;nile;nile;2;0;0;0
+2670;2;phantom;phantom;2;0;0;0
+2671;2;subway;subway;2;0;0;0
+2672;2;overcast;overcast;0;0;0;2
+2673;2;polyest;polyester;2;0;0;0
+2674;2;undon;undone;1;1;0;0
+2675;2;focu;focus;2;0;0;0
+2676;2;omega;omega;0;2;0;0
+2677;2;connect;connection;2;0;0;0
+2678;2;yea;yea;2;0;0;0
+2679;2;spent;spent;0;0;2;0
+2680;2;comin;comin;2;0;0;0
+2681;2;parallel;parallel;0;1;0;1
+2682;2;succeed;succeed;0;0;2;0
+2683;2;chose;chose;0;0;2;0
+2684;2;aloud;aloud;0;2;0;0
+2685;2;yell;yell;0;0;0;2
+2686;2;ahahaha;ahahaha;0;1;0;1
+2687;2;tax;tax;2;0;0;0
+2688;2;isl;isle;2;0;0;0
+2689;2;depress;depressed;0;1;1;0
+2690;2;amaz;amazed;0;0;2;0
+2691;2;success;success;2;0;0;0
+2692;2;hymn;hymns;2;0;0;0
+2693;1;phone;phone;1;0;0;0
+2694;1;guardian;guardian;1;0;0;0
+2695;1;upper;upper;0;1;0;0
+2696;1;brimston;brimstone;1;0;0;0
+2697;1;waitin;waitin;0;1;0;0
+2698;1;crumb;crumbs;1;0;0;0
+2699;1;payback;payback;1;0;0;0
+2700;1;whenc;whence;1;0;0;0
+2701;1;jone;jones;1;0;0;0
+2702;1;unrel;unrelenting;0;1;0;0
+2703;1;pin;pin;0;0;1;0
+2704;1;woeful;woeful;0;1;0;0
+2705;1;grim;grim;0;1;0;0
+2706;1;featur;feature;1;0;0;0
+2707;1;gust;gust;1;0;0;0
+2708;1;ax;ax;1;0;0;0
+2709;1;beheld;beheld;0;0;1;0
+2710;1;rode;rode;0;0;1;0
+2711;1;gore;gore;0;0;1;0
+2712;1;sober;sober;1;0;0;0
+2713;1;scum;scums;1;0;0;0
+2714;1;norsemen;norsemen;1;0;0;0
+2715;1;crumblin;crumblin;1;0;0;0
+2716;1;jive;jive;0;1;0;0
+2717;1;shorelin;shoreline;1;0;0;0
+2718;1;achil;achilles;1;0;0;0
+2719;1;da;da;1;0;0;0
+2720;1;biker;biker;1;0;0;0
+2721;1;serious;seriously;0;0;0;1
+2722;1;suppress;suppress;0;0;1;0
+2723;1;indoctrin;indoctrination;1;0;0;0
+2724;1;defianc;defiance;1;0;0;0
+2725;1;relentlessli;relentlessly;0;0;0;1
+2726;1;ethnic;ethnic;0;1;0;0
+2727;1;sprung;sprung;1;0;0;0
+2728;1;enforc;enforced;0;0;1;0
+2729;1;sir;sir;0;0;0;1
+2730;1;detain;detained;0;0;1;0
+2731;1;effort;efforts;1;0;0;0
+2732;1;despic;despicably;0;0;0;1
+2733;1;brown;brown;0;1;0;0
+2734;1;atroc;atrocities;1;0;0;0
+2735;1;abort;abort;0;0;1;0
+2736;1;sucker;suckers;1;0;0;0
+2737;1;businessmen;businessmen;1;0;0;0
+2738;1;vast;vast;0;1;0;0
+2739;1;kerrang;kerrang;1;0;0;0
+2740;1;ad;ad;1;0;0;0
+2741;1;predat;predators;1;0;0;0
+2742;1;obsess;obsessed;0;0;1;0
+2743;1;rib;rib;1;0;0;0
+2744;1;profit;profiteers;1;0;0;0
+2745;1;resort;resort;1;0;0;0
+2746;1;almighti;almighty;0;0;1;0
+2747;1;puttin;puttin;0;0;1;0
+2748;1;harley;harley;0;1;0;0
+2749;1;nang;nang;1;0;0;0
+2750;1;overlord;overlord;1;0;0;0
+2751;1;friday;friday;1;0;0;0
+2752;1;shortag;shortage;1;0;0;0
+2753;1;cape;cape;1;0;0;0
+2754;1;thirteenth;thirteenth;0;1;0;0
+2755;1;mangl;mangled;0;0;1;0
+2756;1;storybook;storybook;1;0;0;0
+2757;1;kinsman;kinsman;1;0;0;0
+2758;1;garment;garments;1;0;0;0
+2759;1;greatest;greatest;0;1;0;0
+2760;1;collar;collar;0;1;0;0
+2761;1;holland;holland;1;0;0;0
+2762;1;steadfast;steadfast;1;0;0;0
+2763;1;patroclu;patroclus;0;0;1;0
+2764;1;troy;troy;1;0;0;0
+2765;1;burial;burial;0;1;0;0
+2766;1;cattl;cattle;1;0;0;0
+2767;1;partner;partners;1;0;0;0
+2768;1;lean;leaned;0;0;1;0
+2769;1;javelin;javelins;1;0;0;0
+2770;1;prelud;prelude;1;0;0;0
+2771;1;germani;germany;1;0;0;0
+2772;1;austria;austria;1;0;0;0
+2773;1;belgium;belgium;1;0;0;0
+2774;1;dealt;dealt;0;1;0;0
+2775;1;finland;finland;0;0;1;0
+2776;1;bringeth;bringeth;0;0;1;0
+2777;1;riot;riots;0;0;1;0
+2778;1;hahahahaha;hahahahaha;0;1;0;0
+2779;1;forse;forsee;0;0;1;0
+2780;1;tyre;tyres;1;0;0;0
+2781;1;glimmer;glimmer;1;0;0;0
+2782;1;avail;available;0;1;0;0
+2783;1;scapegoat;scapegoats;1;0;0;0
+2784;1;octob;october;1;0;0;0
+2785;1;vermin;vermin;1;0;0;0
+2786;1;ahahahahaha;ahahahahaha;0;0;0;1
+2787;1;megatron;megatron;1;0;0;0
+2788;1;frost;frost;1;0;0;0
+2789;1;unfasten;unfasten;0;1;0;0
+2790;1;pri;pry;0;0;1;0
+2791;1;harder;harder;0;0;0;1
+2792;1;visual;visualize;0;0;1;0
+2793;1;greasi;greasy;1;0;0;0
+2794;1;cord;cord;1;0;0;0
+2795;1;bloodbath;bloodbath;1;0;0;0
+2796;1;switzerland;switzerland;1;0;0;0
+2797;1;norway;norway;0;0;0;1
+2798;1;overpow;overpowered;0;0;1;0
+2799;1;suspect;suspected;0;0;1;0
+2800;1;partisan;partisans;1;0;0;0
+2801;1;drinker;drinker;1;0;0;0
+2802;1;mister;mister;0;0;0;1
+2803;1;wedg;wedge;1;0;0;0
+2804;1;chairman;chairman;1;0;0;0
+2805;1;graphic;graphic;0;1;0;0
+2806;1;curri;currie;1;0;0;0
+2807;1;riff;riff;1;0;0;0
+2808;1;pair;pair;1;0;0;0
+2809;1;snowflak;snowflakes;1;0;0;0
+2810;1;graham;graham;0;0;1;0
+2811;1;request;requested;0;0;1;0
+2812;1;hull;hull;1;0;0;0
+2813;1;backstag;backstage;1;0;0;0
+2814;1;lane;lane;1;0;0;0
+2815;1;corps;corpses;0;0;1;0
+2816;1;abstain;abstain;0;0;1;0
+2817;1;wearyвђ;wearyвђ;1;0;0;0
+2818;1;saxon;saxons;1;0;0;0
+2819;1;hoov;hooves;1;0;0;0
+2820;1;feelin;feelin;0;0;1;0
+2821;1;gambl;gamble;0;1;0;0
+2822;1;clap;clap;1;0;0;0
+2823;1;sweden;sweden;0;1;0;0
+2824;1;pledg;pledge;1;0;0;0
+2825;1;denmark;denmark;1;0;0;0
+2826;1;disbeliev;disbelieve;0;0;1;0
+2827;1;ruthless;ruthless;1;0;0;0
+2828;1;oxen;oxen;0;1;0;0
+2829;1;highborn;highborn;0;1;0;0
+2830;1;wale;wales;0;0;1;0
+2831;1;elat;elated;0;1;0;0
+2832;1;telepathi;telepathy;1;0;0;0
+2833;1;percept;perception;1;0;0;0
+2834;1;sensori;sensory;1;0;0;0
+2835;1;scotland;scotland;1;0;0;0
+2836;1;ireland;ireland;1;0;0;0
+2837;1;extra;extra;0;1;0;0
+2838;1;assembl;assembled;0;0;1;0
+2839;1;naгїv;naгїve;0;0;0;1
+2840;1;oversea;overseas;0;0;0;1
+2841;1;suppos;supposed;0;0;1;0
+2842;1;amplifi;amplify;0;0;1;0
+2843;1;attend;attend;0;0;1;0
+2844;1;discipl;disciple;1;0;0;0
+2845;1;din;din;1;0;0;0
+2846;1;encaptur;encaptured;0;1;0;0
+2847;1;cadav;cadaver;1;0;0;0
+2848;1;sacrament;sacraments;1;0;0;0
+2849;1;exhum;exhumed;0;0;1;0
+2850;1;stealth;stealth;1;0;0;0
+2851;1;raptur;rapture;1;0;0;0
+2852;1;atom;atom;0;1;0;0
+2853;1;renegad;renegade;1;0;0;0
+2854;1;transit;transit;0;0;1;0
+2855;1;joe;joe;1;0;0;0
+2856;1;accolad;accolades;1;0;0;0
+2857;1;explor;explore;0;0;1;0
+2858;1;brace;brace;1;0;0;0
+2859;1;apprentic;apprentice;0;0;0;1
+2860;1;outcom;outcome;1;0;0;0
+2861;1;tempest;tempest;1;0;0;0
+2862;1;swarm;swarm;1;0;0;0
+2863;1;attrit;attrition;1;0;0;0
+2864;1;portent;portents;1;0;0;0
+2865;1;blasphemi;blasphemy;1;0;0;0
+2866;1;contrit;contrition;1;0;0;0
+2867;1;mortifi;mortifies;1;0;0;0
+2868;1;conspir;conspiring;1;0;0;0
+2869;1;leagu;league;1;0;0;0
+2870;1;ancestr;ancestral;0;1;0;0
+2871;1;einherjar;einherjar;1;0;0;0
+2872;1;competit;competition;1;0;0;0
+2873;1;befriend;befriend;0;0;1;0
+2874;1;dissolv;dissolve;0;0;1;0
+2875;1;wooooooooa;wooooooooa;1;0;0;0
+2876;1;shelf;shelf;1;0;0;0
+2877;1;spur;spurs;0;0;1;0
+2878;1;rein;reins;1;0;0;0
+2879;1;woooooa;woooooa;1;0;0;0
+2880;1;bounti;bounty;1;0;0;0
+2881;1;cheap;cheap;0;1;0;0
+2882;1;wooooooa;wooooooa;1;0;0;0
+2883;1;consecr;consecrate;1;0;0;0
+2884;1;gambler;gambler;1;0;0;0
+2885;1;respons;response;1;0;0;0
+2886;1;woooooooa;woooooooa;1;0;0;0
+2887;1;urn;urn;1;0;0;0
+2888;1;collis;collision;1;0;0;0
+2889;1;chromium;chromium;1;0;0;0
+2890;1;inciner;incinerate;1;0;0;0
+2891;1;remedi;remedy;1;0;0;0
+2892;1;redempt;redemption;1;0;0;0
+2893;1;immol;immolate;0;0;1;0
+2894;1;vaporap;vaporapeize;0;0;1;0
+2895;1;collus;collusion;1;0;0;0
+2896;1;contus;contusion;1;0;0;0
+2897;1;tumblewe;tumbleweed;1;0;0;0
+2898;1;throttl;throttle;1;0;0;0
+2899;1;blastmast;blastmaster;1;0;0;0
+2900;1;threshold;thresholds;1;0;0;0
+2901;1;onslaught;onslaught;0;0;1;0
+2902;1;vapor;vaporizing;0;0;1;0
+2903;1;incens;incensed;0;0;1;0
+2904;1;overthrow;overthrow;0;0;1;0
+2905;1;gideon;gideon;0;1;0;0
+2906;1;quench;quench;0;0;1;0
+2907;1;kerosen;kerosene;1;0;0;0
+2908;1;thundercharg;thundercharge;1;0;0;0
+2909;1;skirl;skirl;1;0;0;0
+2910;1;dynamo;dynamo;1;0;0;0
+2911;1;revil;reviled;0;0;1;0
+2912;1;armament;armaments;1;0;0;0
+2913;1;engorg;engorged;0;1;0;0
+2914;1;cremat;cremating;0;0;1;0
+2915;1;deploy;deploy;0;0;1;0
+2916;1;highland;highlands;0;0;1;0
+2917;1;ageless;ageless;1;0;0;0
+2918;1;replet;repleted;0;0;1;0
+2919;1;bulletproof;bulletproof;0;0;1;0
+2920;1;briar;briar;1;0;0;0
+2921;1;heather;heathered;0;1;0;0
+2922;1;glisten;glistening;0;0;1;0
+2923;1;onyx;onyx;1;0;0;0
+2924;1;rebellion;rebellion;1;0;0;0
+2925;1;blunt;blunt;1;0;0;0
+2926;1;tighter;tighter;0;1;0;0
+2927;1;non;non;0;1;0;0
+2928;1;prowl;prowling;0;0;1;0
+2929;1;enrag;enraged;0;0;1;0
+2930;1;lonelyвђ;lonelyвђ;0;1;0;0
+2931;1;whispersвђ;whispersвђ;1;0;0;0
+2932;1;hallowedвђ;hallowedвђ;1;0;0;0
+2933;1;profound;profound;0;0;1;0
+2934;1;terrifi;terrifying;0;0;1;0
+2935;1;theyвђ;theyвђ;0;1;0;0
+2936;1;flood;flood;1;0;0;0
+2937;1;scourg;scourging;0;0;1;0
+2938;1;incis;incision;1;0;0;0
+2939;1;scrutin;scrutinize;0;0;1;0
+2940;1;hellion;hellions;1;0;0;0
+2941;1;renown;renowned;0;0;1;0
+2942;1;abomin;abominations;1;0;0;0
+2943;1;dispel;dispelling;0;0;1;0
+2944;1;beastli;beastly;0;0;0;1
+2945;1;disciplin;discipline;1;0;0;0
+2946;1;wooooa;wooooa;1;0;0;0
+2947;1;woaaaa;woaaaa;1;0;0;0
+2948;1;sciogliera;sciogliera;1;0;0;0
+2949;1;converg;converged;0;0;1;0
+2950;1;nella;nella;1;0;0;0
+2951;1;principessa;principessa;1;0;0;0
+2952;1;stanza;stanza;1;0;0;0
+2953;1;tu;tu;0;1;0;0
+2954;1;guardi;guardi;0;1;0;0
+2955;1;sleipnir;sleipnir;1;0;0;0
+2956;1;insight;insight;1;0;0;0
+2957;1;fa;fa;1;0;0;0
+2958;1;silenzio;silenzio;1;0;0;0
+2959;1;bacio;bacio;1;0;0;0
+2960;1;truest;truest;1;0;0;0
+2961;1;ed;ed;1;0;0;0
+2962;1;splendera;splendera;1;0;0;0
+2963;1;daybreak;daybreak;1;0;0;0
+2964;1;frosti;frosty;1;0;0;0
+2965;1;luce;luce;0;0;1;0
+2966;1;bread;bread;1;0;0;0
+2967;1;cotton;cotton;1;0;0;0
+2968;1;gungnir;gungnir;1;0;0;0
+2969;1;report;report;0;0;1;0
+2970;1;spew;spew;0;0;1;0
+2971;1;fredda;fredda;1;0;0;0
+2972;1;le;le;1;0;0;0
+2973;1;wept;wept;0;0;1;0
+2974;1;tremano;tremano;1;0;0;0
+2975;1;gospel;gospel;1;0;0;0
+2976;1;linger;linger;1;0;0;0
+2977;1;pipe;pipes;1;0;0;0
+2978;1;tripl;triple;1;0;0;0
+2979;1;ale;ale;0;1;0;0
+2980;1;fieri;fiery;0;1;0;0
+2981;1;cracker;cracker;0;0;1;0
+2982;1;amp;amps;1;0;0;0
+2983;1;scrape;scrape;0;0;1;0
+2984;1;nitroglycerin;nitroglycerin;1;0;0;0
+2985;1;nationwid;nationwide;0;1;0;0
+2986;1;clay;clay;0;0;1;0
+2987;1;reject;rejecting;0;0;1;0
+2988;1;heroism;heroism;1;0;0;0
+2989;1;homeland;homeland;1;0;0;0
+2990;1;ranger;ranger;1;0;0;0
+2991;1;la;la;1;0;0;0
+2992;1;speranza;speranza;0;0;1;0
+2993;1;di;di;1;0;0;0
+2994;1;amor;amore;0;0;0;1
+2995;1;alik;alike;0;0;0;1
+2996;1;geronimo;geronimo;1;0;0;0
+2997;1;fastest;fastest;0;1;0;0
+2998;1;teacher;teacher;1;0;0;0
+2999;1;loudest;loudest;0;1;0;0
+3000;1;wool;wool;1;0;0;0
+3001;1;witchcraft;witchcraft;1;0;0;0
+3002;1;pagan;pagan;0;1;0;0
+3003;1;broadsword;broadsword;1;0;0;0
+3004;1;tragic;tragic;0;1;0;0
+3005;1;powerhead;powerhead;1;0;0;0
+3006;1;sam;sam;1;0;0;0
+3007;1;uncl;uncle;1;0;0;0
+3008;1;billi;billy;0;0;0;1
+3009;1;triniti;trinity;1;0;0;0
+3010;1;grail;grail;1;0;0;0
+3011;1;unfail;unfailing;0;1;0;0
+3012;1;overflown;overflown;0;0;0;1
+3013;1;orgi;orgy;1;0;0;0
+3014;1;insur;insurance;1;0;0;0
+3015;1;holdin;holdin;1;0;0;0
+3016;1;givin;givin;1;0;0;0
+3017;1;void;void;1;0;0;0
+3018;1;tank;tank;1;0;0;0
+3019;1;shaman;shaman;1;0;0;0
+3020;1;woooooooooa;woooooooooa;1;0;0;0
+3021;1;either;either;0;0;0;1
+3022;1;appl;apples;1;0;0;0
+3023;1;dine;dine;1;0;0;0
+3024;1;hatchet;hatchet;1;0;0;0
+3025;1;wreckag;wreckage;1;0;0;0
+3026;1;disown;disown;0;0;1;0
+3027;1;renounc;renounce;1;0;0;0
+3028;1;bull;bull;1;0;0;0
+3029;1;mia;mia;1;0;0;0
+3030;1;hawk;hawk;1;0;0;0
+3031;1;pounder;pounder;0;0;1;0
+3032;1;quando;quando;1;0;0;0
+3033;1;diro;diro;1;0;0;0
+3034;1;bocca;bocca;1;0;0;0
+3035;1;sulla;sulla;1;0;0;0
+3036;1;sapra;sapra;0;0;1;0
+3037;1;muninn;muninn;1;0;0;0
+3038;1;nome;nome;0;1;0;0
+3039;1;huginn;huginn;1;0;0;0
+3040;1;perch;perch;0;0;1;0
+3041;1;chiuso;chiuso;1;0;0;0
+3042;1;mistero;mistero;1;0;0;0
+3043;1;dimens;dimensions;1;0;0;0
+3044;1;lovemak;lovemaking;0;0;1;0
+3045;1;translat;translation;1;0;0;0
+3046;1;tribut;tribute;1;0;0;0
+3047;1;davi;davy;0;0;1;0
+3048;1;affray;affray;1;0;0;0
+3049;1;thoseвђ;thoseвђ;0;1;0;0
+3050;1;queue;queue;1;0;0;0
+3051;1;hasten;hasten;0;0;1;0
+3052;1;add;add;0;0;1;0
+3053;1;favor;favors;1;0;0;0
+3054;1;merg;merged;0;0;1;0
+3055;1;sang;sang;0;0;1;0
+3056;1;frantic;frantic;0;1;0;0
+3057;1;crank;crank;0;0;1;0
+3058;1;fi;fi;0;1;0;0
+3059;1;submiss;submission;0;0;1;0
+3060;1;megaton;megaton;1;0;0;0
+3061;1;extinct;extinction;1;0;0;0
+3062;1;rate;rate;1;0;0;0
+3063;1;snuf;snuffing;0;0;1;0
+3064;1;retali;retaliate;0;0;1;0
+3065;1;crunch;crunch;1;0;0;0
+3066;1;mellow;mellow;0;0;1;0
+3067;1;seclus;seclusion;1;0;0;0
+3068;1;critic;critical;0;1;0;0
+3069;1;smack;smack;0;0;1;0
+3070;1;mindless;mindless;1;0;0;0
+3071;1;strut;strutted;0;0;1;0
+3072;1;smooth;smooth;1;0;0;0
+3073;1;electrifi;electrify;0;0;1;0
+3074;1;expens;expensive;0;1;0;0
+3075;1;sum;sum;1;0;0;0
+3076;1;nearli;nearly;0;0;0;1
+3077;1;hazi;hazy;1;0;0;0
+3078;1;duster;duster;1;0;0;0
+3079;1;cluster;cluster;1;0;0;0
+3080;1;subsid;subsiding;1;0;0;0
+3081;1;mane;mane;1;0;0;0
+3082;1;sonic;sonic;1;0;0;0
+3083;1;cosmo;cosmos;1;0;0;0
+3084;1;bust;busting;0;0;1;0
+3085;1;manalishi;manalishi;1;0;0;0
+3086;1;prong;pronged;0;0;1;0
+3087;1;content;contentment;1;0;0;0
+3088;1;cook;cooks;1;0;0;0
+3089;1;brilliant;brilliant;0;1;0;0
+3090;1;list;list;1;0;0;0
+3091;1;compil;compiled;0;0;1;0
+3092;1;epitaph;epitaph;1;0;0;0
+3093;1;actor;actor;1;0;0;0
+3094;1;user;users;1;0;0;0
+3095;1;liquid;liquidation;1;0;0;0
+3096;1;sway;sway;1;0;0;0
+3097;1;pois;poised;0;0;1;0
+3098;1;battalion;battalions;1;0;0;0
+3099;1;spineless;spineless;0;0;1;0
+3100;1;cower;cower;0;0;1;0
+3101;1;clung;clung;0;0;1;0
+3102;1;sabr;sabres;1;0;0;0
+3103;1;borderlin;borderline;1;0;0;0
+3104;1;tender;tender;1;0;0;0
+3105;1;mosey;moseyed;0;0;1;0
+3106;1;york;york;1;0;0;0
+3107;1;mantl;mantle;0;1;0;0
+3108;1;utopian;utopian;0;1;0;0
+3109;1;apathi;apathy;0;0;1;0
+3110;1;seduc;seducer;0;0;1;0
+3111;1;deceit;deceit;1;0;0;0
+3112;1;deliver;deliverance;1;0;0;0
+3113;1;willow;willow;0;1;0;0
+3114;1;twa;twas;1;0;0;0
+3115;1;smite;smite;0;0;0;1
+3116;1;streak;streak;1;0;0;0
+3117;1;flare;flare;1;0;0;0
+3118;1;exhibit;exhibition;1;0;0;0
+3119;1;sheer;sheer;1;0;0;0
+3120;1;withdraw;withdraw;0;0;1;0
+3121;1;whilst;whilst;0;1;0;0
+3122;1;slither;slither;0;0;1;0
+3123;1;continuum;continuum;1;0;0;0
+3124;1;transfix;transfixed;1;0;0;0
+3125;1;strip;stripping;0;0;1;0
+3126;1;relentless;relentless;1;0;0;0
+3127;1;deepen;deepened;0;0;1;0
+3128;1;counter;counter;1;0;0;0
+3129;1;grinnin;grinnin;1;0;0;0
+3130;1;perplexion;perplexion;1;0;0;0
+3131;1;scowl;scowled;0;0;1;0
+3132;1;fleet;fleeting;0;1;0;0
+3133;1;zombi;zombies;1;0;0;0
+3134;1;distant;distant;0;1;0;0
+3135;1;windowsil;windowsill;1;0;0;0
+3136;1;duck;ducking;0;0;1;0
+3137;1;react;reacting;0;0;1;0
+3138;1;impregn;impregnable;0;1;0;0
+3139;1;dispers;dispersal;1;0;0;0
+3140;1;raw;raw;0;1;0;0
+3141;1;bunch;bunch;1;0;0;0
+3142;1;express;expression;1;0;0;0
+3143;1;symphoni;symphony;1;0;0;0
+3144;1;denim;denim;1;0;0;0
+3145;1;saturday;saturday;1;0;0;0
+3146;1;dude;dudes;0;0;1;0
+3147;1;soft;soft;0;1;0;0
+3148;1;oblig;obligation;1;0;0;0
+3149;1;yonder;yonder;0;1;0;0
+3150;1;darken;darken;0;0;1;0
+3151;1;deafen;deafen;1;0;0;0
+3152;1;compet;competing;0;0;1;0
+3153;1;unheard;unheard;0;1;0;0
+3154;1;bourbon;bourbon;1;0;0;0
+3155;1;felin;feline;1;0;0;0
+3156;1;pillow;pillow;1;0;0;0
+3157;1;concret;concrete;1;0;0;0
+3158;1;format;formations;1;0;0;0
+3159;1;desegreg;desegregation;1;0;0;0
+3160;1;guarante;guaranteed;0;0;1;0
+3161;1;throatchok;throatchoker;0;0;0;1
+3162;1;spinesnapp;spinesnapper;1;0;0;0
+3163;1;nightdriv;nightdriver;0;0;0;1
+3164;1;flyer;flyer;1;0;0;0
+3165;1;superson;supersonic;0;1;0;0
+3166;1;skyrid;skyrider;1;0;0;0
+3167;1;withdrawn;withdrawn;0;0;1;0
+3168;1;needl;needle;1;0;0;0
+3169;1;freed;freed;0;1;0;0
+3170;1;undisturb;undisturbed;0;1;0;0
+3171;1;plight;plight;1;0;0;0
+3172;1;scanner;scanners;1;0;0;0
+3173;1;role;role;1;0;0;0
+3174;1;process;processions;1;0;0;0
+3175;1;definit;definite;1;0;0;0
+3176;1;carcass;carcasses;1;0;0;0
+3177;1;000;000;0;0;0;1
+3178;1;fetch;fetch;0;0;1;0
+3179;1;unleash;unleash;0;0;1;0
+3180;1;starway;starways;1;0;0;0
+3181;1;dieu;dieu;1;0;0;0
+3182;1;solar;solar;0;1;0;0
+3183;1;guff;guff;1;0;0;0
+3184;1;disrupt;disrupts;0;0;1;0
+3185;1;declin;decline;1;0;0;0
+3186;1;strive;strived;0;0;1;0
+3187;1;improv;improved;0;0;1;0
+3188;1;glider;gliders;1;0;0;0
+3189;1;spectral;spectral;0;1;0;0
+3190;1;teaser;teaser;1;0;0;0
+3191;1;hobbl;hobble;0;1;0;0
+3192;1;quartz;quartz;0;0;0;1
+3193;1;rubber;rubber;1;0;0;0
+3194;1;halo;halos;1;0;0;0
+3195;1;radiat;radiating;0;0;1;0
+3196;1;thigh;thighs;1;0;0;0
+3197;1;grit;grit;0;0;1;0
+3198;1;spot;spots;1;0;0;0
+3199;1;drape;draped;0;0;1;0
+3200;1;rearrang;rearranging;0;0;1;0
+3201;1;posit;positions;1;0;0;0
+3202;1;landmark;landmarks;1;0;0;0
+3203;1;cesspool;cesspool;1;0;0;0
+3204;1;sleight;sleight;1;0;0;0
+3205;1;hander;handers;1;0;0;0
+3206;1;tangl;tangle;0;0;1;0
+3207;1;backseat;backseat;0;1;0;0
+3208;1;synchron;synchronized;0;0;1;0
+3209;1;horreur;horreur;1;0;0;0
+3210;1;strateg;strategic;0;1;0;0
+3211;1;sweeter;sweeter;1;0;0;0
+3212;1;drivin;drivin;0;1;0;0
+3213;1;grate;grate;0;0;1;0
+3214;1;anvil;anvils;1;0;0;0
+3215;1;foolin;foolin;0;0;1;0
+3216;1;browbeat;browbeating;0;0;1;0
+3217;1;cannon;cannons;1;0;0;0
+3218;1;ruptur;rupture;0;0;1;0
+3219;1;jacket;jacket;1;0;0;0
+3220;1;bedroom;bedroom;1;0;0;0
+3221;1;shrug;shrugs;1;0;0;0
+3222;1;overnight;overnight;0;1;0;0
+3223;1;owe;owe;1;0;0;0
+3224;1;practic;practice;1;0;0;0
+3225;1;nineti;ninety;1;0;0;0
+3226;1;blindfold;blindfold;1;0;0;0
+3227;1;roost;roost;1;0;0;0
+3228;1;boast;boast;0;0;1;0
+3229;1;prospect;prospects;1;0;0;0
+3230;1;sneer;sneer;0;0;1;0
+3231;1;ambit;ambition;0;0;0;1
+3232;1;tether;tether;0;0;0;1
+3233;1;youвђ;youвђ;0;1;0;0
+3234;1;privat;private;0;1;0;0
+3235;1;neater;neater;0;1;0;0
+3236;1;vandal;vandals;1;0;0;0
+3237;1;evolv;evolved;0;0;1;0
+3238;1;vigil;vigilance;1;0;0;0
+3239;1;techno;techno;0;1;0;0
+3240;1;someplac;someplace;1;0;0;0
+3241;1;shi;shy;0;0;1;0
+3242;1;trickster;tricksters;1;0;0;0
+3243;1;culmin;culmination;1;0;0;0
+3244;1;sift;sifting;0;0;1;0
+3245;1;comer;comers;1;0;0;0
+3246;1;jilter;jilters;1;0;0;0
+3247;1;44;44;0;0;0;1
+3248;1;canвђ;canвђ;0;0;1;0
+3249;1;zoom;zoom;1;0;0;0
+3250;1;donвђ;donвђ;0;0;1;0
+3251;1;tearless;tearless;0;1;0;0
+3252;1;retina;retina;1;0;0;0
+3253;1;thereвђ;thereвђ;0;1;0;0
+3254;1;develop;develop;0;0;1;0
+3255;1;expos;expose;0;0;1;0
+3256;1;cruis;cruise;0;0;1;0
+3257;1;mar;mars;1;0;0;0
+3258;1;thunderbolt;thunderbolt;1;0;0;0
+3259;1;gettin;gettin;0;1;0;0
+3260;1;desolis;desolisating;0;0;1;0
+3261;1;cleav;cleaving;0;0;1;0
+3262;1;liquor;liquor;1;0;0;0
+3263;1;pulsat;pulsating;0;0;1;0
+3264;1;afterglow;afterglow;0;1;0;0
+3265;1;skyward;skyward;1;0;0;0
+3266;1;mystiqu;mystique;1;0;0;0
+3267;1;rev;revved;0;0;1;0
+3268;1;hotter;hotter;1;0;0;0
+3269;1;program;programmed;0;0;1;0
+3270;1;relianc;reliance;1;0;0;0
+3271;1;licenc;licence;1;0;0;0
+3272;1;reap;reaped;0;0;1;0
+3273;1;robot;robot;1;0;0;0
+3274;1;engulf;engulfed;1;0;0;0
+3275;1;tend;tend;1;0;0;0
+3276;1;inclin;inclined;0;0;1;0
+3277;1;routin;routine;0;1;0;0
+3278;1;cap;capped;0;0;1;0
+3279;1;mantrap;mantrap;1;0;0;0
+3280;1;bout;bout;0;0;0;1
+3281;1;mr;mr;0;0;1;0
+3282;1;gentlemen;gentlemen;1;0;0;0
+3283;1;accord;according;0;0;1;0
+3284;1;enema;enema;0;0;1;0
+3285;1;hahahahahahaha;hahahahahahaha;0;0;1;0
+3286;1;network;network;1;0;0;0
+3287;1;unsettl;unsettled;0;1;0;0
+3288;1;advertis;advertising;1;0;0;0
+3289;1;etch;etched;0;0;1;0
+3290;1;crosswir;crosswire;1;0;0;0
+3291;1;mirag;mirage;1;0;0;0
+3292;1;stamp;stamped;0;0;1;0
+3293;1;adrian;adrian;0;1;0;0
+3294;1;hop;hop;1;0;0;0
+3295;1;esteem;esteem;1;0;0;0
+3296;1;plasma;plasma;0;1;0;0
+3297;1;carefre;carefree;0;1;0;0
+3298;1;twine;twine;0;0;1;0
+3299;1;unharm;unharmed;0;0;1;0
+3300;1;cynic;cynic;1;0;0;0
+3301;1;attitud;attitudes;1;0;0;0
+3302;1;aggress;aggression;0;0;1;0
+3303;1;cancer;cancer;1;0;0;0
+3304;1;55;55;0;0;0;1
+3305;1;dismay;dismay;1;0;0;0
+3306;1;undercov;undercover;0;0;0;1
+3307;1;swept;swept;0;0;1;0
+3308;1;untip;untipping;0;0;1;0
+3309;1;trophi;trophies;1;0;0;0
+3310;1;azazel;azazel;0;0;0;1
+3311;1;dave;dave;0;1;0;0
+3312;1;equilibrium;equilibrium;1;0;0;0
+3313;1;haggard;haggard;0;0;0;1
+3314;1;34;34;0;0;0;1
+3315;1;19;19;0;0;0;1
+3316;1;smith;smith;1;0;0;0
+3317;1;independ;independence;1;0;0;0
+3318;1;treadmil;treadmill;1;0;0;0
+3319;1;stagger;staggered;0;0;1;0
+3320;1;midday;midday;1;0;0;0
+3321;1;whim;whim;1;0;0;0
+3322;1;m11;m11;1;0;0;0
+3323;1;california;california;0;1;0;0
+3324;1;volcano;volcano;1;0;0;0
+3325;1;tung;tung;1;0;0;0
+3326;1;pal;pal;1;0;0;0
+3327;1;pewter;pewter;1;0;0;0
+3328;1;suta;suta;1;0;0;0
+3329;1;karma;karma;0;0;1;0
+3330;1;sutra;sutra;0;1;0;0
+3331;1;blanckenheim;blanckenheimer;0;0;1;0
+3332;1;segreg;segregation;1;0;0;0
+3333;1;swirl;swirling;0;0;1;0
+3334;1;empir;empire;1;0;0;0
+3335;1;reminisc;reminiscing;0;0;1;0
+3336;1;lifeboat;lifeboat;1;0;0;0
+3337;1;rehears;rehearsed;0;1;0;0
+3338;1;plunder;plundering;0;0;1;0
+3339;1;fish;fish;1;0;0;0
+3340;1;tse;tse;1;0;0;0
+3341;1;ivori;ivory;1;0;0;0
+3342;1;mao;mao;1;0;0;0
+3343;1;pollut;pollution;1;0;0;0
+3344;1;suffic;suffice;1;0;0;0
+3345;1;firebal;fireball;1;0;0;0
+3346;1;strife;strife;1;0;0;0
+3347;1;fend;fend;0;0;1;0
+3348;1;decoy;decoys;0;1;0;0
+3349;1;secreci;secrecy;1;0;0;0
+3350;1;swell;swells;1;0;0;0
+3351;1;pout;pout;0;0;1;0
+3352;1;whimper;whimper;0;1;0;0
+3353;1;frustrat;frustrating;0;1;0;0
+3354;1;clue;clue;1;0;0;0
+3355;1;neath;neath;0;0;0;1
+3356;1;breakaway;breakaway;0;0;0;1
+3357;1;winc;wince;1;0;0;0
+3358;1;jerk;jerk;1;0;0;0
+3359;1;wrist;wrist;1;0;0;0
+3360;1;stanc;stance;1;0;0;0
+3361;1;clench;clench;0;0;1;0
+3362;1;pounc;pounce;0;0;1;0
+3363;1;stupid;stupid;0;1;0;0
+3364;1;advic;advice;1;0;0;0
+3365;1;crosser;crossers;1;0;0;0
+3366;1;carpetbagg;carpetbaggers;1;0;0;0
+3367;1;bluff;bluff;0;0;1;0
+3368;1;deft;deft;0;0;0;1
+3369;1;lurk;lurking;1;0;0;0
+3370;1;waylay;waylaying;0;0;1;0
+3371;1;dull;dull;1;0;0;0
+3372;1;bravado;bravado;1;0;0;0
+3373;1;pickup;pickup;1;0;0;0
+3374;1;file;file;1;0;0;0
+3375;1;fragment;fragments;1;0;0;0
+3376;1;paranoia;paranoia;1;0;0;0
+3377;1;rare;rare;0;1;0;0
+3378;1;calcul;calculate;1;0;0;0
+3379;1;maul;maul;0;0;1;0
+3380;1;steer;steer;1;0;0;0
+3381;1;bonn;bonne;1;0;0;0
+3382;1;nuit;nuit;1;0;0;0
+3383;1;oili;oily;0;0;0;1
+3384;1;drifter;drifter;1;0;0;0
+3385;1;haвђ;haвђ;1;0;0;0
+3386;1;remeb;remeber;0;0;1;0
+3387;1;gallilea;gallilea;1;0;0;0
+3388;1;jew;jews;1;0;0;0
+3389;1;provocateur;provocateur;1;0;0;0
+3390;1;maman;maman;0;1;0;0
+3391;1;vick;vick;1;0;0;0
+3392;1;maraud;marauding;0;0;1;0
+3393;1;tube;tubes;1;0;0;0
+3394;1;idea;ideas;1;0;0;0
+3395;1;invest;investing;0;0;1;0
+3396;1;slime;slime;1;0;0;0
+3397;1;cun;cunning;1;0;0;0
+3398;1;poet;poet;1;0;0;0
+3399;1;rout;route;1;0;0;0
+3400;1;56;56;0;0;0;1
+3401;1;prejudic;prejudice;1;0;0;0
+3402;1;quarter;quartered;0;0;1;0
+3403;1;mettl;mettle;0;1;0;0
+3404;1;bud;bud;1;0;0;0
+3405;1;august;august;0;1;0;0
+3406;1;faithless;faithless;0;1;0;0
+3407;1;demolit;demolition;1;0;0;0
+3408;1;bliss;bliss;0;1;0;0
+3409;1;shoe;shoes;1;0;0;0
+3410;1;ferryman;ferryman;1;0;0;0
+3411;1;gravi;gravy;1;0;0;0
+3412;1;diesel;diesels;1;0;0;0
+3413;1;sniper;sniper;1;0;0;0
+3414;1;loot;looting;0;0;1;0
+3415;1;merchantmen;merchantmen;1;0;0;0
+3416;1;convoy;convoy;1;0;0;0
+3417;1;behav;behave;0;0;1;0
+3418;1;wicker;wicker;1;0;0;0
+3419;1;opera;opera;1;0;0;0
+3420;1;grasp;grasp;1;0;0;0
+3421;1;godвђ;godвђ;1;0;0;0
+3422;1;lunat;lunatic;0;1;0;0
+3423;1;missionвђ;missionвђ;0;1;0;0
+3424;1;extrem;extreme;0;1;0;0
+3425;1;risc;risc;1;0;0;0
+3426;1;disc;disc;1;0;0;0
+3427;1;inland;inland;1;0;0;0
+3428;1;campfir;campfires;1;0;0;0
+3429;1;balloon;balloons;1;0;0;0
+3430;1;disco;disco;0;1;0;0
+3431;1;tit;tits;1;0;0;0
+3432;1;airship;airship;1;0;0;0
+3433;1;confer;conference;1;0;0;0
+3434;1;stall;stall;1;0;0;0
+3435;1;fact;fact;1;0;0;0
+3436;1;cesspit;cesspit;1;0;0;0
+3437;1;enorm;enormous;0;1;0;0
+3438;1;butcher;butchered;0;1;0;0
+3439;1;flea;flea;1;0;0;0
+3440;1;sperm;sperm;0;1;0;0
+3441;1;whale;whale;1;0;0;0
+3442;1;albert;albert;0;1;0;0
+3443;1;maltes;maltese;0;1;0;0
+3444;1;bale;bales;1;0;0;0
+3445;1;hay;hay;1;0;0;0
+3446;1;tractor;tractor;1;0;0;0
+3447;1;fiddl;fiddle;1;0;0;0
+3448;1;decor;decor;1;0;0;0
+3449;1;reopen;reopen;0;1;0;0
+3450;1;drill;drill;0;0;1;0
+3451;1;50;50;0;0;0;1
+3452;1;diablo;diablo;0;1;0;0
+3453;1;revisit;revisit;1;0;0;0
+3454;1;dehydr;dehydrate;1;0;0;0
+3455;1;french;french;0;1;0;0
+3456;1;advisor;advisor;1;0;0;0
+3457;1;lectur;lecture;1;0;0;0
+3458;1;polit;political;0;1;0;0
+3459;1;chicanari;chicanary;1;0;0;0
+3460;1;nordic;nordic;0;1;0;0
+3461;1;longboat;longboats;1;0;0;0
+3462;1;studi;study;0;0;1;0
+3463;1;excus;excused;0;0;1;0
+3464;1;upriv;upriver;0;1;0;0
+3465;1;unsound;unsound;0;0;0;1
+3466;1;panda;panda;1;0;0;0
+3467;1;paradox;paradox;1;0;0;0
+3468;1;colonel;colonel;1;0;0;0
+3469;1;rogu;rogue;1;0;0;0
+3470;1;method;methods;1;0;0;0
+3471;1;intellect;intellect;1;0;0;0
+3472;1;intertwin;intertwined;0;0;1;0
+3473;1;dreamt;dreamt;0;0;1;0
+3474;1;realis;realisation;1;0;0;0
+3475;1;oncom;oncoming;0;0;1;0
+3476;1;compar;compare;0;0;1;0
+3477;1;reoccur;reoccurring;0;0;1;0
+3478;1;denial;denial;0;1;0;0
+3479;1;manipul;manipulate;0;0;1;0
+3480;1;bombshel;bombshell;0;0;0;1
+3481;1;wateri;watery;1;0;0;0
+3482;1;haul;hauled;0;0;1;0
+3483;1;duke;duke;1;0;0;0
+3484;1;walpurgi;walpurgis;1;0;0;0
+3485;1;barqu;barque;1;0;0;0
+3486;1;millennia;millennia;1;0;0;0
+3487;1;shemhamforash;shemhamforash;0;0;0;1
+3488;1;unexplain;unexplained;0;1;0;0
+3489;1;damian;damian;0;1;0;0
+3490;1;trudg;trudged;0;0;1;0
+3491;1;drunken;drunken;0;1;0;0
+3492;1;antigua;antigua;1;0;0;0
+3493;1;unnerv;unnerving;0;0;1;0
+3494;1;jag;jagged;0;1;0;0
+3495;1;intermitt;intermittent;1;0;0;0
+3496;1;inflict;inflicted;0;0;1;0
+3497;1;inmat;inmates;1;0;0;0
+3498;1;harangu;harangued;0;0;1;0
+3499;1;netherland;netherland;1;0;0;0
+3500;1;murki;murky;1;0;0;0
+3501;1;reef;reefs;1;0;0;0
+3502;1;dyin;dyin;0;1;0;0
+3503;1;pacifi;pacified;0;0;1;0
+3504;1;goal;goal;1;0;0;0
+3505;1;captiv;captives;0;0;1;0
+3506;1;husband;husband;1;0;0;0
+3507;1;del;del;1;0;0;0
+3508;1;confront;confrontation;1;0;0;0
+3509;1;monstrou;monstrous;0;1;0;0
+3510;1;maid;maid;1;0;0;0
+3511;1;denizen;denizens;1;0;0;0
+3512;1;triumphant;triumphant;0;1;0;0
+3513;1;pieti;piety;1;0;0;0
+3514;1;flock;flock;1;0;0;0
+3515;1;resolv;resolve;0;0;1;0
+3516;1;misshapen;misshapen;0;1;0;0
+3517;1;mort;mortes;1;0;0;0
+3518;1;everlast;everlasting;0;0;1;0
+3519;1;unaffect;unaffected;0;0;1;0
+3520;1;ghostli;ghostly;0;0;0;1
+3521;1;manag;managed;0;0;1;0
+3522;1;legendari;legendary;0;1;0;0
+3523;1;longest;longest;0;1;0;0
+3524;1;castillo;castillo;0;1;0;0
+3525;1;ident;identity;1;0;0;0
+3526;1;entranc;entrance;0;0;1;0
+3527;1;alibi;alibi;1;0;0;0
+3528;1;meld;melded;0;0;1;0
+3529;1;encourag;encouragement;1;0;0;0
+3530;1;subdu;subdued;0;0;1;0
+3531;1;rant;rantings;1;0;0;0
+3532;1;nitro;nitro;0;0;0;1
+3533;1;nest;nest;0;1;0;0
+3534;1;stairway;stairway;1;0;0;0
+3535;1;cabl;cable;1;0;0;0
+3536;1;unheavenli;unheavenly;0;0;0;1
+3537;1;ohhh;ohhh;1;0;0;0
+3538;1;fortress;fortress;1;0;0;0
+3539;1;pulp;pulp;1;0;0;0
+3540;1;ew;ew;1;0;0;0
+3541;1;bundl;bundle;0;1;0;0
+3542;1;thumbscrew;thumbscrews;1;0;0;0
+3543;1;reconsid;reconsider;0;0;1;0
+3544;1;susa;susa;1;0;0;0
+3545;1;agin;agin;0;0;0;1
+3546;1;musket;musket;1;0;0;0
+3547;1;pilot;pilot;1;0;0;0
+3548;1;tahw;tahw;1;0;0;0
+3549;1;dia;dias;1;0;0;0
+3550;1;ther;ther;0;0;0;1
+3551;1;suspici;suspicious;0;1;0;0
+3552;1;shriev;shrieves;0;0;1;0
+3553;1;strapado;strapado;1;0;0;0
+3554;1;eerht;eerht;1;0;0;0
+3555;1;heheheh;heheheh;1;0;0;0
+3556;1;india;india;0;0;1;0
+3557;1;sould;sould;1;0;0;0
+3558;1;cultur;culture;1;0;0;0
+3559;1;tigri;tigris;1;0;0;0
+3560;1;macedonian;macedonian;0;1;0;0
+3561;1;daner;danerous;0;1;0;0
+3562;1;twice;twice;0;0;0;1
+3563;1;jaxart;jaxartes;0;0;1;0
+3564;1;gloat;gloat;0;0;1;0
+3565;1;mandragora;mandragora;1;0;0;0
+3566;1;imaginari;imaginary;0;1;0;0
+3567;1;windi;windy;0;1;0;0
+3568;1;tingu;tingues;1;0;0;0
+3569;1;alexandria;alexandria;1;0;0;0
+3570;1;arbela;arbela;0;1;0;0
+3571;1;imposs;impossible;0;1;0;0
+3572;1;nemesi;nemesis;1;0;0;0
+3573;1;hee;hee;0;1;0;0
+3574;1;male;male;0;1;0;0
+3575;1;diana;diana;0;1;0;0
+3576;1;ate;ate;0;0;1;0
+3577;1;panick;panicking;1;0;0;0
+3578;1;granni;granny;1;0;0;0
+3579;1;poltersberg;poltersberg;1;0;0;0
+3580;1;wuauuu;wuauuu;0;1;0;0
+3581;1;nothingess;nothingess;0;0;0;1
+3582;1;forbid;forbid;0;0;1;0
+3583;1;solicit;solicitations;1;0;0;0
+3584;1;moistur;moisture;1;0;0;0
+3585;1;carniv;carnival;1;0;0;0
+3586;1;appoint;appointment;1;0;0;0
+3587;1;upstair;upstairs;1;0;0;0
+3588;1;milion;milion;1;0;0;0
+3589;1;finest;finest;0;1;0;0
+3590;1;substitut;substitution;1;0;0;0
+3591;1;henceforth;henceforth;1;0;0;0
+3592;1;accident;accidental;0;1;0;0
+3593;1;driver;driver;1;0;0;0
+3594;1;harmoni;harmony;1;0;0;0
+3595;1;stolen;stolen;0;0;1;0
+3596;1;waterfal;waterfall;1;0;0;0
+3597;1;lace;lace;1;0;0;0
+3598;1;repli;replies;1;0;0;0
+3599;1;salli;sally;1;0;0;0
+3600;1;blackboard;blackboards;1;0;0;0
+3601;1;crucifixion;crucifixion;1;0;0;0
+3602;1;symptom;symptoms;1;0;0;0
+3603;1;trespass;trespass;1;0;0;0
+3604;1;nightli;nightly;0;0;0;1
+3605;1;steppin;steppin;1;0;0;0
+3606;1;copul;copulation;1;0;0;0
+3607;1;individu;individual;1;0;0;0
+3608;1;deificurc;deificurc;1;0;0;0
+3609;1;sleev;sleeve;1;0;0;0
+3610;1;beacon;beacon;1;0;0;0
+3611;1;sugar;sugar;1;0;0;0
+3612;1;american;american;0;1;0;0
+3613;1;paralys;paralysed;0;1;0;0
+3614;1;unseen;unseen;0;1;0;0
+3615;1;cent;cent;0;1;0;0
+3616;1;bigger;bigger;0;1;0;0
+3617;1;paler;paler;1;0;0;0
+3618;1;audienc;audience;1;0;0;0
+3619;1;trend;trends;1;0;0;0
+3620;1;dedic;dedicated;0;0;1;0
+3621;1;heavier;heavier;0;1;0;0
+3622;1;teenag;teenage;1;0;0;0
+3623;1;wagon;wagons;1;0;0;0
+3624;1;collector;collector;1;0;0;0
+3625;1;hah;hah;1;0;0;0
+3626;1;trash;trash;0;0;1;0
+3627;1;elev;elevator;1;0;0;0
+3628;1;per;per;0;0;0;1
+3629;1;unspoken;unspoken;0;1;0;0
+3630;1;bark;bark;1;0;0;0
+3631;1;unforgiv;unforgivable;0;1;0;0
+3632;1;era;era;1;0;0;0
+3633;1;lullabi;lullaby;0;0;1;0
+3634;1;scent;scent;1;0;0;0
+3635;1;similar;similarities;1;0;0;0
+3636;1;boni;bony;0;1;0;0
+3637;1;pile;pile;1;0;0;0
+3638;1;redskin;redskins;1;0;0;0
+3639;1;remorph;remorphed;0;0;1;0
+3640;1;gallop;galloping;0;0;1;0
+3641;1;undiscov;undiscovered;0;1;0;0
+3642;1;unknowingli;unknowingly;0;0;0;1
+3643;1;astoroth;astoroth;0;0;0;1
+3644;1;gateway;gateway;1;0;0;0
+3645;1;manuscript;manuscript;1;0;0;0
+3646;1;respond;respond;0;0;1;0
+3647;1;interest;interest;1;0;0;0
+3648;1;logic;logical;0;1;0;0
+3649;1;inhabit;inhabitants;1;0;0;0
+3650;1;gallow;gallows;1;0;0;0
+3651;1;accurs;accursed;0;1;0;0
+3652;1;twin;twins;1;0;0;0
+3653;1;marri;marry;0;0;1;0
+3654;1;gabriel;gabriel;1;0;0;0
+3655;1;web;web;1;0;0;0
+3656;1;coincid;coincidence;1;0;0;0
+3657;1;examin;examined;0;0;1;0
+3658;1;gemini;gemini;1;0;0;0
+3659;1;reliv;relive;0;0;1;0
+3660;1;descript;description;1;0;0;0
+3661;1;exactli;exactly;0;0;0;1
+3662;1;ulrich;ulrich;0;1;0;0
+3663;1;baptism;baptism;1;0;0;0
+3664;1;concern;concerning;0;0;1;0
+3665;1;infin;infinity;1;0;0;0
+3666;1;wildest;wildest;0;1;0;0
+3667;1;suffoc;suffocation;1;0;0;0
+3668;1;stole;stole;0;0;1;0
+3669;1;transcend;transcend;0;1;0;0
+3670;1;pit;pit;1;0;0;0
+3671;1;вђ;вђ;1;0;0;0
+3672;1;rubi;ruby;0;1;0;0
+3673;1;sphere;sphere;0;0;0;1
+3674;1;expedit;expedition;1;0;0;0
+3675;1;absorb;absorbed;0;0;1;0
+3676;1;fertil;fertile;1;0;0;0
+3677;1;undertak;undertaker;1;0;0;0
+3678;1;grotesqu;grotesque;0;1;0;0
+3679;1;perhap;perhaps;0;0;0;1
+3680;1;awoken;awoken;0;0;1;0
+3681;1;wolfen;wolfen;1;0;0;0
+3682;1;doll;doll;1;0;0;0
+3683;1;brink;brink;1;0;0;0
+3684;1;lar;lars;0;0;1;0
+3685;1;ecnob;ecnob;1;0;0;0
+3686;1;hecas;hecase;1;0;0;0
+3687;1;golder;golder;1;0;0;0
+3688;1;correctli;correctly;0;0;0;1
+3689;1;recur;recurring;0;0;1;0
+3690;1;ploughman;ploughman;1;0;0;0
+3691;1;dunno;dunno;1;0;0;0
+3692;1;ammit;ammit;1;0;0;0
+3693;1;qualiti;qualities;1;0;0;0
+3694;1;schedul;scheduled;0;0;1;0
+3695;1;opportun;opportunity;1;0;0;0
+3696;1;quicken;quicken;0;0;1;0
+3697;1;transmit;transmit;0;0;1;0
+3698;1;convinc;convinced;0;0;1;0
+3699;1;occur;occurring;0;0;1;0
+3700;1;irresist;irresistibly;0;0;0;1
+3701;1;seventeen;seventeen;0;1;0;0
+3702;1;folklor;folklore;0;0;1;0
+3703;1;upris;uprising;1;0;0;0
+3704;1;throng;throng;1;0;0;0
+3705;1;adjoin;adjoining;0;0;1;0
+3706;1;compound;compound;1;0;0;0
+3707;1;overse;oversee;0;0;1;0
+3708;1;anxiou;anxious;0;1;0;0
+3709;1;eater;eater;1;0;0;0
+3710;1;anytim;anytime;1;0;0;0
+3711;1;hitch;hitched;0;0;1;0
+3712;1;tarot;tarot;1;0;0;0
+3713;1;proceed;proceeding;0;0;1;0
+3714;1;mummifi;mummified;0;1;0;0
+3715;1;mutter;muttered;0;0;1;0
+3716;1;ugli;ugliness;0;1;0;0
+3717;1;starter;starters;1;0;0;0
+3718;1;enochian;enochian;0;1;0;0
+3719;1;bled;bled;0;0;1;0
+3720;1;warhors;warhorse;0;1;0;0
+3721;1;liberti;liberty;1;0;0;0
+3722;1;astaroth;astaroth;0;0;0;1
+3723;1;fiver;fiver;1;0;0;0
+3724;1;eh;eh;1;0;0;0
+3725;1;trancelik;trancelike;0;0;0;1
+3726;1;hardest;hardest;0;1;0;0
+3727;1;disturb;disturbing;0;0;1;0
+3728;1;gargoyl;gargoyle;1;0;0;0
+3729;1;beelzebub;beelzebub;1;0;0;0
+3730;1;ugh;ugh;0;0;0;1
+3731;1;communion;communion;1;0;0;0
+3732;1;element;elements;1;0;0;0
+3733;1;strewn;strewn;0;1;0;0
+3734;1;mustard;mustard;1;0;0;0
+3735;1;barbwir;barbwire;1;0;0;0
+3736;1;bloom;bloom;1;0;0;0
+3737;1;quicksand;quicksand;1;0;0;0
+3738;1;int;int;1;0;0;0
+3739;1;aaru;aaru;0;0;1;0
+3740;1;midst;midst;1;0;0;0
+3741;1;slightest;slightest;0;1;0;0
+3742;1;brew;brewing;0;0;1;0
+3743;1;afflict;afflicting;0;0;1;0
+3744;1;selen;selene;0;0;1;0
+3745;1;limbo;limbo;1;0;0;0
+3746;1;fightin;fightin;0;0;1;0
+3747;1;undress;undress;1;0;0;0
+3748;1;defenc;defence;1;0;0;0
+3749;1;homeward;homeward;1;0;0;0
+3750;1;drawer;drawers;1;0;0;0
+3751;1;redeem;redeem;0;0;1;0
+3752;1;reunit;reunite;0;0;1;0
+3753;1;nothin;nothin;0;0;0;1
+3754;1;scari;scary;0;1;0;0
+3755;1;pari;paris;1;0;0;0
+3756;1;superstiti;superstitious;0;1;0;0
+3757;1;present;presents;1;0;0;0
+3758;1;aww;aww;0;0;1;0
+3759;1;troll;troll;1;0;0;0
+3760;1;inquisitor;inquisitor;1;0;0;0
+3761;1;ogr;ogre;1;0;0;0
+3762;1;missil;missiles;1;0;0;0
+3763;1;broom;broom;1;0;0;0
+3764;1;hecat;hecate;1;0;0;0
+3765;1;persephon;persephone;0;1;0;0
+3766;1;eastern;eastern;0;1;0;0
+3767;1;forklift;forklift;1;0;0;0
+3768;1;12;12;0;0;0;1
+3769;1;goodnight;goodnight;1;0;0;0
+3770;1;otherwis;otherwise;0;0;0;1
+3771;1;bath;bathed;0;0;1;0
+3772;1;incred;incredible;0;1;0;0
+3773;1;cliqu;clique;1;0;0;0
+3774;1;involv;involved;0;0;1;0
+3775;1;park;park;1;0;0;0
+3776;1;anxieti;anxiety;1;0;0;0
+3777;1;starvat;starvation;1;0;0;0
+3778;1;earthquak;earthquakes;1;0;0;0
+3779;1;surmis;surmise;0;0;1;0
+3780;1;stile;stiles;1;0;0;0
+3781;1;intend;intended;0;0;1;0
+3782;1;glaze;glazed;0;1;0;0
+3783;1;halfway;halfway;1;0;0;0
+3784;1;dad;dad;1;0;0;0
+3785;1;birdsong;birdsong;0;1;0;0
+3786;1;gestur;gesture;1;0;0;0
+3787;1;frenchman;frenchman;1;0;0;0
+3788;1;main;main;0;1;0;0
+3789;1;invok;invoking;0;0;1;0
+3790;1;leddem;leddem;1;0;0;0
+3791;1;shrink;shrink;0;0;1;0
+3792;1;idl;idle;0;1;0;0
+3793;1;motion;motion;1;0;0;0
+3794;1;flak;flak;1;0;0;0
+3795;1;rub;rubbing;0;0;1;0
+3796;1;raid;raid;1;0;0;0
+3797;1;cave;caves;1;0;0;0
+3798;1;seamen;seamen;1;0;0;0
+3799;1;gainst;gainst;1;0;0;0
+3800;1;fret;fret;1;0;0;0
+3801;1;barn;barns;1;0;0;0
+3802;1;overturn;overturned;0;0;1;0
+3803;1;scythian;scythians;1;0;0;0
+3804;1;belsen;belsen;0;0;1;0
+3805;1;jelli;jellied;0;1;0;0
+3806;1;109;109s;0;0;0;1
+3807;1;spitfir;spitfires;1;0;0;0
+3808;1;st;st;0;1;0;0
+3809;1;georg;george;1;0;0;0
+3810;1;wreak;wreak;0;0;1;0
+3811;1;taught;taught;0;0;1;0
+3812;1;fenc;fencing;0;0;1;0
+3813;1;goos;goose;1;0;0;0
+3814;1;templ;temple;1;0;0;0
+3815;1;pave;paved;0;0;1;0
+3816;1;unpriestli;unpriestly;0;1;0;0
+3817;1;yoke;yoke;1;0;0;0
+3818;1;sgniht;sgniht;1;0;0;0
+3819;1;uoy;uoy;0;1;0;0
+3820;1;dnatsrednu;dnatsrednu;0;1;0;0
+3821;1;am;ams;1;0;0;0
+3822;1;bugl;bugle;1;0;0;0
+3823;1;persepoli;persepolis;1;0;0;0
+3824;1;capit;capital;1;0;0;0
+3825;1;presum;presumably;0;0;0;1
+3826;1;phrygian;phrygian;0;1;0;0
+3827;1;hiss;hiss;0;1;0;0
+3828;1;gordian;gordian;0;1;0;0
+3829;1;acrid;acrid;0;1;0;0
+3830;1;unti;untied;0;0;1;0
+3831;1;hellen;hellenism;1;0;0;0
+3832;1;disjoint;disjointed;0;0;1;0
+3833;1;stretch;stretch;1;0;0;0
+3834;1;mail;mail;0;0;1;0
+3835;1;honestli;honestly;0;0;0;1
+3836;1;coast;coast;1;0;0;0
+3837;1;hurdl;hurdle;0;1;0;0
+3838;1;travellin;travellin;1;0;0;0
+3839;1;influenc;influence;0;0;1;0
+3840;1;steeli;steely;0;1;0;0
+3841;1;david;david;0;1;0;0
+3842;1;resin;resined;0;0;1;0
+3843;1;reaper;reaper;1;0;0;0
+3844;1;blindsid;blindsides;1;0;0;0
+3845;1;resum;resumes;0;0;1;0
+3846;1;mainstream;mainstream;1;0;0;0
+3847;1;swordsmen;swordsmen;1;0;0;0
+3848;1;rave;ravings;1;0;0;0
+3849;1;horu;horus;1;0;0;0
+3850;1;meanwhil;meanwhile;0;0;1;0
+3851;1;dial;dial;1;0;0;0
+3852;1;worm;worm;1;0;0;0
+3853;1;runway;runway;1;0;0;0
+3854;1;greec;greece;1;0;0;0
+3855;1;bandit;bandits;1;0;0;0
+3856;1;macedonia;macedonia;1;0;0;0
+3857;1;philip;philip;1;0;0;0
+3858;1;swore;swore;0;0;1;0
+3859;1;minor;minor;0;1;0;0
+3860;1;aegean;aegean;0;1;0;0
+3861;1;334;334;0;0;0;1
+3862;1;entomb;entomb;1;0;0;0
+3863;1;solut;solution;1;0;0;0
+3864;1;gni;gni;1;0;0;0
+3865;1;chandeli;chandelier;1;0;0;0
+3866;1;scorn;scorn;0;1;0;0
+3867;1;thyself;thyself;1;0;0;0
+3868;1;ribbon;ribbons;0;0;1;0
+3869;1;arrang;arranged;0;0;1;0
+3870;1;duel;duel;1;0;0;0
+3871;1;cockpit;cockpit;1;0;0;0
+3872;1;landscap;landscapes;1;0;0;0
+3873;1;oвђ;oвђ;1;0;0;0
+3874;1;truce;truce;1;0;0;0
+3875;1;feint;feint;1;0;0;0
+3876;1;watcher;watcher;1;0;0;0
+3877;1;endlessli;endlessly;0;0;0;1
+3878;1;nothing;nothingness;1;0;0;0
+3879;1;flick;flick;1;0;0;0
+3880;1;cratur;crature;1;0;0;0
+3881;1;familiar;familiar;0;1;0;0
+3882;1;omi;omy;0;1;0;0
+3883;1;congreg;congregation;1;0;0;0
+3884;1;particular;particular;0;1;0;0
+3885;1;pearli;pearly;0;0;0;1
+3886;1;basket;basket;1;0;0;0
+3887;1;surreal;surreal;0;1;0;0
+3888;1;sicker;sicker;1;0;0;0
+3889;1;blankenstein;blankenstein;1;0;0;0
+3890;1;fled;fled;0;1;0;0
+3891;1;cartoon;cartoon;0;1;0;0
+3892;1;virgin;virgin;1;0;0;0
+3893;1;june;june;1;0;0;0
+3894;1;rufu;rufus;0;0;1;0
+3895;1;centr;centre;1;0;0;0
+3896;1;cree;cree;0;1;0;0
+3897;1;innit;innit;0;1;0;0
+3898;1;de;de;0;0;1;0
+3899;1;rastaforay;rastaforay;0;0;1;0
+3900;1;everyt;everyt;1;0;0;0
+3901;1;tini;tiny;0;1;0;0
+3902;1;spittin;spittin;1;0;0;0
+3903;1;eloqu;eloquent;0;1;0;0
+3904;1;speech;speeches;1;0;0;0
+3905;1;slumber;slumbers;0;0;1;0
+3906;1;candid;candidates;1;0;0;0
+3907;1;forehead;forehead;1;0;0;0
+3908;1;sore;sore;0;1;0;0
+3909;1;navvi;navvies;1;0;0;0
+3910;1;ahaha;ahaha;0;0;0;1
+3911;1;pet;pets;1;0;0;0
+3912;1;phenomen;phenomenally;0;0;0;1
+3913;1;rotat;rotate;1;0;0;0
+3914;1;behalf;behalf;1;0;0;0
+3915;1;martial;martial;0;1;0;0
+3916;1;dresden;dresden;0;1;0;0
+3917;1;fleck;flecked;0;0;1;0
+3918;1;crane;crane;1;0;0;0
+3919;1;splinter;splintered;0;0;1;0
+3920;1;predit;predit;1;0;0;0
+3921;1;retain;retains;0;0;1;0
+3922;1;craze;crazed;0;0;1;0
+3923;1;stench;stench;1;0;0;0
+3924;1;tasti;tasty;0;1;0;0
+3925;1;derang;deranges;0;0;1;0
+3926;1;squeal;squealing;0;0;1;0
+3927;1;inject;injects;1;0;0;0
+3928;1;maximum;maximum;0;1;0;0
+3929;1;sleepless;sleepless;0;1;0;0
+3930;1;hater;hater;1;0;0;0
+3931;1;fingernail;fingernails;1;0;0;0
+3932;1;supervis;supervise;0;0;1;0
+3933;1;insati;insatiable;0;1;0;0
+3934;1;pant;panting;1;0;0;0
+3935;1;scabbard;scabbards;1;0;0;0
+3936;1;standoff;standoff;1;0;0;0
+3937;1;ceas;ceases;0;0;1;0
+3938;1;rent;rent;1;0;0;0
+3939;1;unmov;unmoved;0;1;0;0
+3940;1;palm;palm;1;0;0;0
+3941;1;sharpen;sharpened;0;0;1;0
+3942;1;local;local;0;1;0;0
+3943;1;searchlight;searchlight;0;0;1;0
+3944;1;toodeloo;toodeloo;1;0;0;0
+3945;1;inexperi;inexperience;1;0;0;0
+3946;1;unwil;unwilling;0;1;0;0
+3947;1;bornless;bornless;1;0;0;0
+3948;1;necess;necessity;1;0;0;0
+3949;1;scarlet;scarlet;1;0;0;0
+3950;1;nautilu;nautilus;0;1;0;0
+3951;1;execution;executioner;1;0;0;0
+3952;1;initi;initial;0;1;0;0
+3953;1;yorkshir;yorkshire;1;0;0;0
+3954;1;tomb;tomb;1;0;0;0
+3955;1;custom;custom;1;0;0;0
+3956;1;wallet;wallet;1;0;0;0
+3957;1;bill;bills;1;0;0;0
+3958;1;ahahahaha;ahahahaha;1;0;0;0
+3959;1;poker;poker;1;0;0;0
+3960;1;joker;joker;1;0;0;0
+3961;1;gratitud;gratitude;1;0;0;0
+3962;1;unveil;unveiling;0;0;1;0
+3963;1;naughtiest;naughtiest;0;1;0;0
+3964;1;neither;neither;0;0;0;1
+3965;1;useless;useless;0;1;0;0
+3966;1;limousin;limousine;1;0;0;0
+3967;1;opposit;opposition;1;0;0;0
+3968;1;reincarn;reincarnate;0;1;0;0
+3969;1;misus;misuse;1;0;0;0
+3970;1;produc;produced;0;0;1;0
+3971;1;maypol;maypole;0;1;0;0
+3972;1;molest;molest;0;1;0;0
+3973;1;mimic;mimics;0;0;1;0
+3974;1;ohwoaowoa;ohwoaowoa;1;0;0;0
+3975;1;cough;coughs;0;0;1;0
+3976;1;ol;ol;0;1;0;0
+3977;1;rebuf;rebuffed;0;0;1;0
+3978;1;monument;monuments;1;0;0;0
+3979;1;fokker;fokker;1;0;0;0
+3980;1;testament;testament;1;0;0;0
+3981;1;crocodil;crocodile;0;1;0;0
+3982;1;quid;quid;1;0;0;0
+3983;1;cleaner;cleaner;0;1;0;0
+3984;1;surmount;surmounting;1;0;0;0
+3985;1;nicko;nicko;0;0;0;1
+3986;1;councillor;councillors;1;0;0;0
+3987;1;mistreat;mistreat;1;0;0;0
+3988;1;whet;whet;0;0;1;0
+3989;1;bloodlust;bloodlust;1;0;0;0
+3990;1;stink;stinks;0;0;1;0
+3991;1;radar;radar;1;0;0;0
+3992;1;ding;ding;0;0;1;0
+3993;1;brief;brief;1;0;0;0
+3994;1;georgia;georgia;1;0;0;0
+3995;1;ghoul;ghouls;1;0;0;0
+3996;1;leer;leers;1;0;0;0
+3997;1;barroom;barroom;1;0;0;0
+3998;1;catapult;catapult;0;0;1;0
+3999;1;contort;contorted;0;1;0;0
+4000;1;ounc;ounce;1;0;0;0
+4001;1;fiber;fiber;1;0;0;0
+4002;1;resolut;resolution;1;0;0;0
+4003;1;whine;whine;0;0;1;0
+4004;1;shimmer;shimmering;0;0;1;0
+4005;1;spring;spring;1;0;0;0
+4006;1;afar;afar;0;1;0;0
+4007;1;magnet;magnetic;0;1;0;0
+4008;1;stream;streams;1;0;0;0
+4009;1;sapphir;sapphire;1;0;0;0
+4010;1;wrestl;wrestling;1;0;0;0
+4011;1;bruis;bruised;0;0;1;0
+4012;1;furiou;furious;0;1;0;0
+4013;1;acceler;accelerate;0;0;1;0
+4014;1;deton;detonate;0;0;1;0
+4015;1;whoever;whoever;0;0;0;1
+4016;1;contend;contend;0;0;1;0
+4017;1;classi;classy;0;1;0;0
+4018;1;flashi;flashy;0;1;0;0
+4019;1;pint;pint;1;0;0;0
+4020;1;lassi;lassy;0;1;0;0
+4021;1;gin;gin;1;0;0;0
+4022;1;satiat;satiates;0;0;1;0
+4023;1;talon;talons;1;0;0;0
+4024;1;disorient;disorientate;0;0;1;0
+4025;1;lesser;lesser;0;1;0;0
+4026;1;discrimin;discriminate;0;0;1;0
+4027;1;incrimin;incriminate;0;0;1;0
+4028;1;skeptic;skeptics;1;0;0;0
+4029;1;excav;excavate;0;0;1;0
+4030;1;author;authority;1;0;0;0
+4031;1;flaw;flaw;1;0;0;0
+4032;1;slaught;slaught;0;0;1;0
+4033;1;extinguish;extinguished;0;0;1;0
+4034;1;eventid;eventide;1;0;0;0
+4035;1;smoker;smoker;1;0;0;0
+4036;1;ala;alas;0;0;0;1
+4037;1;aftershock;aftershock;1;0;0;0
+4038;1;aftermath;aftermath;0;0;0;1
+4039;1;blur;blurred;0;0;1;0
+4040;1;godforsaken;godforsaken;0;1;0;0
+4041;1;fume;fumes;1;0;0;0
+4042;1;nighter;nighter;1;0;0;0
+4043;1;shockwav;shockwaves;0;0;1;0
+4044;1;layer;layer;1;0;0;0
+4045;1;resili;resilient;1;0;0;0
+4046;1;hilt;hilt;1;0;0;0
+4047;1;unearth;unearthing;0;0;1;0
+4048;1;headlong;headlong;0;0;0;1
+4049;1;hardli;hardly;0;0;0;1
+4050;1;countdown;countdown;1;0;0;0
+4051;1;obituari;obituary;0;1;0;0
+4052;1;noos;noose;0;1;0;0
+4053;1;upturn;upturned;0;1;0;0
+4054;1;underhand;underhanded;0;1;0;0
+4055;1;decept;deception;1;0;0;0
+4056;1;smother;smothered;0;0;1;0
+4057;1;relish;relishes;0;0;1;0
+4058;1;hostag;hostage;1;0;0;0
+4059;1;powerless;powerless;0;0;1;0
+4060;1;sip;sip;0;0;1;0
+4061;1;obliter;obliterations;1;0;0;0
+4062;1;delight;delights;0;0;1;0
+4063;1;oyster;oyster;1;0;0;0
+4064;1;instant;instant;1;0;0;0
+4065;1;dealer;dealers;1;0;0;0
+4066;1;expel;expelled;0;0;1;0
+4067;1;paratam;paratamize;0;0;1;0
+4068;1;ralli;rally;0;0;0;1
+4069;1;battlement;battlements;1;0;0;0
+4070;1;gomorrah;gomorrah;1;0;0;0
+4071;1;purg;purging;0;0;1;0
+4072;1;amus;amusing;0;1;0;0
+4073;1;magnifi;magnifying;0;0;1;0
+4074;1;resign;resignment;1;0;0;0
+4075;1;hog;hog;1;0;0;0
+4076;1;squad;squad;1;0;0;0
+4077;1;verdict;verdict;1;0;0;0
+4078;1;extric;extricate;0;0;1;0
+4079;1;immobil;immobilized;0;0;1;0
+4080;1;temperatur;temperature;1;0;0;0
+4081;1;elimin;eliminate;0;0;1;0
+4082;1;condescend;condescending;1;0;0;0
+4083;1;preced;precedents;1;0;0;0
+4084;1;deterr;deterrent;1;0;0;0
+4085;1;acquit;acquitted;0;1;0;0
+4086;1;lever;lever;1;0;0;0
+4087;1;homicid;homicide;0;0;0;1
+4088;1;relat;related;0;0;1;0
+4089;1;stress;stress;0;0;1;0
+4090;1;smithereen;smithereens;0;0;1;0
+4091;1;peer;peering;1;0;0;0
+4092;1;fascin;fascinating;0;0;1;0
+4093;1;verg;verge;1;0;0;0
+4094;1;licens;license;1;0;0;0
+4095;1;pink;pink;1;0;0;0
+4096;1;equip;equipped;0;0;1;0
+4097;1;error;error;1;0;0;0
+4098;1;obedi;obedient;0;1;0;0
+4099;1;spooki;spooky;1;0;0;0
+4100;1;despit;despite;0;0;0;1
+4101;1;woe;woe;0;0;1;0
+4102;1;desensit;desensitize;0;0;1;0
+4103;1;slap;slapped;0;0;1;0
+4104;1;stereo;stereo;1;0;0;0
+4105;1;purgatori;purgatory;0;1;0;0
+4106;1;hereaft;hereafter;0;1;0;0
+4107;1;prolong;prolonged;0;1;0;0
+4108;1;hord;hordes;1;0;0;0
+4109;1;microwav;microwave;1;0;0;0
+4110;1;sputter;sputtered;0;0;1;0
+4111;1;hath;hath;0;0;1;0
+4112;1;acrobat;acrobat;1;0;0;0
+4113;1;wow;wow;1;0;0;0
+4114;1;experienc;experienced;0;0;1;0
+4115;1;inabl;inability;1;0;0;0
+4116;1;deeper;deeper;0;1;0;0
+4117;1;lier;lier;0;1;0;0
+4118;1;smaller;smaller;0;1;0;0
+4119;1;jester;jester;1;0;0;0
+4120;1;abjur;abjure;0;0;1;0
+4121;1;clown;clown;1;0;0;0
+4122;1;bargain;bargain;0;0;1;0
+4123;1;regul;regulate;0;0;1;0
+4124;1;truckin;truckin;1;0;0;0
+4125;1;enola;enola;1;0;0;0
+4126;1;nazi;nazi;0;1;0;0
+4127;1;recogniz;recognizable;0;1;0;0
+4128;1;cadillac;cadillac;1;0;0;0
+4129;1;instantli;instantly;0;0;0;1
+4130;1;transport;transported;0;0;1;0
+4131;1;satellit;satellite;0;1;0;0
+4132;1;circu;circus;1;0;0;0
+4133;1;charli;charlie;1;0;0;0
+4134;1;lincoln;lincoln;1;0;0;0
+4135;1;100;100;0;0;0;1
+4136;1;acacia;acacia;0;1;0;0
+4137;1;reptil;reptile;1;0;0;0
+4138;1;steril;sterilize;0;0;1;0
+4139;1;forecast;forecast;1;0;0;0
+4140;1;cologn;cologne;1;0;0;0
+4141;1;spiritualist;spiritualist;1;0;0;0
+4142;1;stalem;stalemate;1;0;0;0
+4143;1;contagi;contagious;0;1;0;0
+4144;1;heineken;heineken;1;0;0;0
+4145;1;suspend;suspended;0;0;1;0
+4146;1;suspens;suspension;1;0;0;0
+4147;1;interrog;interrogate;0;0;1;0
+4148;1;elsewher;elsewhere;0;0;0;1
+4149;1;conclus;conclusion;1;0;0;0
+4150;1;further;furtherance;1;0;0;0
+4151;1;raini;rainy;1;0;0;0
+4152;1;rectifi;rectify;0;0;1;0
+4153;1;devot;devoted;0;0;1;0
+4154;1;callin;callin;1;0;0;0
+4155;1;ridden;ridden;0;0;1;0
+4156;1;thanksgiv;thanksgiving;0;0;1;0
+4157;1;contempt;contempt;1;0;0;0
+4158;1;someway;someway;0;0;0;1
+4159;1;goat;goat;1;0;0;0
+4160;1;perman;permanent;0;1;0;0
+4161;1;sake;sake;1;0;0;0
+4162;1;spoon;spoons;1;0;0;0
+4163;1;superstit;superstition;1;0;0;0
+4164;1;camera;camera;1;0;0;0
+4165;1;prentend;prentend;0;0;1;0
+4166;1;degrad;degrade;0;0;1;0
+4167;1;spectacl;spectacle;1;0;0;0
+4168;1;nobl;noble;0;1;0;0
+4169;1;transmiss;transmission;1;0;0;0
+4170;1;battleground;battleground;1;0;0;0
+4171;1;felon;felon;1;0;0;0
+4172;1;purest;purest;0;1;0;0
+4173;1;impress;impressions;1;0;0;0
+4174;1;choir;choir;1;0;0;0
+4175;1;medit;meditation;1;0;0;0
+4176;1;banish;banish;0;0;1;0
+4177;1;assign;assigned;0;0;1;0
+4178;1;amid;amid;0;0;0;1
+4179;1;fourteen;fourteen;0;0;1;0
+4180;1;puissant;puissant;0;1;0;0
+4181;1;beginn;beginner;1;0;0;0
+4182;1;jealousi;jealousy;1;0;0;0
+4183;1;greenest;greenest;0;1;0;0
+4184;1;agre;agree;0;0;1;0
+4185;1;bucket;bucket;1;0;0;0
+4186;1;complic;complication;1;0;0;0
+4187;1;regent;regent;1;0;0;0
+4188;1;stargaz;stargazer;1;0;0;0
+4189;1;sparkl;sparkle;0;0;1;0
+4190;1;combin;combination;1;0;0;0
+4191;1;croon;croon;1;0;0;0
+4192;1;unreservedli;unreservedly;0;0;0;1
+4193;1;unbear;unbearable;0;1;0;0
+4194;1;memor;memorize;0;0;1;0
+4195;1;cowardli;cowardly;0;1;0;0
+4196;1;supplic;supplicants;1;0;0;0
+4197;1;belial;belial;0;1;0;0
+4198;1;wilt;wilt;0;1;0;0
+4199;1;indominant;indominantable;0;1;0;0
+4200;1;frankfurt;frankfurt;1;0;0;0
+4201;1;endgam;endgame;1;0;0;0
+4202;1;wand;wand;1;0;0;0
+4203;1;bride;bride;1;0;0;0
+4204;1;cwazi;cwazy;0;1;0;0
+4205;1;wugbi;wugby;1;0;0;0
+4206;1;cwicket;cwicket;1;0;0;0
+4207;1;basebal;baseball;1;0;0;0
+4208;1;noah;noah;1;0;0;0
+4209;1;warp;warped;0;1;0;0
+4210;1;bavarian;bavarian;0;1;0;0
+4211;1;alp;alps;1;0;0;0
+4212;1;tetragrammaton;tetragrammaton;1;0;0;0
+4213;1;mesmeris;mesmerises;1;0;0;0
+4214;1;gentl;gentle;0;1;0;0
+4215;1;pie;pie;1;0;0;0
+4216;1;fremen;fremen;1;0;0;0
+4217;1;sandworm;sandworms;1;0;0;0
+4218;1;16;16;0;0;0;1
+4219;1;transpir;transpire;1;0;0;0
+4220;1;instinct;instinct;1;0;0;0
+4221;1;rear;rear;1;0;0;0
+4222;1;recip;recipe;1;0;0;0
+4223;1;casualti;casualties;1;0;0;0
+4224;1;bu;bus;1;0;0;0
+4225;1;reckon;reckon;1;0;0;0
+4226;1;limo;limos;1;0;0;0
+4227;1;pork;pork;1;0;0;0
+4228;1;outrag;outrages;1;0;0;0
+4229;1;assault;assault;1;0;0;0
+4230;1;overwhelm;overwhelming;0;0;1;0
+4231;1;whiplash;whiplashed;0;0;1;0
+4232;1;meself;meself;0;0;0;1
+4233;1;blizzard;blizzard;1;0;0;0
+4234;1;stricken;stricken;0;0;1;0
+4235;1;eventu;eventually;0;0;0;1
+4236;1;legless;legless;0;1;0;0
+4237;1;bean;beans;1;0;0;0
+4238;1;breakfast;breakfast;1;0;0;0
+4239;1;wodney;wodney;1;0;0;0
+4240;1;fuss;fuss;1;0;0;0
+4241;1;footbal;football;1;0;0;0
+4242;1;faction;factions;1;0;0;0
+4243;1;festiv;festive;0;1;0;0
+4244;1;maintain;maintain;0;0;1;0
+4245;1;apologis;apologise;0;0;1;0
+4246;1;courtyard;courtyard;1;0;0;0
+4247;1;relax;relaxed;0;0;1;0
+4248;1;confid;confident;0;1;0;0
+4249;1;weвђ;weвђ;0;0;1;0
+4250;1;prosper;prosperity;1;0;0;0
+4251;1;burp;burps;1;0;0;0
+4252;1;sixti;sixty;0;1;0;0
+4253;1;darkpeac;darkpeace;1;0;0;0
+4254;1;bishop;bishops;1;0;0;0
+4255;1;populac;populace;1;0;0;0
+4256;1;caladan;caladan;1;0;0;0
+4257;1;haderach;haderach;1;0;0;0
+4258;1;kwizatz;kwizatz;0;1;0;0
+4259;1;dib;dib;1;0;0;0
+4260;1;muad;muad;1;0;0;0
+4261;1;object;objection;1;0;0;0
+4262;1;newli;newly;0;0;0;1
+4263;1;jabbar;jabbar;1;0;0;0
+4264;1;intensifi;intensify;1;0;0;0
+4265;1;inspect;inspection;1;0;0;0
+4266;1;teas;tease;0;0;1;0
+4267;1;bandolero;bandolero;1;0;0;0
+4268;1;risk;risk;1;0;0;0
+4269;1;bee;bees;1;0;0;0
+4270;1;entertain;entertain;0;0;1;0
+4271;1;jimmi;jimmy;1;0;0;0
+4272;1;gay;gay;1;0;0;0
+4273;1;cancel;cancel;0;0;1;0
+4274;1;phrase;phrased;0;0;1;0
+4275;1;anoint;anointing;0;0;1;0
+4276;1;charad;charade;1;0;0;0
+4277;1;pawn;pawn;1;0;0;0
+4278;1;gom;gom;1;0;0;0
+4279;1;arraki;arrakis;1;0;0;0
+4280;1;treatment;treatment;1;0;0;0
+4281;1;frighten;frightened;0;0;1;0
+4282;1;troop;troops;1;0;0;0
+4283;1;occas;occasion;1;0;0;0
+4284;1;persist;persist;1;0;0;0
+4285;1;unforgett;unforgettable;0;1;0;0
+4286;1;backroad;backroads;1;0;0;0
+4287;1;loudli;loudly;0;0;0;1
+4288;1;rime;rime;1;0;0;0
+4289;1;dinosaur;dinosaurs;1;0;0;0
+4290;1;ghastli;ghastly;0;0;0;1
+4291;1;pang;pang;1;0;0;0
+4292;1;spice;spice;1;0;0;0
+4293;1;ador;adored;0;1;0;0
+4294;1;trait;traits;1;0;0;0
+4295;1;outgrown;outgrown;0;0;1;0
+4296;1;foolhardi;foolhardy;0;1;0;0
+4297;1;misjudg;misjudged;0;0;1;0
+4298;1;elohim;elohim;0;1;0;0
+4299;1;reward;rewarded;0;0;1;0
+4300;1;adonai;adonai;0;1;0;0
+4301;1;marbl;marbled;0;0;1;0
+4302;1;mice;mice;1;0;0;0
+4303;1;relief;relief;1;0;0;0
