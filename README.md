@@ -4,7 +4,7 @@
 
 <b>Мой стек технологий:</b>
 
-- Python (pandas, matplotlib, seaborn, plotly, numpy, scipy)
+- Python (`pandas`, matplotlib, seaborn, plotly, numpy, scipy)
 - SQL (преимущественно - Postgresql)
 - Tableau и Power BI 
 - MS Excel
