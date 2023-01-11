@@ -1,4 +1,5 @@
-<p style="text-align: center;"><img src="https://pngicon.ru/file/uploads/target-128x128.png" title="1" alt="1" width="256" height="256"/></p>
+| <img src="https://pngicon.ru/file/uploads/target-128x128.png" title="1" alt="1" width="128" height="128"/> |
+| :----------------------: |
 
 **На этой странице собраны мои законченные пет-проекты. Некоторые из них были выполнены мной по собственной задумке, некоторые - в рамках заданий по учебным программам.**
 
